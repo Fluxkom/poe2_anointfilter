@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Path of Exile - Anoint Finder</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #2a2a2a;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+        }
+
+        h1 {
+            color: #ffaf00; /* PoE Orange */
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            color: #cccccc;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #444;
+            padding-bottom: 5px;
+        }
+
+        .filter-section {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+
+         .filter-section h3 {
+             margin-top: 0;
+             color: #ddd;
+             margin-bottom: 15px;
+         }
+
+        #emotionSelection {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Wider columns for count */
+            gap: 15px; /* Increased gap */
+            margin-bottom: 20px;
+        }
+
+        .emotion-control {
+            display: flex;
+            align-items: center;
+            background-color: #404040;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #555;
+            transition: background-color 0.2s ease;
+        }
+         .emotion-control:hover {
+             background-color: #484848;
+         }
+
+        .emotion-control input[type="checkbox"] {
+            margin-right: 8px;
+            accent-color: #ffaf00; /* PoE Orange for checkbox */
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            flex-shrink: 0; /* Prevent checkbox shrinking */
+        }
+
+         .emotion-control label {
+             flex-grow: 1;
+             margin-right: 10px;
+             cursor: pointer;
+             /* Prevent text selection when clicking */
+             -webkit-user-select: none; /* Safari */
+             -ms-user-select: none; /* IE 10 and IE 11 */
+             user-select: none; /* Standard syntax */
+             overflow: hidden; /* Prevent long labels breaking layout */
+             text-overflow: ellipsis;
+             white-space: nowrap;
+         }
+
+        .emotion-control select {
+            padding: 3px 5px;
+            background-color: #555;
+            color: #e0e0e0;
+            border: 1px solid #666;
+            border-radius: 3px;
+            font-size: 0.9em;
+            min-width: 50px; /* Ensure select is not too small */
+            cursor: pointer;
+            flex-shrink: 0; /* Prevent select shrinking */
+        }
+
+        #searchContainer {
+            margin-top: 20px;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #555;
+            background-color: #404040;
+            color: #e0e0e0;
+            border-radius: 4px;
+            box-sizing: border-box; /* Include padding in width */
+            font-size: 1em;
+        }
+         #searchInput::placeholder {
+             color: #aaa;
+         }
+
+
+        #resultsTable {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            table-layout: fixed; /* Helps with column widths */
+        }
+
+        #resultsTable th, #resultsTable td {
+            border: 1px solid #444;
+            padding: 10px 12px;
+            text-align: left;
+            vertical-align: top;
+            word-wrap: break-word; /* Allow long words/effects to wrap */
+        }
+
+        #resultsTable th {
+            background-color: #3a3a3a;
+            color: #ffaf00; /* PoE Orange */
+            font-weight: bold;
+            position: sticky; /* Make header sticky */
+            top: 0; /* Stick to the top */
+            z-index: 1; /* Ensure header is above table rows */
+        }
+        /* Define column widths */
+        #resultsTable th:nth-child(1), #resultsTable td:nth-child(1) { width: 25%; } /* Name */
+        #resultsTable th:nth-child(2), #resultsTable td:nth-child(2) { width: 55%; } /* Effect */
+        #resultsTable th:nth-child(3), #resultsTable td:nth-child(3) { width: 20%; } /* Combination */
+
+
+        #resultsTable tbody tr:nth-child(odd) {
+            background-color: #303030;
+        }
+         #resultsTable tbody tr:nth-child(even) {
+            background-color: #2a2a2a;
+        }
+
+        #resultsTable tbody tr:hover {
+            background-color: #454545;
+        }
+
+        #resultsTable .anoint-name {
+            font-weight: bold;
+            color: #f0f0f0;
+        }
+
+         #resultsTable .anoint-effect {
+            color: #c0c0c0;
+         }
+
+         #resultsTable .anoint-combo {
+            color: #a0a0a0;
+            font-style: italic;
+            white-space: normal; /* Allow combo wrapping if needed */
+         }
+         #resultsTable .anoint-combo span {
+             white-space: nowrap; /* Keep individual emotion names together */
+         }
+
+        #noResultsMessage, #loadingMessage, #errorMessage {
+            text-align: center;
+            padding: 20px;
+            font-style: italic;
+            color: #888;
+            display: none; /* Hidden by default */
+            margin-top: 15px;
+            background-color: #333;
+            border-radius: 4px;
+        }
+        #errorMessage {
+            color: #ff6666; /* Red for errors */
+            font-weight: bold;
+        }
+
+        /* Emotion Color Mapping */
+        .emotion-Ire { border-left: 4px solid #ff4d4d; } /* Red */
+        .emotion-Guilt { border-left: 4px solid #4da6ff; } /* Blue */
+        .emotion-Greed { border-left: 4px solid #ffd700; } /* Gold */
+        .emotion-Paranoia { border-left: 4px solid #cc66ff; } /* Purple */
+        .emotion-Envy { border-left: 4px solid #66ff66; } /* Green */
+        .emotion-Disgust { border-left: 4px solid #ff8c1a; } /* Orange */
+        .emotion-Despair { border-left: 4px solid #808080; } /* Gray */
+        .emotion-Fear { border-left: 4px solid #000000; color: #ccc; } /* Black */
+        .emotion-Suffering { border-left: 4px solid #b30000; } /* Dark Red */
+        .emotion-Isolation { border-left: 4px solid #ffffff; color: #333 } /* White */
+
+        /* Combo Text Colors */
+        .combo-Ire { color: #ff4d4d; font-weight: bold; }
+        .combo-Guilt { color: #4da6ff; font-weight: bold; }
+        .combo-Greed { color: #ffd700; font-weight: bold; }
+        .combo-Envy { color: #66ff66; font-weight: bold; }
+        .combo-Paranoia { color: #cc66ff; font-weight: bold; }
+        .combo-Disgust { color: #ff8c1a; font-weight: bold; }
+        .combo-Despair { color: #a0a0a0; font-weight: bold; }
+        .combo-Fear { color: #555; font-weight: bold; }
+        .combo-Suffering { color: #b30000; font-weight: bold; }
+        .combo-Isolation { color: #f0f0f0; font-weight: bold; }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Path of Exile - Anoint Finder</h1>
+
+        <div class="filter-section">
+            <h3>Filteroptionen</h3>
+            <div id="emotionSelection">
+                <!-- Controls werden hier per JavaScript eingefügt -->
+            </div>
+            <div id="searchContainer">
+                 <input type="text" id="searchInput" placeholder="Suche nach Name oder Effekt...">
+            </div>
+        </div>
+
+
+        <h2>Mögliche Anoints (<span id="resultCount">...</span>):</h2>
+        <div id="results">
+             <div id="loadingMessage">Lade Anoint-Daten...</div>
+             <div id="errorMessage"></div>
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Anoint Effekt</th>
+                        <th>Kombination</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsTableBody">
+                    <!-- Ergebnisse werden hier per JavaScript eingefügt -->
+                </tbody>
+            </table>
+            <div id="noResultsMessage">Keine passenden Anoints für die aktuellen Filter gefunden.</div>
+        </div>
+    </div>
+
+    <script>
+        // --- Global Variables ---
+        let anointsData = []; // Will be filled by fetching JSON
+        const specificEmotionOrder = ['Ire', 'Guilt', 'Greed', 'Paranoia', 'Envy', 'Disgust', 'Despair', 'Fear', 'Suffering', 'Isolation'];
+
+        // --- DOM Element References ---
+        const emotionSelectionDiv = document.getElementById('emotionSelection');
+        const searchInput = document.getElementById('searchInput');
+        const resultsTableBody = document.getElementById('resultsTableBody');
+        const noResultsMessage = document.getElementById('noResultsMessage');
+        const loadingMessage = document.getElementById('loadingMessage');
+        const errorMessage = document.getElementById('errorMessage');
+        const resultCountSpan = document.getElementById('resultCount');
+
+        // --- Helper Functions ---
+        function countItems(arr) {
+            return arr.reduce((acc, item) => {
+                acc[item] = (acc[item] || 0) + 1;
+                return acc;
+            }, {});
+        }
+
+        function formatCombination(combinations) {
+            return combinations.map(combo => `<span class="combo-${combo}">${combo}</span>`).join(', ');
+        }
+
+        // --- Core Functions ---
+
+        // 2. Create controls (checkbox + count select) for each emotion in the specified order
+        function populateEmotionControls() {
+            emotionSelectionDiv.innerHTML = ''; // Clear existing
+            specificEmotionOrder.forEach(emotion => {
+                const controlDiv = document.createElement('div');
+                controlDiv.classList.add('emotion-control');
+                controlDiv.classList.add(`emotion-${emotion}`); // Add class for styling
+
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = emotion;
+                checkbox.id = `check-${emotion}`;
+                checkbox.checked = true; // Default to checked
+                checkbox.addEventListener('change', applyFilters);
+
+                const label = document.createElement('label');
+                label.htmlFor = `check-${emotion}`; // Link label to checkbox
+                label.textContent = emotion;
+
+                const select = document.createElement('select');
+                select.id = `count-${emotion}`;
+                select.addEventListener('change', applyFilters);
+                ['1', '2', '3'].forEach(num => {
+                    const option = document.createElement('option');
+                    option.value = num;
+                    option.textContent = (num === '3') ? '3+' : num;
+                    if (num === '3') {
+                        option.selected = true; // Default to 3+
+                    }
+                    select.appendChild(option);
+                });
+
+                controlDiv.appendChild(checkbox);
+                controlDiv.appendChild(label);
+                controlDiv.appendChild(select);
+                emotionSelectionDiv.appendChild(controlDiv);
+            });
+        }
+
+
+        // 4. Display the filtered anoints in the table
+        function displayAnoints(filteredData) {
+            resultsTableBody.innerHTML = ''; // Clear previous results
+            resultCountSpan.textContent = filteredData.length; // Update count display
+
+            // Hide loading/error messages before potentially showing noResultsMessage
+            loadingMessage.style.display = 'none';
+            errorMessage.style.display = 'none';
+
+
+            if (filteredData.length === 0) {
+                noResultsMessage.style.display = 'block';
+            } else {
+                noResultsMessage.style.display = 'none';
+                filteredData.forEach(anoint => {
+                    const row = resultsTableBody.insertRow();
+
+                    const nameCell = row.insertCell();
+                    nameCell.textContent = anoint.Name;
+                    nameCell.classList.add('anoint-name');
+
+                    const effectCell = row.insertCell();
+                    effectCell.textContent = anoint['Anoint Effect'];
+                    effectCell.classList.add('anoint-effect');
+
+                    const comboCell = row.insertCell();
+                    comboCell.innerHTML = formatCombination(anoint.Combinations);
+                    comboCell.classList.add('anoint-combo');
+                });
+            }
+        }
+
+
+        // 3. Filter anoints based on ALL criteria (checkboxes, counts, search)
+        function applyFilters() {
+             if (!anointsData || anointsData.length === 0) {
+                console.warn("Attempted to filter before data was loaded.");
+                return; // Don't filter if data isn't ready
+             }
+
+            // --- Get Filter Values ---
+            const selectedEmotionsCheckboxes = emotionSelectionDiv.querySelectorAll('input[type="checkbox"]:checked');
+            const selectedEmotions = Array.from(selectedEmotionsCheckboxes).map(cb => cb.value);
+
+            const availableCounts = {};
+            specificEmotionOrder.forEach(emotion => { // Iterate through all possible emotions to get counts
+                const checkbox = document.getElementById(`check-${emotion}`);
+                if (checkbox && checkbox.checked) { // Only get count if checked
+                    const selectElement = document.getElementById(`count-${emotion}`);
+                    availableCounts[emotion] = parseInt(selectElement.value, 10);
+                }
+            });
+
+            const searchTerm = searchInput.value.toLowerCase().trim();
+
+            // --- Apply Filters ---
+            let filteredResults = anointsData.filter(anoint => {
+
+                // --- Filter 1: Checkbox Selection ---
+                const hasAllRequiredEmotions = anoint.Combinations.every(requiredEmotion =>
+                    selectedEmotions.includes(requiredEmotion)
+                );
+                if (!hasAllRequiredEmotions) {
+                    return false;
+                }
+
+                // --- Filter 2: Emotion Counts ---
+                const requiredCounts = countItems(anoint.Combinations);
+                for (const emotion in requiredCounts) {
+                    const needed = requiredCounts[emotion];
+                    // Check if the emotion is selected AND if enough are available
+                    if (!availableCounts.hasOwnProperty(emotion) || needed > availableCounts[emotion]) {
+                         return false; // Fails count filter (either not selected or not enough available)
+                    }
+                }
+
+                // --- Filter 3: Search Term ---
+                if (searchTerm) {
+                    const nameLower = anoint.Name.toLowerCase();
+                    const effectLower = anoint['Anoint Effect'].toLowerCase();
+                    if (!nameLower.includes(searchTerm) && !effectLower.includes(searchTerm)) {
+                        return false;
+                    }
+                }
+
+                return true; // Passes all filters
+            });
+
+            // --- Display Results ---
+            displayAnoints(filteredResults);
+        }
+
+        // 1. Initialize: Fetch data, then populate controls and display initial results
+        async function initializeTool() {
+             loadingMessage.style.display = 'block'; // Show loading message
+             errorMessage.style.display = 'none';
+             noResultsMessage.style.display = 'none';
+             resultsTableBody.innerHTML = ''; // Clear table while loading
+             resultCountSpan.textContent = '...';
+
+
+            try {
+                const response = await fetch('anoints_data.json'); // Fetch the external file
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                anointsData = await response.json(); // Parse the JSON data
+
+                 // Now that data is loaded, proceed with setup
+                 populateEmotionControls();
+                 searchInput.addEventListener('input', applyFilters);
+                 applyFilters(); // Apply filters to show initial (all) results
+
+            } catch (error) {
+                 console.error('Error loading or parsing anoints_data.json:', error);
+                 loadingMessage.style.display = 'none';
+                 errorMessage.textContent = `Fehler beim Laden der Daten (${error.message}). Stelle sicher, dass die Datei 'anoints_data.json' im selben Ordner wie die HTML-Datei liegt und korrekt formatiert ist.`;
+                 errorMessage.style.display = 'block';
+                 resultCountSpan.textContent = 'Fehler';
+            }
+        }
+
+        // --- Start the initialization process ---
+        document.addEventListener('DOMContentLoaded', initializeTool);
+
+    </script>
+
+</body>
+</html>
