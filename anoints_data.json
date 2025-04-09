@@ -548,5 +548,5 @@
           { "Name": "Wild Storm", "Anoint Effect": "15% more Maximum Lightning Damage", "Combinations": ["Isolation", "Fear", "Isolation"] },
           { "Name": "Lightning Rod", "Anoint Effect": "Lightning Damage with Non-Critical Hits is Lucky", "Combinations": ["Suffering", "Isolation", "Isolation"] },
           { "Name": "Prism Guard", "Anoint Effect": "+1% to all Maximum Elemental Resistances +5% to all Elemental Resistances", "Combinations": ["Isolation", "Isolation", "Suffering"] },
-          { "Name": "Unnatural Resilience", "Anoint Effect": "2% to Maximum Fire Resistance for each 40% Uncapped Fire Resistance", "Combinations": ["Isolation", "Isolation", "Isolation"]}
+          { "Name": "Unnatural Resilience", "Anoint Effect": "2% to Maximum Fire Resistance for each 40% Uncapped Fire Resistance", "Combinations": ["Isolation", "Isolation", "Isolation"] }
                     ]
