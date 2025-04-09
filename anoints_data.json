@@ -1,2201 +1,551 @@
-Stance Breaker
-Anoint Effect: 50% reduced Enemy Chance to Block Sword Attacks
-Distilled Emotions Combinations: (Ire, Guilt, Guilt)
-
-Open Mind
-
-Anoint Effect: 25% increased Mana Regeneration Rate
-Distilled Emotions Combinations: (Guilt, Guilt, Ire)
-
-Blinding Flash
-Anoint Effect: 20% increased Blind Effect Blind Enemies when they Stun you
-Distilled Emotions Combinations: (Ire, Guilt, Ire)
-
-Insulated Treads
-Anoint Effect: Gain Ailment Threshold equal to the lowest of Evasion and Armour on your Boots
-Distilled Emotions Combinations: (Ire, Ire, Ire)
-
-High Alert
-Anoint Effect: 50% increased Evasion Rating when on Full Life 25% increased Stun Threshold while on Full Life
-Distilled Emotions Combinations: (Ire, Ire, Greed)
-
-Combat Alchemy
-Anoint Effect: 10% chance for Flasks you use to not consume Charges 20% increased Life and Mana Recovery from Flasks
-Distilled Emotions Combinations: (Guilt, Greed, Ire)
-
-Eagle Eye
-Anoint Effect: +30 to Accuracy Rating 10% increased Accuracy Rating
-Distilled Emotions Combinations: (Ire, Greed, Guilt)
-
-Defensive Reflexes
-Anoint Effect: 12% increased Block chance 2 Mana gained when you Block
-Distilled Emotions Combinations: (Greed, Ire, Ire)
-
-Volatile Catalyst
-Anoint Effect: 10% increased Area of Effect 10% increased Cooldown Recovery Rate
-Distilled Emotions Combinations: (Greed, Guilt, Ire)
-
-Back in Action
-Anoint Effect: 80% increased Stun Recovery
-Distilled Emotions Combinations: (Ire, Guilt, Greed)
-
-Hard to Kill
-Anoint Effect: 40% increased Flask Life Recovery rate Regenerate 0.75% of Life per second
-Distilled Emotions Combinations: (Guilt, Greed, Guilt)
-
-Investing Energies
-Anoint Effect: 40% increased Mana Regeneration Rate while stationary 20% reduced Mana Regeneration Rate while moving
-
-Distilled Emotions Combinations: (Ire, Ire, Envy)
-
-Deadly Flourish
-Anoint Effect: 20% increased Melee Critical Hit Chance melee critical strike chance +% when on full life [20]
-Distilled Emotions Combinations: (Envy, Ire, Guilt)
-
-Vigilance
-Anoint Effect: 12% increased Block chance 6 Life gained when you Block
-Distilled Emotions Combinations: (Guilt, Envy, Guilt)
-
-Critical Overload
-Anoint Effect: 15% increased Critical Hit Chance for Spells 15% increased Spell Damage if you've dealt a Critical Hit Recently
-Distilled Emotions Combinations: (Guilt, Envy, Ire)
-
-Altered Brain Chemistry
-Anoint Effect: 25% increased Mana Recovery from Flasks 10% increased Mana Recovery Rate during Effect of any Mana Flask
-Distilled Emotions Combinations: (Ire, Envy, Guilt)
-
-Defiance
-Anoint Effect: 80% increased Armour and Evasion Rating when on Low Life
-Distilled Emotions Combinations: (Envy, Guilt, Ire)
-
-Deft Recovery
-Anoint Effect: 30% increased Stun Recovery 30% increased Stun Threshold if you haven't been Stunned Recently
-Distilled Emotions Combinations: (Envy, Ire, Ire)
-
-Flashy Deflection
-Anoint Effect: 12% increased Block chance 40% increased Defences from Equipped Shield
-Distilled Emotions Combinations: (Greed, Guilt, Greed)
-
-Backup Plan
-Anoint Effect: 40% increased Evasion Rating if you have been Hit Recently 40% increased Armour if you haven't been Hit Recently
-Distilled Emotions Combinations: (Greed, Greed, Ire)
-
-Sharpened Claw
-Anoint Effect: 25% increased Attack Damage
-Distilled Emotions Combinations: (Ire, Greed, Greed)
-
-Heavy Ammunition
-Anoint Effect: 8% reduced Attack Speed 40% increased Projectile Damage 40% increased Projectile Stun Buildup
-Distilled Emotions Combinations: (Guilt, Greed, Greed)
-
-Smooth Buckler
-Anoint Effect: 12% increased Block chance 10 Mana gained when you Block
-Distilled Emotions Combinations: (Guilt, Envy, Greed)
-
-Thickened Arteries
-Anoint Effect: 5% reduced Movement Speed Regenerate 1% of Life per second while stationary
-Distilled Emotions Combinations: (Envy, Guilt, Greed)
-
-Cross Strike
-Anoint Effect: 20% increased Accuracy Rating while Dual Wielding 3% increased Movement Speed while Dual Wielding
-Distilled Emotions Combinations: (Guilt, Greed, Envy)
-
-Initiative
-Anoint Effect: 30% increased Melee Damage when on Full Life 16% increased Attack Speed if you haven't Attacked Recently
-Distilled Emotions Combinations: (Greed, Ire, Envy)
-
-Practiced Signs
-Anoint Effect: 6% increased Cast Speed
-Distilled Emotions Combinations: (Greed, Guilt, Envy)
-
-Determined Precision
-Anoint Effect: 30% increased Accuracy Rating at Close Range +10 to Dexterity
-Distilled Emotions Combinations: (Ire, Greed, Envy)
-
-Taste for Blood
-Anoint Effect: Gain 20 Life per Enemy Killed 2% chance to Recover all Life when you Kill an Enemy
-Distilled Emotions Combinations: (Envy, Ire, Greed)
-
-Life from Death
-Anoint Effect: Recover 3% of Life on Kill
-Distilled Emotions Combinations: (Greed, Greed, Greed)
-
-Smash
-Anoint Effect: 20% increased Melee Damage 40% increased Melee Damage against Heavy Stunned enemies
-Distilled Emotions Combinations: (Envy, Envy, Ire)
-
-Resilient Soul
-Anoint Effect: 20% increased Life Regeneration rate 5% of Damage taken Recouped as Life
-Distilled Emotions Combinations: (Envy, Guilt, Envy)
-
-Self Mortification
-Anoint Effect: Gain 20% of maximum Energy Shield as additional Stun Threshold 20% increased Stun Threshold while on Full Life
-Distilled Emotions Combinations: (Ire, Envy, Envy)
-
-Arcane Alchemy
-Anoint Effect: Mana Flasks gain 0.1 charges per Second +10 to Intelligence
-Distilled Emotions Combinations: (Envy, Greed, Greed)
-
-Freedom of Movement
-Anoint Effect: 30% increased Evasion Rating 30% increased Evasion Rating if you've Dodge Rolled Recently
-Distilled Emotions Combinations: (Greed, Greed, Envy)
-
-Infused Flesh
-Anoint Effect: +20 to maximum Life 8% of Damage taken Recouped as Life
-Distilled Emotions Combinations: (Greed, Envy, Envy)
-
-Essence Infusion
-Anoint Effect: 40% increased Energy Shield Recharge Rate +10 to Intelligence
-Distilled Emotions Combinations: (Envy, Envy, Greed)
-
-Ether Flow
-Anoint Effect: 25% reduced Mana Regeneration Rate while stationary 50% increased Mana Regeneration Rate while moving
-Distilled Emotions Combinations: (Envy, Greed, Envy)
-
-Close Confines
-Anoint Effect: 25% chance for Projectiles to Pierce Enemies within 3m distance of you
-Distilled Emotions Combinations: (Ire, Paranoia, Ire)
-
-Catlike Agility
-Anoint Effect: 25% increased Evasion Rating 25% increased Evasion Rating if you've Dodge Rolled Recently
-Distilled Emotions Combinations: (Paranoia, Guilt, Ire)
-
-Seeing Stars
-Anoint Effect: 25% increased Daze Buildup 25% increased Daze Duration
-Distilled Emotions Combinations: (Ire, Guilt, Paranoia)
-
-Clear Space
-Anoint Effect: 20% increased Knockback Distance 20% chance to Knock Enemies Back with Hits at Close Range
-Distilled Emotions Combinations: (Paranoia, Guilt, Guilt)
-
-Careful Aim
-Anoint Effect: 16% increased Projectile Damage 40% increased Accuracy Rating at Close Range
-Distilled Emotions Combinations: (Guilt, Guilt, Paranoia)
-
-Briny Carapace
-Anoint Effect: 60% increased Stun Threshold for each time you've been Stunned Recently
-Distilled Emotions Combinations: (Guilt, Ire, Paranoia)
-
-Strong Chin
-Anoint Effect: Gain Stun Threshold equal to the lowest of Evasion and Armour on your Helmet
-Distilled Emotions Combinations: (Paranoia, Ire, Guilt)
-
-Heavy Drinker
-Anoint Effect: 30% increased Flask Effect Duration 20% increased Life Recovery from Flasks Recover 5% of Life when you use a Life Flask while on Low Life
-Distilled Emotions Combinations: (Envy, Envy, Envy)
-
-Stand Ground
-Anoint Effect: Regenerate 1% of Life per second while affected by any Damaging Ailment Regenerate 1% of Life per second while stationary
-Distilled Emotions Combinations: (Greed, Paranoia, Guilt)
-
-Mass Rejuvenation
-Anoint Effect: Regenerate 0.5% of Life per second Allies in your Presence Regenerate 1% of your Maximum Life per second
-Distilled Emotions Combinations: (Ire, Paranoia, Greed)
-
-Radial Force
-Anoint Effect: 10% increased Area of Effect 10% increased Area Damage
-Distilled Emotions Combinations: (Paranoia, Greed, Ire)
-
-Defender's Resolve
-Anoint Effect: 12% increased Block chance Stagger empties 50% faster while your Shield is lowered
-Distilled Emotions Combinations: (Guilt, Paranoia, Greed)
-
-Feel no Pain
-Anoint Effect: 20% increased Armour and Evasion Rating 20% increased Stun Threshold
-Distilled Emotions Combinations: (Paranoia, Greed, Guilt)
-
-Shockwaves
-Anoint Effect: 30% increased Area of Effect if you've Stunned an Enemy with a Two Handed Melee Weapon Recently
-Distilled Emotions Combinations: (Greed, Paranoia, Ire)
-
-Battle-hardened
-Anoint Effect: Hits against you have 20% reduced Critical Damage Bonus 20% increased Armour and Evasion Rating +5 to Strength and Dexterity
-Distilled Emotions Combinations: (Greed, Guilt, Paranoia)
-
-Primal Protection
-Anoint Effect: 25% increased Charm Effect Duration 25% increased Charm Charges gained
-Distilled Emotions Combinations: (Guilt, Greed, Paranoia)
-
-Fear of Death
-Anoint Effect: Minions have +150 to Accuracy Rating 25% increased Minion Accuracy Rating
-Distilled Emotions Combinations: (Envy, Paranoia, Guilt)
-
-Near Sighted
-Anoint Effect: 60% increased Accuracy Rating at Close Range
-Distilled Emotions Combinations: (Ire, Envy, Paranoia)
-
-Shedding Skin
-Anoint Effect: 40% increased Elemental Ailment Threshold 10% reduced Duration of Ailments on You
-Distilled Emotions Combinations: (Envy, Ire, Paranoia)
-
-Break Focus
-Anoint Effect: Enemies you Mark have 15% reduced Accuracy Rating
-Distilled Emotions Combinations: (Paranoia, Envy, Ire)
-
-Siphon
-Anoint Effect: Recover 2% of Mana on Kill 25% increased amount of Mana Leeched
-Distilled Emotions Combinations: (Paranoia, Envy, Guilt)
-
-Critical Exploit
-Anoint Effect: 25% increased Critical Hit Chance
-Distilled Emotions Combinations: (Envy, Paranoia, Ire)
-
-Killer Instinct
-Anoint Effect: 30% increased Attack Damage when on Full Life 50% increased Attack Damage when on Low Life
-Distilled Emotions Combinations: (Greed, Paranoia, Greed)
-
-Warding Potions
-Anoint Effect: 10% reduced Flask Charges used from Mana Flasks Remove a Curse when you use a Mana Flask
-Distilled Emotions Combinations: (Greed, Envy, Paranoia)
-
-Electrifying Nature
-Anoint Effect: 25% increased Lightning Damage 15% increased Shock Duration
-Distilled Emotions Combinations: (Envy, Greed, Paranoia)
-
-Ripping Blade
-Anoint Effect: 25% increased Damage with Swords
-Distilled Emotions Combinations: (Paranoia, Envy, Greed)
-
-Exposed Wounds
-Anoint Effect: 15% increased chance to inflict Ailments Break 30% increased Armour on enemies affected by Ailments
-Distilled Emotions Combinations: (Envy, Paranoia, Greed)
-
-True Strike
-Anoint Effect: +10 to Dexterity 20% increased Critical Hit Chance
-Distilled Emotions Combinations: (Ire, Guilt, Disgust)
-
-Flip the Script
-Anoint Effect: Recover 20% of Life when you Heavy Stun a Rare or Unique Enemy
-Distilled Emotions Combinations: (Ire, Disgust, Ire)
-
-Dispatch Foes
-Anoint Effect: 80% increased Critical Hit Chance if you haven't dealt a Critical Hit Recently
-Distilled Emotions Combinations: (Envy, Envy, Paranoia)
-
-Hulking Smash
-Anoint Effect: 30% increased Stun Buildup +15 to Strength
-Distilled Emotions Combinations: (Disgust, Guilt, Guilt)
-
-Relentless Vindicator
-Anoint Effect: 10% increased Damage 10% increased Critical Hit Chance +5 to Strength and Intelligence
-Distilled Emotions Combinations: (Envy, Paranoia, Envy)
-
-Sharp Sight
-Anoint Effect: 5% increased Attack Speed 30% increased Accuracy Rating against Rare or Unique Enemies
-Distilled Emotions Combinations: (Guilt, Disgust, Ire)
-
-Shrapnel
-Anoint Effect: 30% chance to Pierce an Enemy Projectiles have 10% chance to Chain an additional time from terrain
-Distilled Emotions Combinations: (Guilt, Guilt, Disgust)
-
-Rapid Recharge
-Anoint Effect: 25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge Witch: Minions have 15% increased maximum Life Witch: Minions Revive 15% faster
-Distilled Emotions Combinations: (Guilt, Ire, Disgust)
-
-Potent Concoctions
-Anoint Effect: Flasks applied to you have 25% increased Effect
-Distilled Emotions Combinations: (Disgust, Ire, Guilt)
-
-Remorseless
-Anoint Effect: 15% increased Projectile Damage 30% increased Stun Buildup against enemies within 2 metres +5 to Strength and Dexterity
-Distilled Emotions Combinations: (Greed, Disgust, Guilt)
-
-Roil
-Anoint Effect: Spell Skills have 30% increased Area of Effect 10% reduced Spell Area Damage
-Distilled Emotions Combinations: (Disgust, Greed, Ire)
-
-Wellspring
-Anoint Effect: 30% increased Mana Recovery from Flasks 8% increased Attack and Cast Speed during Effect of any Mana Flask
-Distilled Emotions Combinations: (Disgust, Greed, Guilt)
-
-Mental Perseverance
-Anoint Effect: 10% of Damage is taken from Mana before Life
-Distilled Emotions Combinations: (Ire, Disgust, Greed)
-
-Unerring Impact
-Anoint Effect: 10% increased Accuracy Rating with One Handed Melee Weapons 10% increased Accuracy Rating with Two Handed Melee Weapons +2 to Melee Strike Range
-Distilled Emotions Combinations: (Greed, Disgust, Ire)
-
-Afterimage
-Anoint Effect: 8% more chance to Evade Melee Attacks
-Distilled Emotions Combinations: (Guilt, Greed, Disgust)
-
-Preemptive Strike
-Anoint Effect: 100% increased Critical Damage Bonus against Enemies that are on Full Life
-Distilled Emotions Combinations: (Guilt, Disgust, Greed)
-
-Titan's Determination
-Anoint Effect: 25% increased Stun Threshold 20% increased Life Regeneration Rate while moving
-Distilled Emotions Combinations: (Ire, Paranoia, Paranoia)
-
-Pocket Sand
-Anoint Effect: 50% increased Blind Effect
-Distilled Emotions Combinations: (Paranoia, Guilt, Paranoia)
-
-Impenetrable Shell
-Anoint Effect: Defend with 150% of Armour against Attacks from further than 6m
-Distilled Emotions Combinations: (Paranoia, Paranoia, Ire)
-
-Arcane Mixtures
-Anoint Effect: 25% increased Energy Shield Recharge Rate Mana Flasks gain 0.1 charges per Second
-Distilled Emotions Combinations: (Paranoia, Paranoia, Guilt)
-
-Strong Links
-Anoint Effect: Link Skills have 20% increased Buff Effect Link Skills have 20% increased Skill Effect Duration
-Distilled Emotions Combinations: (Guilt, Disgust, Envy)
-
-Quick-change Act
-Anoint Effect: 50% increased Weapon Swap Speed
-Distilled Emotions Combinations: (Envy, Disgust, Ire)
-
-Catapult
-Anoint Effect: 15% increased Projectile Speed 15% increased Area of Effect for Attacks
-Distilled Emotions Combinations: (Envy, Disgust, Guilt)
-
-Unbound Forces
-Anoint Effect: 40% increased Chill Duration on Enemies 40% increased Shock Duration 25% increased Magnitude of Chill you inflict 25% increased Magnitude of Shock you inflict
-Distilled Emotions Combinations: (Disgust, Envy, Guilt)
-
-Twinned Tethers
-Anoint Effect: Link Skills Link to 1 additional random target
-Distilled Emotions Combinations: (Guilt, Envy, Disgust)
-
-Reinvigoration
-Anoint Effect: Regenerate 1% of Life per Second if you've used a Life Flask in the past 10 seconds
-Distilled Emotions Combinations: (Disgust, Envy, Ire)
-
-Immaterial
-Anoint Effect: 50% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds 30% increased Evasion Rating while you have Energy Shield
-Distilled Emotions Combinations: (Ire, Disgust, Envy)
-
-Regenerative Flesh
-Anoint Effect: Minions Recoup 10% of Damage taken as Life
-Distilled Emotions Combinations: (Greed, Disgust, Greed)
-
-Forcewave
-Anoint Effect: 20% increased Stun Buildup 20% increased Knockback Distance +10 to Strength
-Distilled Emotions Combinations: (Greed, Paranoia, Paranoia)
-
-Careful Consideration
-Anoint Effect: 30% reduced Evasion Rating if you have been Hit Recently 100% increased Evasion Rating if you haven't been Hit Recently
-Distilled Emotions Combinations: (Paranoia, Paranoia, Greed)
-
-Beastial Skin
-Anoint Effect: 100% increased Evasion Rating from Equipped Body Armour
-Distilled Emotions Combinations: (Greed, Disgust, Envy)
-
-Devestating Devices
-Anoint Effect: 25% increased Trap Damage
-Distilled Emotions Combinations: (Disgust, Envy, Greed)
-
-Whirling Assault
-Anoint Effect: 8% increased Attack Speed with Quarterstaves Knocks Back Enemies if you get a Critical Hit with a Quarterstaff
-Distilled Emotions Combinations: (Envy, Disgust, Greed)
-
-Unbreaking
-Anoint Effect: 30% increased Stun Threshold 30% increased Elemental Ailment Threshold
-Distilled Emotions Combinations: (Paranoia, Envy, Paranoia)
-
-Resolution
-Anoint Effect: 10% increased Global Defences 25% increased Stun Threshold
-Distilled Emotions Combinations: (Envy, Disgust, Envy)
-
-Adverse Growth
-Anoint Effect: 20% reduced Life Regeneration rate 20% of Damage taken Recouped as Mana
-Distilled Emotions Combinations: (Ire, Paranoia, Disgust)
-
-Doomsayer
-Anoint Effect: Herald Skills have 30% increased Area of Effect Herald Skills deal 30% increased Damage
-Distilled Emotions Combinations: (Paranoia, Guilt, Disgust)
-
-Taut Flesh
-Anoint Effect: 15% of Physical Damage taken Recouped as Life
-Distilled Emotions Combinations: (Disgust, Ire, Paranoia)
-
-Sundering
-Anoint Effect: 25% increased Critical Damage Bonus for Attack Damage +25% to Critical Damage Bonus against Stunned Enemies
-Distilled Emotions Combinations: (Disgust, Paranoia, Ire)
-
-Blur
-Anoint Effect: 4% increased Movement Speed 20% increased Evasion Rating +10 to Dexterity
-Distilled Emotions Combinations: (Paranoia, Disgust, Ire)
-
-Roll and Strike
-Anoint Effect: 25% increased Damage with Spears
-Distilled Emotions Combinations: (Guilt, Paranoia, Disgust)
-
-Deafening Cries
-Anoint Effect: 25% increased Warcry Cooldown Recovery Rate 8% increased Damage for each time you've Warcried Recently
-Distilled Emotions Combinations: (Disgust, Guilt, Paranoia)
-
-Guttural Roar
-Anoint Effect: 30% increased Warcry Speed Warcry Skills have 30% increased Area of Effect
-Distilled Emotions Combinations: (Paranoia, Ire, Disgust)
-
-Serrated Edges
-Anoint Effect: 10% increased Critical Hit Chance for Attacks 30% increased Attack Damage against Rare or Unique Enemies
-Distilled Emotions Combinations: (Paranoia, Disgust, Greed)
-
-Cranial Impact
-Anoint Effect: 30% increased Stun Buildup Gain an Endurance Charge when you Heavy Stun a Rare or Unique Enemy
-Distilled Emotions Combinations: (Greed, Paranoia, Disgust)
-
-Viciousness
-Anoint Effect: 8% increased Melee Attack Speed +10 to Dexterity
-Distilled Emotions Combinations: (Disgust, Greed, Paranoia)
-
-Sturdy Metal
-Anoint Effect: 80% increased Armour from Equipped Body Armour
-Distilled Emotions Combinations: (Paranoia, Greed, Disgust)
-
-Hunter's Talisman
-Anoint Effect: +1 Charm Slot
-Distilled Emotions Combinations: (Paranoia, Paranoia, Paranoia)
-
-Impact Area
-Anoint Effect: 15% increased Area of Effect if you have Stunned an Enemy Recently 15% increased Area of Effect for Attacks
-Distilled Emotions Combinations: (Paranoia, Envy, Disgust)
-
-Spiked Whip
-Anoint Effect: 25% increased Damage with Flails
-Distilled Emotions Combinations: (Disgust, Envy, Paranoia)
-
-Coursing Energy
-Anoint Effect: 40% increased Electrocute Buildup 30% increased Shock Chance against Electrocuted Enemies
-Distilled Emotions Combinations: (Envy, Disgust, Paranoia)
-
-Heavy Weaponry
-Anoint Effect: 15% increased Melee Damage 15% increased Stun Buildup with Melee Damage +15 to Strength
-Distilled Emotions Combinations: (Paranoia, Disgust, Envy)
-
-Ricochet
-Anoint Effect: 15% increased Projectile Damage Projectiles have 10% chance to Chain an additional time from terrain
-Distilled Emotions Combinations: (Ire, Disgust, Disgust)
-
-Piercing Shot
-Anoint Effect: 50% chance to Pierce an Enemy
-Distilled Emotions Combinations: (Disgust, Guilt, Disgust)
-
-Conservative Casting
-Anoint Effect: 20% increased Mana Regeneration Rate 8% reduced Mana Cost of Skills
-Distilled Emotions Combinations: (Disgust, Disgust, Ire)
-
-Spreading Shocks
-Anoint Effect: Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius
-Distilled Emotions Combinations: (Guilt, Disgust, Disgust)
-
-No Escape
-Anoint Effect: Mark Skills have 60% increased Skill Effect Duration
-Distilled Emotions Combinations: (Greed, Disgust, Disgust)
-
-Heatproofing
-Anoint Effect: 25% of Armour also applies to Fire Damage taken from Hits
-Distilled Emotions Combinations: (Disgust, Disgust, Greed)
-
-Potent Incantation
-Anoint Effect: 30% increased Spell Damage 5% reduced Cast Speed
-Distilled Emotions Combinations: (Paranoia, Paranoia, Disgust)
-
-Direct Approach
-Anoint Effect: 40% increased Critical Hit Chance against Enemies that are affected by no Elemental Ailments
-Distilled Emotions Combinations: (Disgust, Paranoia, Paranoia)
-
-Mass Hysteria
-Anoint Effect: Allies in your Presence have 6% increased Attack Speed 6% increased Attack Speed
-Distilled Emotions Combinations: (Disgust, Disgust, Envy)
-
-Hale Traveller
-Anoint Effect: 20% increased Life Recovery from Flasks Life Flasks gain 0.1 charges per Second
-Distilled Emotions Combinations: (Envy, Disgust, Disgust)
-
-Cautious Concoctions
-Anoint Effect: 15% increased Flask Effect Duration 15% increased Flask Charges gained
-Distilled Emotions Combinations: (Disgust, Paranoia, Disgust)
-
-Vulgar Methods
-Anoint Effect: 10% reduced maximum Mana +10 to Strength 35% increased Critical Hit Chance
-Distilled Emotions Combinations: (Ire, Guilt, Despair)
-
-Towering Shield
-Anoint Effect: 50% increased Defences from Equipped Shield 25% increased Chance to Block if you've Blocked with Active Block Recently
-Distilled Emotions Combinations: (Ire, Despair, Guilt)
-
-Leaping Ambush
-Anoint Effect: 100% increased Critical Hit Chance against Enemies on Full Life
-Distilled Emotions Combinations: (Despair, Guilt, Guilt)
-
-Pressure Points
-Anoint Effect: 35% increased Stun Buildup 35% increased Freeze Buildup
-Distilled Emotions Combinations: (Guilt, Despair, Ire)
-
-Savoured Blood
-Anoint Effect: 35% increased amount of Life Leeched Leech Life 20% slower
-Distilled Emotions Combinations: (Despair, Ire, Ire)
-
-Mana Blessing
-Anoint Effect: +20 to maximum Mana 5% increased maximum Mana
-Distilled Emotions Combinations: (Guilt, Despair, Guilt)
-
-Devastation
-Anoint Effect: 15% increased Area of Effect for Attacks 15% increased Attack Area Damage
-Distilled Emotions Combinations: (Ire, Ire, Despair)
-
-Finishing Blows
-Anoint Effect: 60% increased Damage with Hits against Enemies that are on Low Life 30% increased Stun Buildup against Enemies that are on Low Life
-Distilled Emotions Combinations: (Despair, Guilt, Ire)
-
-Way of the Wind
-Anoint Effect: 25% increased Evasion if you have Hit an Enemy Recently 50% increased maximum Dash Distance with Unarmed Attack Skills
-Distilled Emotions Combinations: (Guilt, Greed, Despair)
-
-Flow Like Water
-Anoint Effect: 8% increased Attack and Cast Speed +5 to Dexterity and Intelligence
-Distilled Emotions Combinations: (Greed, Guilt, Despair)
-
-Tainted Strike
-Anoint Effect: 25% increased Critical Hit Chance for Attacks 30% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits
-Distilled Emotions Combinations: (Ire, Despair, Greed)
-
-Clean Shot
-Anoint Effect: 15% chance to Pierce an Enemy 15% increased Projectile Damage
-Distilled Emotions Combinations: (Despair, Ire, Greed)
-
-Prolonged Fury
-Anoint Effect: Inherent loss of Rage is 25% slower
-Distilled Emotions Combinations: (Ire, Greed, Despair)
-
-Tough Claw
-Anoint Effect: 25% increased Attack Damage
-Distilled Emotions Combinations: (Greed, Ire, Despair)
-
-Erraticism
-Anoint Effect: 16% increased Cast Speed if you've dealt a Critical Hit Recently 10% reduced Critical Hit Chance
-Distilled Emotions Combinations: (Despair, Greed, Guilt)
-
-Aftershocks
-Anoint Effect: 40% increased Aftershock Area of Effect
-Distilled Emotions Combinations: (Despair, Guilt, Greed)
-
-Reaving
-Anoint Effect: 8% increased Attack Speed with One Handed Weapons +15 to Dexterity
-Distilled Emotions Combinations: (Despair, Ire, Envy)
-
-Full Recovery
-Anoint Effect: 15% increased Life Regeneration rate 15% increased Mana Regeneration Rate
-Distilled Emotions Combinations: (Despair, Envy, Guilt)
-
-Precise Point
-Anoint Effect: 25% increased Damage with Spears
-Distilled Emotions Combinations: (Guilt, Envy, Despair)
-
-Heavy Contact
-Anoint Effect: Hits that Heavy Stun Enemies have Culling Strike
-Distilled Emotions Combinations: (Ire, Envy, Despair)
-
-Barbaric Strength
-Anoint Effect: 45% increased Critical Damage Bonus 10% increased Mana Cost of Skills +10 to Strength
-Distilled Emotions Combinations: (Guilt, Despair, Envy)
-
-Crashing Wave
-Anoint Effect: 36% increased Damage if you've dealt a Critical Hit in the past 8 seconds
-Distilled Emotions Combinations: (Envy, Guilt, Despair)
-
-Destructive Apparatus
-Anoint Effect: 25% increased Trap Damage
-Distilled Emotions Combinations: (Envy,
-
-Arcane Blossom
-Anoint Effect: 15% increased Mana Recovery rate
-Distilled Emotions Combinations: (Envy, Despair, Despair)
-
-Brutal
-Anoint Effect: 10% increased Stun Buildup 16% increased Melee Damage +10 to Strength
-Distilled Emotions Combinations: (Despair, Despair, Envy)
-
-Hunker Down
-Anoint Effect: Recover 20 Life when you Block 80% less Knockback Distance for Blocked Hits
-Distilled Emotions Combinations: (Despair, Despair, Paranoia)
-
-Escape Strategy
-Anoint Effect: 100% increased Evasion Rating if you have been Hit Recently 30% reduced Evasion Rating if you haven't been Hit Recently
-Distilled Emotions Combinations: (Despair, Paranoia, Despair)
-
-Lasting Concoctions
-Anoint Effect: 25% increased Flask Effect Duration 25% increased Flask Charges gained
-Distilled Emotions Combinations: (Despair, Disgust, Despair)
-
-Two-Pronged Attack
-Anoint Effect: Minions deal 25% increased Damage
-Distilled Emotions Combinations: (Ire, Fear, Guilt)
-
-Efficient Alchemy
-Anoint Effect: 20% increased Flask and Charm Charges gained 40% increased Life and Mana Recovery from Flasks while you have an active Charm
-Distilled Emotions Combinations: (Fear, Ire, Guilt)
-
-Shattering Blow
-Anoint Effect: Break 50% of Armour on Heavy Stunning an Enemy
-Distilled Emotions Combinations: (Fear, Guilt, Guilt)
-
-Honourless
-Anoint Effect: 25% increased Armour if you've Hit an Enemy with a Melee Attack Recently 50% increased Melee Damage against Immobilised Enemies
-Distilled Emotions Combinations: (Ire, Guilt, Fear)
-
-Far Sighted
-Anoint Effect: 30% reduced penalty to Accuracy Rating at range
-Distilled Emotions Combinations: (Guilt, Ire, Fear)
-
-Parrying Motion
-Anoint Effect: 12% increased Block chance 1% increased Movement Speed for each time you've Blocked in the past 10 seconds
-Distilled Emotions Combinations: (Ire, Fear, Ire)
-
-Thornhide
-Anoint Effect: +5% to Thorns Critical Hit Chance
-Distilled Emotions Combinations: (Ire, Greed, Fear)
-
-Loose Flesh
-Anoint Effect: 15% of Elemental Damage taken Recouped as Life
-Distilled Emotions Combinations: (Ire, Fear, Greed)
-
-Spirit Bond
-Anoint Effect: 30% increased Totem Life 30% increased Totem Duration
-Distilled Emotions Combinations: (Greed, Ire, Fear)
-
-Swift Skewering
-Anoint Effect: 8% increased Attack Speed with Spears
-Distilled Emotions Combinations: (Fear, Ire, Greed)
-
-Advanced Munitions
-Anoint Effect: 25% increased chance to inflict Ailments with Projectiles
-Distilled Emotions Combinations: (Guilt, Fear, Greed)
-
-Mystic Stance
-Anoint Effect: 30% faster start of Energy Shield Recharge 30% increased Stun Threshold while on Full Life
-Distilled Emotions Combinations: (Fear, Greed, Guilt)
-
-Rattled
-Anoint Effect: +20 to maximum Mana 50% increased Shock Duration
-Distilled Emotions Combinations: (Greed, Fear, Ire)
-
-Tenfold Attacks
-Anoint Effect: 4% increased Attack Speed 6% increased Attack Speed if you've been Hit Recently +10 to Strength
-Distilled Emotions Combinations: (Greed, Fear, Guilt)
-
-Colossal Weapon
-Anoint Effect: 15% increased Area of Effect for Attacks +10 to Strength
-Distilled Emotions Combinations: (Fear, Greed, Ire)
-
-Dependable Ward
-Anoint Effect: 25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge
-Distilled Emotions Combinations: (Ire, Fear, Envy)
-
-Blade Catcher
-Anoint Effect: Defend with 200% of Armour against Critical Hits +15 to Strength
-Distilled Emotions Combinations: (Fear, Envy, Guilt)
-
-Echoing Pulse
-Anoint Effect: Final Repeat of Spells has 40% increased Area of Effect
-Distilled Emotions Combinations: (Fear, Envy, Ire)
-
-Price of Freedom
-Anoint Effect: 10% reduced Mana Cost of Attacks 18% of Skill Mana Costs Converted to Life Costs
-Distilled Emotions Combinations: (Envy, Fear, Ire)
-
-Enhanced Reflexes
-Anoint Effect: 30% increased Evasion Rating 8% increased Dexterity
-Distilled Emotions Combinations: (Fear, Ire, Envy)
-
-Vengeance
-Anoint Effect: 40% increased Thorns damage
-Distilled Emotions Combinations: (Guilt, Fear, Envy)
-
-Cold Nature
-Anoint Effect: 25% increased Cold Damage 15% increased Chill Duration on Enemies
-Distilled Emotions Combinations: (Envy, Fear, Guilt)
-
-Curved Weapon
-Anoint Effect: 15% increased Accuracy Rating +10 to Dexterity
-Distilled Emotions Combinations: (Greed, Fear, Greed)
-
-Jack of all Trades
-Anoint Effect: 2% increased Damage per 5 of your lowest Attribute
-Distilled Emotions Combinations: (Greed, Fear, Envy)
-
-Breakage
-Anoint Effect: Break 60% increased Armour 10% chance to Defend with 200% of Armour
-Distilled Emotions Combinations: (Fear, Envy, Greed)
-
-In Your Face
-Anoint Effect: 40% increased Melee Damage with Hits at Close Range
-Distilled Emotions Combinations: (Fear, Greed, Envy)
-
-Mental Toughness
-Anoint Effect: 18% increased Mana Regeneration Rate 15% reduced Mana Cost while not on Low Mana
-Distilled Emotions Combinations: (Envy, Fear, Greed)
-
-Sand in the Eyes
-Anoint Effect: 10% increased Attack Speed 15% chance to Blind Enemies on Hit with Attacks
-Distilled Emotions Combinations: (Despair, Despair, Despair)
-
-Blinding Strike
-Anoint Effect: 24% increased Attack Damage 10% chance to Blind Enemies on Hit with Attacks
-Distilled Emotions Combinations: (Envy, Fear, Envy)
-
-Proficiency
-Anoint Effect: +25 to Dexterity
-Distilled Emotions Combinations: (Fear, Guilt, Paranoia)
-
-Split Shot
-Anoint Effect: Projectiles have 75% chance for an additional Projectile when Forking
-Distilled Emotions Combinations: (Ire, Fear, Paranoia)
-
-Icebreaker
-Anoint Effect: Gain 100% of Maximum Energy Shield as additional Freeze Threshold
-Distilled Emotions Combinations: (Ire, Paranoia, Fear)
-
-First Approach
-Anoint Effect: 50% increased Critical Hit Chance against Enemies on Full Life Cannot be Blinded while on Full Life 80% increased Damage with Hits against Enemies that are on Full Life
-Distilled Emotions Combinations: (Paranoia, Ire, Fear)
-
-Mind Eraser
-Anoint Effect: 10% increased Mana Regeneration Rate 6% of Damage taken Recouped as Mana
-Distilled Emotions Combinations: (Fear, Ire, Paranoia)
-
-Unstoppable Barrier
-Anoint Effect: 10% increased Block chance 15% reduced Slowing Potency of Debuffs on You
-Distilled Emotions Combinations: (Fear, Paranoia, Ire)
-
-Growing Swarm
-Anoint Effect: Minions have 20% increased Area of Effect Minions have 20% increased Cooldown Recovery Rate
-Distilled Emotions Combinations: (Guilt, Paranoia, Fear)
-
-Reverberation
-Anoint Effect: Spell Skills have 20% increased Area of Effect
-Distilled Emotions Combinations: (Paranoia, Guilt, Fear)
-
-Fortifying Blood
-Anoint Effect: 20% increased amount of Life Leeched 40% increased Armour and Evasion Rating while Leeching
-Distilled Emotions Combinations: (Greed, Paranoia, Fear)
-
-Essence of the Storm
-Anoint Effect: Gain 5% of Damage as Extra Lightning Damage 30% increased chance to Shock
-Distilled Emotions Combinations: (Greed, Fear, Paranoia)
-
-Core of the Guardian
-Anoint Effect: 100% increased Defences from Equipped Shield
-Distilled Emotions Combinations: (Paranoia, Greed, Fear)
-
-Coated Arms
-Anoint Effect: 25% increased Damage with One Handed Weapons 20% increased Chance to inflict Ailments with One-Handed Attacks
-Distilled Emotions Combinations: (Fear, Greed, Paranoia)
-
-General's Bindings
-Anoint Effect: Gain 8% of Evasion Rating as extra Armour
-Distilled Emotions Combinations: (Paranoia, Fear, Envy)
-
-Ancestral Mending
-Anoint Effect: Regenerate 1% of Life per second while you have a Totem Totems Regenerate 3% of Life per second
-Distilled Emotions Combinations: (Envy, Fear, Paranoia)
-
-Mental Alacrity
-Anoint Effect: 5% increased Cast Speed 15% increased Mana Regeneration Rate +10 to Intelligence
-Distilled Emotions Combinations: (Fear, Envy, Paranoia)
-
-Insightfulness
-Anoint Effect: 18% increased maximum Energy Shield 12% increased Mana Regeneration Rate 6% increased Intelligence
-Distilled Emotions Combinations: (Guilt, Disgust, Fear)
-
-Gravedigger
-Anoint Effect: Minions Revive 15% faster You gain 2% Life when one of your Minions is Revived
-Distilled Emotions Combinations: (Ire, Fear, Disgust)
-
-Bestial Rage
-Anoint Effect: 25% increased Attack Damage
-Distilled Emotions Combinations: (Ire, Disgust, Fear)
-
-Push the Advantage
-Anoint Effect: 40% increased Critical Damage Bonus with One Handed Melee Weapons
-Distilled Emotions Combinations: (Fear, Ire, Disgust)
-
-Blood Rush
-Anoint Effect: 6% increased Skill Speed 6% of Skill Mana Costs Converted to Life Costs
-Distilled Emotions Combinations: (Guilt, Fear, Disgust)
-
-Pure Energy
-Anoint Effect: 30% increased maximum Energy Shield +10 to Intelligence
-Distilled Emotions Combinations: (Fear, Guilt, Disgust)
-
-Adrenaline Rush
-Anoint Effect: 4% increased Movement Speed if you've Killed Recently 8% increased Attack Speed if you've Killed Recently
-Distilled Emotions Combinations: (Disgust, Ire, Fear)
-
-Stigmata
-Anoint Effect: Offerings have 30% increased Maximum Life Recover 3% of Life when you create an Offering
-Distilled Emotions Combinations: (Disgust, Guilt, Fear)
-
-Waters of Life
-Anoint Effect: Recover 2% of Life when you use a Mana Flask Mana Flasks gain 0.1 charges per Second
-Distilled Emotions Combinations: (Greed, Fear, Disgust)
-
-Explosive Impact
-Anoint Effect: 15% increased Area of Effect Burning Enemies you kill have a 5% chance to Explode, dealing a tenth of their maximum Life as Fire Damage
-Distilled Emotions Combinations: (Greed, Disgust, Fear)
-
-Silent Guardian
-Anoint Effect: Minions have +20% to all Elemental Resistances
-Distilled Emotions Combinations: (Fear, Greed, Disgust)
-
-Shield Expertise
-Anoint Effect: 12% increased Block chance 40% increased Block Recovery
-Distilled Emotions Combinations: (Disgust, Greed, Fear)
-
-Fireproof
-Anoint Effect: +15% to Fire Resistance 25% reduced effect of Ignite on you
-Distilled Emotions Combinations: (Fear, Paranoia, Paranoia)
-
-Manifold Method
-Anoint Effect: 50% increased amount of Mana Leeched 25% increased chance to inflict Ailments against Rare or Unique Enemies
-Distilled Emotions Combinations: (Paranoia, Paranoia, Fear)
-
-Thicket Warding
-Anoint Effect: 20% chance for Charms you use to not consume Charges Recover 5% of Mana when a Charm is used
-Distilled Emotions Combinations: (Paranoia, Fear, Paranoia)
-
-Singular Purpose
-Anoint Effect: 5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons
-Distilled Emotions Combinations: (Disgust, Envy, Fear)
-
-Quick Response
-Anoint Effect: 20% faster start of Energy Shield Recharge 30% faster start of Energy Shield Recharge when not on Full Life
-Distilled Emotions Combinations: (Envy, Disgust, Fear)
-
-Bringer of Order
-Anoint Effect: Minions deal 25% increased Damage
-Distilled Emotions Combinations: (Envy, Fear, Disgust)
-
-Acceleration
-Anoint Effect: 3% increased Movement Speed 10% increased Skill Speed
-Distilled Emotions Combinations: (Fear, Envy, Disgust)
-
-Ice Walls
-Anoint Effect: 200% increased Ice Crystal Life
-Distilled Emotions Combinations: (Fear, Paranoia, Disgust)
-
-Sudden Escalation
-Anoint Effect: 16% increased Critical Hit Chance for Spells 8% increased Cast Speed if you've dealt a Critical Hit Recently
-Distilled Emotions Combinations: (Disgust, Paranoia, Fear)
-
-Multitasking
-Anoint Effect: 15% increased Skill Effect Duration 12% increased Cooldown Recovery Rate
-Distilled Emotions Combinations: (Paranoia, Disgust, Fear)
-
-Burn Away
-Anoint Effect: 15% increased Fire Damage Damage Penetrates 10% Fire Resistance 10% increased Magnitude of Ignite you inflict
-Distilled Emotions Combinations: (Fear, Disgust, Disgust)
-
-Bloodthirsty
-Anoint Effect: 20% increased amount of Life Leeched Leech Life 25% faster
-Distilled Emotions Combinations: (Disgust, Disgust, Fear)
-
-Deep Trance
-Anoint Effect: 8% increased Attack Speed 10% reduced Cost of Skills
-Distilled Emotions Combinations: (Fear, Ire, Despair)
-
-Wasting
-Anoint Effect: 15% increased Duration of Damaging Ailments on Enemies 30% increased Damage with Hits against Enemies affected by Ailments
-Distilled Emotions Combinations: (Guilt, Fear, Despair)
-
-Dead can Dance
-Anoint Effect: Minions have 25% increased Evasion Rating Your Dexterity is added to your Minions
-Distilled Emotions Combinations: (Despair, Fear, Ire)
-
-Harsh Winter
-Anoint Effect: 8% increased Cast Speed with Cold Skills 16% increased Skill Effect Duration
-Distilled Emotions Combinations: (Fear, Despair, Ire)
-
-Turn the Clock Forward
-Anoint Effect: 20% increased Projectile Speed for Spell Skills
-Distilled Emotions Combinations: (Despair, Fear, Guilt)
-
-Suffusion
-Anoint Effect: 30% increased amount of Mana Leeched Unaffected by Chill while Leeching Mana
-Distilled Emotions Combinations: (Fear, Despair, Guilt)
-
-Projectile Bulwark
-Anoint Effect: 30% increased Armour Defend with 120% of Armour against Projectile Attacks
-Distilled Emotions Combinations: (Ire, Fear, Despair)
-
-Shattering
-Anoint Effect: 25% increased Freeze Buildup 15% increased Chill Duration on Enemies 15% increased Magnitude of Chill you inflict
-Distilled Emotions Combinations: (Greed, Fear, Despair)
-
-Sturdy Ally
-Anoint Effect: Minions have 25% increased maximum Life
-Distilled Emotions Combinations: (Fear, Greed, Despair)
-
-Heavy Armour
-Anoint Effect: 100% of Strength Requirements from Boots, Gloves and Helmets also added to Armour
-Distilled Emotions Combinations: (Despair, Fear, Greed)
-
-Fate Finding
-Anoint Effect: 15% reduced Reservation of Herald Skills
-Distilled Emotions Combinations: (Fear, Despair, Greed)
-
-Time Manipulation
-Anoint Effect: Debuffs you inflict have 10% increased Slow Magnitude Debuffs on you expire 20% faster
-Distilled Emotions Combinations: (Fear, Despair, Envy)
-
-Overwhelm
-Anoint Effect: 5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons
-Distilled Emotions Combinations: (Despair, Fear, Envy)
-
-Anticipation
-Anoint Effect: Skills Supported by Unleash have 25% increased Seal gain frequency
-Distilled Emotions Combinations: (Fear, Envy, Despair)
-
-Unbending
-Anoint Effect: 3% increased maximum Life 30% increased Stun Threshold
-Distilled Emotions Combinations: (Fear, Despair, Paranoia)
-
-Heavy Frost
-Anoint Effect: 20% increased Freeze Buildup Hits ignore non-negative Elemental Resistances of Frozen Enemies
-Distilled Emotions Combinations: (Despair, Fear, Paranoia)
-
-Harmonic Generator
-Anoint Effect: 25% increased Critical Hit Chance against Shocked Enemies 40% increased Magnitude of Shock you inflict with Critical Hits
-Distilled Emotions Combinations: (Paranoia, Fear, Despair)
-
-Arcane Intensity
-Anoint Effect: 3% increased Spell Damage per 100 maximum Mana
-Distilled Emotions Combinations: (Disgust, Fear, Despair)
-
-Restless Dead
-Anoint Effect: Minions Revive 25% faster
-Distilled Emotions Combinations: (Despair, Fear, Disgust)
-
-Master Fletching
-Anoint Effect: 30% increased bonuses gained from Equipped Quiver
-Distilled Emotions Combinations: (Fear, Despair, Disgust)
-
-Chronomancy
-Anoint Effect: 20% increased Skill Effect Duration Debuffs you inflict have 10% increased Slow Magnitude
-Distilled Emotions Combinations: (Despair, Fear, Despair)
-
-Path of Storms
-Anoint Effect: 18% increased Lightning Damage 30% increased chance to Shock Witch: 18% increased Chaos Damage Witch: 15% increased Skill Effect Duration
-Distilled Emotions Combinations: (Fear, Fear, Ire)
-
-Impact Force
-Anoint Effect: 20% increased Stun Buildup 25% increased Attack Area Damage
-Distilled Emotions Combinations: (Fear, Ire, Fear)
-
-Rapid Strike
-Anoint Effect: +30 to Accuracy Rating 8% increased Melee Attack Speed
-Distilled Emotions Combinations: (Ire, Fear, Fear)
-
-Necrotised Flesh
-Anoint Effect: Minions have 40% increased maximum Life Minions have 10% reduced Life Recovery rate
-Distilled Emotions Combinations: (Fear, Guilt, Fear)
-
-Vile Mending
-Anoint Effect: Minions have 20% increased maximum Life Minions Regenerate 3% of Life per second Minions have +13% to Chaos Resistance
-Distilled Emotions Combinations: (Greed, Fear, Fear)
-
-All Natural
-Anoint Effect: +5% to all Elemental Resistances 30% increased Elemental Damage
-Distilled Emotions Combinations: (Fear, Fear, Greed)
-
-Lay Siege
-Anoint Effect: 1% increased Damage per 1% Chance to Block
-Distilled Emotions Combinations: (Fear, Envy, Fear)
-
-Primal Growth
-Anoint Effect: 20% increased Area of Effect if you've Killed Recently 10% increased Area of Effect for Attacks
-Distilled Emotions Combinations: (Envy, Fear, Fear)
-
-Stormcharged
-Anoint Effect: 40% increased Elemental Damage if you've dealt a Critical Hit Recently 20% increased Critical Hit Chance
-Distilled Emotions Combinations: (Fear, Fear, Envy)
-
-Breaking Point
-Anoint Effect: 10% increased Duration of Elemental Ailments on Enemies 30% increased Magnitude of Non-Damaging Ailments you inflict
-Distilled Emotions Combinations: (Fear, Paranoia, Fear)
-
-Beef
-Anoint Effect: +25 to Strength
-Distilled Emotions Combinations: (Fear, Disgust, Fear)
-
-Spellblade
-Anoint Effect: 32% increased Spell Damage while wielding a Melee Weapon +10 to Dexterity
-Distilled Emotions Combinations: (Despair, Fear, Fear)
-
-Turn the Clock Back
-Anoint Effect: 20% reduced Projectile Speed for Spell Skills
-Distilled Emotions Combinations: (Fear, Fear, Despair)
-
-Sigil of Fire
-Anoint Effect: 30% increased Damage with Hits against Ignited Enemies
-Distilled Emotions Combinations: (Suffering, Guilt, Ire)
-
-Electrotherapy
-Anoint Effect: 5% increased Skill Speed 30% increased Electrocute Buildup
-Distilled Emotions Combinations: (Suffering, Ire, Guilt)
-
-Alternating Current
-Anoint Effect: 25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently 20% increased Magnitude of Shock you inflict
-Distilled Emotions Combinations: (Ire, Ire, Suffering)
-
-Frenetic
-Anoint Effect: 5% chance that if you would gain Frenzy Charges , you instead gain up to your maximum number of Frenzy Charges +1 to Maximum Frenzy Charges
-Distilled Emotions Combinations: (Ire, Suffering, Guilt)
-
-Guts
-Anoint Effect: Recover 3% of Life for each Endurance Charge consumed +1 to Maximum Endurance Charges
-Distilled Emotions Combinations: (Suffering, Ire, Ire)
-
-Immortal Thirst
-Anoint Effect: 15% increased maximum Energy Shield 25% increased amount of Mana Leeched
-Distilled Emotions Combinations: (Guilt, Suffering, Guilt)
-
-Thrill of Battle
-Anoint Effect: 20% increased Attack Speed while Surrounded
-Distilled Emotions Combinations: (Guilt, Suffering, Ire)
-
-Thin Ice
-Anoint Effect: 20% increased Freeze Buildup 50% increased Damage with Hits against Frozen Enemies
-Distilled Emotions Combinations: (Suffering, Ire, Greed)
-
-Leather Bound Gauntlets
-Anoint Effect: +1 to Evasion Rating per 1 Armour on Equipped Gloves
-Distilled Emotions Combinations: (Greed, Suffering, Ire)
-
-Echoing Frost
-Anoint Effect: 30% increased Elemental Damage if you've Chilled an Enemy Recently
-Distilled Emotions Combinations: (Suffering, Guilt, Greed)
-
-Ball and Chain
-Anoint Effect: 15% increased Damage with Flails 6% increased Attack Speed with Flails
-Distilled Emotions Combinations: (Greed, Guilt, Suffering)
-
-Resourceful Ally
-Anoint Effect: Minions deal 25% increased Damage
-Distilled Emotions Combinations: (Ire, Greed, Suffering)
-
-Spirit Bonds
-Anoint Effect: Link Skills can target Damageable Minions
-Distilled Emotions Combinations: (Greed, Ire, Suffering)
-
-Heavy Blade
-Anoint Effect: 25% increased Damage with Swords
-Distilled Emotions Combinations: (Guilt, Greed, Suffering)
-
-Crushing Verdict
-Anoint Effect: 5% reduced Attack Speed 30% increased Stun Buildup 50% increased Attack Damage
-Distilled Emotions Combinations: (Envy, Suffering, Ire)
-
-Cooked
-Anoint Effect: 50% increased Critical Damage Bonus during any Flask Effect
-Distilled Emotions Combinations: (Suffering, Ire, Envy)
-
-Melding
-Anoint Effect: 40% increased maximum Energy Shield 10% reduced maximum Mana
-Distilled Emotions Combinations: (Guilt, Envy, Suffering)
-
-Distracting Presence
-Anoint Effect: 10% increased Cooldown Recovery Rate Enemies in your Presence have 10% reduced Cooldown Recovery Rate
-Distilled Emotions Combinations: (Envy, Guilt, Suffering)
-
-Short Shot
-Anoint Effect: 15% reduced Projectile Speed 20% increased Projectile Damage
-Distilled Emotions Combinations: (Suffering, Guilt, Envy)
-
-Spiral into Mania
-Anoint Effect: 10% increased Cast Speed +7% to Chaos Resistance
-Distilled Emotions Combinations: (Ire, Envy, Suffering)
-
-Perforation
-Anoint Effect: 20% chance for Bleeding to be Aggravated when Inflicted against Enemies on Jagged Ground 40% increased Jagged Ground Duration
-Distilled Emotions Combinations: (Greed, Greed, Suffering)
-
-Aspiring Genius
-Anoint Effect: 20% increased Mana Regeneration Rate 10% chance to Gain Arcane Surge when you deal a Critical Hit
-Distilled Emotions Combinations: (Suffering, Greed, Greed)
-
-Careful Assassin
-Anoint Effect: 20% reduced Critical Damage Bonus 50% increased Critical Hit Chance
-Distilled Emotions Combinations: (Suffering, Envy, Greed)
-
-Morning Star
-Anoint Effect: 30% increased Critical Hit Chance with Flails 20% increased Critical Damage Bonus with Flails
-Distilled Emotions Combinations: (Envy, Greed, Suffering)
-
-Hindered Capabilities
-Anoint Effect: 30% increased Damage with Hits against Hindered Enemies Debuffs you inflict have 10% increased Slow Magnitude
-Distilled Emotions Combinations: (Suffering, Greed, Envy)
-
-Authority
-Anoint Effect: 20% increased Area of Effect for Attacks 10% increased Cooldown Recovery Rate
-Distilled Emotions Combinations: (Greed, Envy, Suffering)
-
-Desensitisation
-Anoint Effect: 25% increased Critical Damage Bonus Hits against you have 25% reduced Critical Damage Bonus
-Distilled Emotions Combinations: (Envy, Suffering, Greed)
-
-Shimmering
-Anoint Effect: 20% increased Energy Shield Recovery Rate if you haven't been Hit Recently 3% increased Movement Speed while you have Energy Shield
-Distilled Emotions Combinations: (Envy, Envy, Suffering)
-
-Madness in the Bones
-Anoint Effect: Gain 6% of Physical Damage as extra Chaos Damage
-Distilled Emotions Combinations: (Ire, Paranoia, Suffering)
-
-Ancestral Reach
-Anoint Effect: 25% increased Totem Placement speed 50% increased Totem Placement range
-Distilled Emotions Combinations: (Suffering, Paranoia, Ire)
-
-Ancestral Alacrity
-Anoint Effect: 30% increased Totem Placement speed 8% increased Attack and Cast Speed if you've summoned a Totem Recently
-Distilled Emotions Combinations: (Suffering, Paranoia, Guilt)
-
-For the Jugular
-Anoint Effect: 30% increased Critical Damage Bonus +10 to Intelligence
-Distilled Emotions Combinations: (Paranoia, Suffering, Guilt)
-
-Subterfuge Mask
-Anoint Effect: +2 to Evasion Rating per 1 Maximum Energy Shield on Equipped Helmet
-Distilled Emotions Combinations: (Ire, Suffering, Paranoia)
-
-Refocus
-Anoint Effect: 30% increased Energy Shield Recharge Rate 20% increased Mana Regeneration Rate
-Distilled Emotions Combinations: (Paranoia, Suffering, Ire)
-
-Slow Burn
-Anoint Effect: 20% increased Ignite Duration on Enemies 20% increased Magnitude of Ignite you inflict
-Distilled Emotions Combinations: (Guilt, Suffering, Paranoia)
-
-Apocalypse
-Anoint Effect: 40% reduced Damage +6% to Critical Hit Chance of Herald Skills
-Distilled Emotions Combinations: (Suffering, Paranoia, Greed)
-
-Stylebender
-Anoint Effect: Break 30% increased Armour on enemies affected by Ailments +10 to Strength 25% increased Physical Damage
-Distilled Emotions Combinations: (Greed, Paranoia, Suffering)
-
-Natural Immunity
-Anoint Effect: + 4 to Ailment Threshold per Dexterity
-Distilled Emotions Combinations: (Greed, Suffering, Paranoia)
-
-Electrocution
-Anoint Effect: Enemies you Electrocute have 20% increased Damage taken
-Distilled Emotions Combinations: (Paranoia, Suffering, Greed)
-
-Mindful Awareness
-Anoint Effect: 24% increased Evasion Rating 24% increased maximum Energy Shield
-Distilled Emotions Combinations: (Paranoia, Envy, Suffering)
-
-The Power Within
-Anoint Effect: 20% increased Critical Damage Bonus if you've gained a Power Charge Recently +1 to Maximum Power Charges
-Distilled Emotions Combinations: (Envy, Paranoia, Suffering)
-
-Lasting Trauma
-Anoint Effect: 5% reduced Attack Speed 30% increased Magnitude of Ailments you inflict 20% increased Duration of Damaging Ailments on Enemies
-Distilled Emotions Combinations: (Suffering, Paranoia, Envy)
-
-Cruel Methods
-Anoint Effect: Break 40% increased Armour 25% increased Physical Damage
-Distilled Emotions Combinations: (Suffering, Envy, Paranoia)
-
-Moment of Truth
-Anoint Effect: 25% increased Critical Damage Bonus if you've dealt a Non-Critical Hit Recently 20% increased Critical Hit Chance
-Distilled Emotions Combinations: (Ire, Suffering, Disgust)
-
-Preservation
-Anoint Effect: 25% increased Skill Effect Duration
-Distilled Emotions Combinations: (Disgust, Suffering, Ire)
-
-Hefty Unit
-Anoint Effect: + 3 to Stun Threshold per Strength
-Distilled Emotions Combinations: (Ire, Disgust, Suffering)
-
-Echoing Flames
-Anoint Effect: Mastery: Bestiary 30% increased Elemental Damage if you've Ignited an Enemy Recently
-Distilled Emotions Combinations: (Guilt, Suffering, Disgust)
-
-Sigil of Ice
-Anoint Effect: 30% increased Damage with Hits against Chilled Enemies
-Distilled Emotions Combinations: (Suffering, Disgust, Guilt)
-
-Overheating Blow
-Anoint Effect: Hits that Heavy Stun inflict Fire Exposure
-Distilled Emotions Combinations: (Disgust, Suffering, Guilt)
-
-Branching Bolts
-Anoint Effect: 60% chance for Lightning Skills to Chain an additional time
-Distilled Emotions Combinations: (Suffering, Disgust, Ire)
-
-Convalescence
-Anoint Effect: 15% reduced Energy Shield Recharge Rate 40% faster start of Energy Shield Recharge
-Distilled Emotions Combinations: (Disgust, Suffering, Greed)
-
-Emboldened Avatar
-Anoint Effect: 25% increased chance to Ignite 25% increased Freeze Buildup 25% increased chance to Shock 25% increased Electrocute Buildup
-Distilled Emotions Combinations: (Suffering, Disgust, Greed)
-
-Escape Velocity
-Anoint Effect: 3% increased Movement Speed 30% increased Evasion Rating
-Distilled Emotions Combinations: (Greed, Disgust, Suffering)
-
-Living Death
-Anoint Effect: Minions have +22% to all Elemental Resistances Minions have +3% to all Maximum Elemental Resistances
-Distilled Emotions Combinations: (Greed, Suffering, Disgust)
-
-Sigil of Lightning
-Anoint Effect: 30% increased Damage with Hits against Shocked Enemies
-Distilled Emotions Combinations: (Paranoia, Suffering, Paranoia)
-
-Grit
-Anoint Effect: 5% chance that if you would gain Endurance Charges , you instead gain up to maximum Endurance Charges +1 to Maximum Endurance Charges
-Distilled Emotions Combinations: (Suffering, Disgust, Envy)
-
-Lucidity
-Anoint Effect: 8% of Damage is taken from Mana before Life +15 to Intelligence
-Distilled Emotions Combinations: (Envy, Disgust, Suffering)
-
-Deadly Force
-Anoint Effect: 30% increased Damage if you've dealt a Critical Hit in the past 8 seconds 12% increased Critical Hit Chance
-Distilled Emotions Combinations: (Disgust, Suffering, Envy)
-
-Impair
-Anoint Effect: 25% increased Damage with One Handed Weapons Attacks have 10% chance to Maim on Hit
-Distilled Emotions Combinations: (Envy, Suffering, Disgust)
-
-Lust for Sacrifice
-Anoint Effect: 40% increased Minion Damage while you have at least two different active Offerings
-Distilled Emotions Combinations: (Disgust, Suffering, Paranoia)
-
-Bolstering Yell
-Anoint Effect: Empowered Attacks deal 30% increased Damage Warcry Skills have 30% increased Area of Effect
-Distilled Emotions Combinations: (Suffering, Disgust, Paranoia)
-
-Feel the Earth
-Anoint Effect: 25% reduced Shock duration on you 40% increased Elemental Ailment Threshold
-Distilled Emotions Combinations: (Paranoia, Suffering, Disgust)
-
-Admonisher
-Anoint Effect: 25% increased Warcry Speed 25% increased Warcry Cooldown Recovery Rate
-Distilled Emotions Combinations: (Disgust, Suffering, Disgust)
-
-Echoing Thunder
-Anoint Effect: 30% increased Elemental Damage if you've Shocked an Enemy Recently
-Distilled Emotions Combinations: (Despair, Suffering, Ire)
-
-Vengeful Fury
-Anoint Effect: Gain 5 Rage when Hit by an Enemy Every Rage also grants 1% increased Armour
-Distilled Emotions Combinations: (Suffering, Ire, Despair)
-
-Bravado
-Anoint Effect: Empowered Attacks have 50% increased Stun Buildup 100% increased Stun Threshold during Empowered Attacks
-Distilled Emotions Combinations: (Suffering, Guilt, Despair)
-
-Prolonged Assault
-Anoint Effect: 16% increased Attack Damage 16% increased Skill Effect Duration Buffs on you expire 10% slower
-Distilled Emotions Combinations: (Guilt, Despair, Suffering)
-
-Essence of the Mountain
-Anoint Effect: Gain 5% of Damage as Extra Cold Damage 20% increased Freeze Buildup
-Distilled Emotions Combinations: (Despair, Ire, Suffering)
-
-Coated Knife
-Anoint Effect: Critical Hits with Daggers have a 25% chance to Poison the Enemy
-Distilled Emotions Combinations: (Ire, Despair, Suffering)
-
-Cull the Hordes
-Anoint Effect: 25% increased Culling Strike Threshold
-Distilled Emotions Combinations: (Despair, Guilt, Suffering)
-
-Forthcoming
-Anoint Effect: 16% reduced Skill Effect Duration 10% increased Cooldown Recovery Rate
-Distilled Emotions Combinations: (Despair, Greed, Suffering)
-
-Quick Recovery
-Anoint Effect: 40% increased Stun Recovery Regenerate 5% of Life over 1 second when Stunned
-Distilled Emotions Combinations: (Despair, Suffering, Greed)
-
-Silent Shiv
-Anoint Effect: 5% increased Attack Speed with Daggers 15% increased Critical Hit Chance with Daggers
-Distilled Emotions Combinations: (Suffering, Greed, Despair)
-
-Ruin
-Anoint Effect: Spell Skills have 10% reduced Area of Effect 35% increased Spell Area Damage
-Distilled Emotions Combinations: (Greed, Despair, Suffering)
-
-Aggravation
-Anoint Effect: 10% chance to Aggravate Bleeding on targets you Hit with Attacks
-Distilled Emotions Combinations: (Despair, Suffering, Envy)
-
-Path of Winter
-Anoint Effect: 18% increased Cold Damage 30% increased Freeze Buildup Witch: Minions deal 15% increased Damage Witch: Minions have 3% increased Attack and Cast Speed
-Distilled Emotions Combinations: (Suffering, Envy, Despair)
-
-Spiral into Depression
-Anoint Effect: 3% increased Movement Speed 25% increased Armour 25% increased maximum Energy Shield
-Distilled Emotions Combinations: (Envy, Despair, Suffering)
-
-Bolstering Presence
-Anoint Effect: 20% increased Effect of Auras from your Skills
-Distilled Emotions Combinations: (Despair, Envy, Suffering)
-
-Crystalline Flesh
-Anoint Effect: Minions have +20% to all Elemental Resistances Minions have +5% to all Maximum Elemental Resistances
-Distilled Emotions Combinations: (Despair, Paranoia, Suffering)
-
-Fan the Flames
-Anoint Effect: 25% reduced Ignite Duration on you 40% increased Elemental Ailment Threshold
-Distilled Emotions Combinations: (Suffering, Paranoia, Despair)
-
-Vile Wounds
-Anoint Effect: 33% increased Damage with Hits against Enemies affected by Elemental Ailments
-Distilled Emotions Combinations: (Paranoia, Despair, Suffering)
-
-Unsight
-Anoint Effect: Enemies near Enemies you Mark are Blinded Enemies you Mark cannot deal Critical Hits
-Distilled Emotions Combinations: (Suffering, Disgust, Despair)
-
-Holy Protector
-Anoint Effect: Minions have 25% increased maximum Life
-Distilled Emotions Combinations: (Disgust, Despair, Suffering)
-
-Marked Agility
-Anoint Effect: 30% reduced Mana Cost of Mark Skills 4% increased Movement Speed if you've cast a Mark Spell Recently
-Distilled Emotions Combinations: (Despair, Disgust, Suffering)
-
-Necrotic Touch
-Anoint Effect: Minions have 40% increased Critical Hit Chance
-Distilled Emotions Combinations: (Despair, Despair, Suffering)
-
-Chilled to the Bone
-Anoint Effect: 20% increased Chill Duration on Enemies 30% increased Magnitude of Chill you inflict
-Distilled Emotions Combinations: (Suffering, Despair, Despair)
-
-Warm the Heart
-Anoint Effect: 25% reduced Freeze Duration on you 60% increased Freeze Threshold
-Distilled Emotions Combinations: (Ire, Suffering, Fear)
-
-Retaliation
-Anoint Effect: 75% increased Thorns damage if you've Blocked Recently
-Distilled Emotions Combinations: (Ire, Fear, Suffering)
-
-Shattered Crystal
-Anoint Effect: 60% reduced Ice Crystal Life
-Distilled Emotions Combinations: (Suffering, Fear, Ire)
-
-Bloodletting
-Anoint Effect: 10% chance to inflict Bleeding on Hit 15% increased Magnitude of Bleeding you inflict
-Distilled Emotions Combinations: (Fear, Suffering, Ire)
-
-Made to Last
-Anoint Effect: 15% of Physical Damage prevented Recouped as Life
-Distilled Emotions Combinations: (Suffering, Fear, Guilt)
-
-Intense Flames
-Anoint Effect: 35% increased Damage with Hits against Burning Enemies
-Distilled Emotions Combinations: (Guilt, Suffering, Fear)
-
-Flurry
-Anoint Effect: 20% increased Area of Effect while Unarmed 25% reduced Damage with Unarmed Attacks 20% increased Unarmed Attack Speed
-Distilled Emotions Combinations: (Fear, Suffering, Guilt)
-
-Instant Reload
-Anoint Effect: 40% increased Crossbow Reload Speed
-Distilled Emotions Combinations: (Fear, Guilt, Suffering)
-
-Path of Flame
-Anoint Effect: 18% increased Fire Damage 30% increased chance to Ignite Witch: 15% increased Critical Hit Chance for Spells Witch: 18% increased Physical Damage
-Distilled Emotions Combinations: (Suffering, Fear, Greed)
-
-Crystal Elixir
-Anoint Effect: 40% increased Elemental Damage with Attack Skills during any Flask Effect
-Distilled Emotions Combinations: (Fear, Suffering, Greed)
-
-Deflection
-Anoint Effect: 30% increased Block chance You take 10% of damage from Blocked Hits
-Distilled Emotions Combinations: (Greed, Fear, Suffering)
-
-Ancestral Unity
-Anoint Effect: Totems have 4% increased Attack Speed per Summoned Totem
-Distilled Emotions Combinations: (Suffering, Fear, Envy)
-
-Spectral Ward
-Anoint Effect: +1 to Maximum Energy Shield per 12 Evasion Rating on Equipped Body Armour
-Distilled Emotions Combinations: (Envy, Fear, Suffering)
-
-Warding Fetish
-Anoint Effect: 30% increased Damage per Curse on you 30% reduced effect of Curses on you 60% increased Energy Shield from Equipped Focus
-Distilled Emotions Combinations: (Fear, Suffering, Envy)
-
-Immortal Infamy
-Anoint Effect: 10% increased Energy Shield Recharge Rate Recover 2% of Life on Kill +10 to Intelligence
-Distilled Emotions Combinations: (Envy, Suffering, Fear)
-
-Savagery
-Anoint Effect: 50% increased Evasion Rating if you've consumed a Frenzy Charge Recently +1 to Maximum Frenzy Charges
-Distilled Emotions Combinations: (Suffering, Fear, Paranoia)
-
-Tides of Change
-Anoint Effect: 25% increased Skill Effect Duration
-Distilled Emotions Combinations: (Paranoia, Suffering, Fear)
-
-Feral Force
-Anoint Effect: 25% increased Attack Damage
-Distilled Emotions Combinations: (Fear, Suffering, Paranoia)
-
-Finesse
-Anoint Effect: 10% increased Accuracy Rating Gain Accuracy Rating equal to your Intelligence
-Distilled Emotions Combinations: (Fear, Suffering, Disgust)
-
-Dreamcatcher
-Anoint Effect: 25% increased Spell Damage while on Full Energy Shield 75% increased Energy Shield from Equipped Focus
-Distilled Emotions Combinations: (Disgust, Suffering, Fear)
-
-Greatest Defence
-Anoint Effect: 2% increased Attack Damage per 75 Armour or Evasion Rating on Shield
-Distilled Emotions Combinations: (Suffering, Fear, Disgust)
-
-Bleeding Out
-Anoint Effect: +250 to Accuracy against Bleeding Enemies Bleeding you inflict deals Damage 10% faster
-Distilled Emotions Combinations: (Despair, Suffering, Fear)
-
-Ignore Pain
-Anoint Effect: Gain 3 Rage when Hit by an Enemy Every Rage also grants 2% increased Stun Threshold
-Distilled Emotions Combinations: (Despair, Fear, Suffering)
-
-Equilibrium
-Anoint Effect: 30% increased Attack Damage if you've Cast a Spell Recently 10% increased Cast Speed if you've Attacked Recently
-Distilled Emotions Combinations: (Fear, Suffering, Despair)
-
-Swift Claw
-Anoint Effect: 25% increased Attack Damage
-Distilled Emotions Combinations: (Suffering, Fear, Despair)
-
-Spiked Shield
-Anoint Effect: 50% increased Defences from Equipped Shield 1% increased Attack Damage per 75 Armour or Evasion Rating on Shield
-Distilled Emotions Combinations: (Fear, Suffering, Fear)
-
-Carved Earth
-Anoint Effect: 20% increased Totem Damage 6% increased Attack and Cast Speed if you've summoned a Totem Recently
-Distilled Emotions Combinations: (Suffering, Suffering, Ire)
-
-Pure Power
-Anoint Effect: 2% increased Lightning Damage per 10 Intelligence
-Distilled Emotions Combinations: (Suffering, Guilt, Suffering)
-
-Power Conduction
-Anoint Effect: 25% increased Shock Duration 25% increased Magnitude of Shock you inflict
-Distilled Emotions Combinations: (Guilt, Suffering, Suffering)
-
-Perfect Opportunity
-Anoint Effect: 30% increased Stun Buildup Damage with Hits is Lucky against Heavy Stunned Enemies
-Distilled Emotions Combinations: (Ire, Suffering, Suffering)
-
-Fulmination
-Anoint Effect: 40% increased chance to Ignite 40% increased Damage with Hits against Ignited Enemies
-Distilled Emotions Combinations: (Suffering, Suffering, Greed)
-
-Leeching Toxins
-Anoint Effect: 30% increased Magnitude of Poison you inflict Recover 2% of Life on Killing a Poisoned Enemy
-Distilled Emotions Combinations: (Greed, Suffering, Suffering)
-
-Storm Swell
-Anoint Effect: Damage Penetrates 15% Cold Resistance Damage Penetrates 8% Lightning Resistance
-Distilled Emotions Combinations: (Envy, Suffering, Suffering)
-
-Entropic Incarnation
-Anoint Effect: Minions have +13% to Chaos Resistance Minions gain 8% of Physical Damage as Chaos Damage
-Distilled Emotions Combinations: (Suffering, Suffering, Envy)
-
-Illuminated Crown
-Anoint Effect: 20% increased Light Radius 70% increased Energy Shield from Equipped Helmet
-Distilled Emotions Combinations: (Suffering, Paranoia, Suffering)
-
-Breath of Ice
-Anoint Effect: Damage Penetrates 15% Cold Resistance +10 to Intelligence
-Distilled Emotions Combinations: (Suffering, Disgust, Suffering)
-
-Watchtowers
-Anoint Effect: Attack Skills have +1 to maximum number of Summoned Totems Skills that would Summon a Totem have 20% chance to Summon two Totems instead
-Distilled Emotions Combinations: (Disgust, Suffering, Suffering)
-
-Falcon Technique
-Anoint Effect: 1% increased Attack Speed per 15 Dexterity
-Distilled Emotions Combinations: (Suffering, Suffering, Despair)
-
-Ancestral Conduits
-Anoint Effect: 12% increased Attack and Cast Speed if you've summoned a Totem Recently
-Distilled Emotions Combinations: (Despair, Suffering, Suffering)
-
-Master of Hexes
-Anoint Effect: 25% reduced Curse Duration 18% increased Effect of your Curses
-Distilled Emotions Combinations: (Suffering, Fear, Suffering)
-
-Ancestral Artifice
-Anoint Effect: Attack Skills have +1 to maximum number of Summoned Totems 20% increased Totem Placement range
-Distilled Emotions Combinations: (Suffering, Suffering, Suffering)
-
-Lust for Power
-Anoint Effect: 5% chance that if you would gain Power Charges , you instead gain up to your maximum number of Power Charges +1 to Maximum Power Charges
-Distilled Emotions Combinations: (Isolation, Guilt, Guilt)
-
-Spell Haste
-Anoint Effect: 15% increased Evasion Rating 8% increased Cast Speed
-Distilled Emotions Combinations: (Ire, Guilt, Isolation)
-
-Pile On
-Anoint Effect: 60% increased Damage against Enemies with Fully Broken Armour
-Distilled Emotions Combinations: (Isolation, Ire, Ire)
-
-Asceticism
-Anoint Effect: Stun Threshold is based on 30% of your Energy Shield instead of Life
-Distilled Emotions Combinations: (Isolation, Ire, Guilt)
-
-Skullcrusher
-Anoint Effect: 20% more Damage against Heavy Stunned Enemies with Maces
-Distilled Emotions Combinations: (Ire, Isolation, Ire)
-
-Perpetual Freeze
-Anoint Effect: 15% increased Freeze Buildup 15% increased Chill and Freeze Duration on Enemies
-Distilled Emotions Combinations: (Guilt, Ire, Isolation)
-
-Wither Away
-Anoint Effect: Unwithered enemies are Withered for 8 seconds when they enter your Presence 20% increased Effect of Withered
-Distilled Emotions Combinations: (Guilt, Guilt, Isolation)
-
-Dynamism
-Anoint Effect: 40% increased Damage if you've Triggered a Skill Recently Meta Skills gain 15% increased Energy
-Distilled Emotions Combinations: (Isolation, Greed, Ire)
-
-Refills
-Anoint Effect: Life Flasks gain 0.15 charges per Second
-Distilled Emotions Combinations: (Greed, Ire, Isolation)
-
-Crushing Judgement
-Anoint Effect: 25% increased Armour Break Duration 25% increased Attack Area Damage
-Distilled Emotions Combinations: (Greed, Isolation, Ire)
-
-Shredding Force
-Anoint Effect: 15% increased Critical Hit Chance for Spells 15% increased Critical Spell Damage Bonus 15% increased Magnitude of Damaging Ailments you inflict with Critical Hits
-Distilled Emotions Combinations: (Guilt, Isolation, Greed)
-
-Firestarter
-Anoint Effect: 40% increased chance to Ignite Enemies Ignited by you have -5% to Fire Resistance
-Distilled Emotions Combinations: (Greed, Isolation, Guilt)
-
-Escalation
-Anoint Effect: 25% increased Warcry Speed 20% increased Damage for each different Warcry you've used Recently
-Distilled Emotions Combinations: (Isolation, Greed, Guilt)
-
-Full Salvo
-Anoint Effect: 25% increased Damage with Crossbows for each type of Ammunition fired in the past 10 seconds
-Distilled Emotions Combinations: (Ire, Isolation, Greed)
-
-Pure Chaos
-Anoint Effect: Gain 11% of Damage as Extra Chaos Damage
-Distilled Emotions Combinations: (Envy, Isolation, Guilt)
-
-Endurance
-Anoint Effect: +2 to Maximum Endurance Charges
-Distilled Emotions Combinations: (Guilt, Isolation, Envy)
-
-Impending Doom
-Anoint Effect: 40% faster Curse Activation Your Curses have 20% increased Effect if 50% of Curse Duration expired
-Distilled Emotions Combinations: (Envy, Isolation, Ire)
-
-Adamant Recovery
-Anoint Effect: Increases and Reductions to Armour also apply to Energy Shield Recharge Rate at 40% of their value
-Distilled Emotions Combinations: (Isolation, Envy, Ire)
-
-Backstabbing
-Anoint Effect: 25% increased Critical Damage Bonus with Daggers
-Distilled Emotions Combinations: (Envy, Ire, Isolation)
-
-Versatile Arms
-Anoint Effect: 6% increased Attack Speed with One Handed Melee Weapons 15% increased Accuracy Rating with One Handed Melee Weapons +10 to Strength and Dexterity
-Distilled Emotions Combinations: (Ire, Isolation, Envy)
-
-Sturdy Mind
-Anoint Effect: +30 to maximum Mana 14% increased Mana Regeneration Rate
-Distilled Emotions Combinations: (Isolation, Envy, Guilt)
-
-Burning Nature
-Anoint Effect: 25% increased Fire Damage 15% increased Ignite Duration on Enemies
-Distilled Emotions Combinations: (Greed, Isolation, Greed)
-
-Unforgiving
-Anoint Effect: +4 to Maximum Rage Inherent Rage Loss starts 1 second later
-Distilled Emotions Combinations: (Isolation, Greed, Greed)
-
-Inner Faith
-Anoint Effect: 20% increased Evasion Rating 20% increased maximum Energy Shield 25% reduced effect of Curses on you
-Distilled Emotions Combinations: (Envy, Greed, Isolation)
-
-Spiral into Insanity
-Anoint Effect: 29% increased Chaos Damage 10% increased Global Defences
-Distilled Emotions Combinations: (Greed, Isolation, Envy)
-
-Overflowing Power
-Anoint Effect: +2 to Maximum Power Charges
-Distilled Emotions Combinations: (Isolation, Envy, Greed)
-
-Storm Surge
-Anoint Effect: Damage Penetrates 8% Cold Resistance Damage Penetrates 15% Lightning Resistance
-Distilled Emotions Combinations: (Envy, Isolation, Greed)
-
-Throatseeker
-Anoint Effect: 60% increased Critical Damage Bonus 20% reduced Critical Hit Chance
-Distilled Emotions Combinations: (Greed, Envy, Isolation)
-
-Crippling Toxins
-Anoint Effect: 25% chance for Attacks to Maim on Hit against Poisoned Enemies 25% increased Magnitude of Poison you inflict
-Distilled Emotions Combinations: (Envy, Isolation, Envy)
-
-Pinpoint Shot
-Anoint Effect: Attacks gain increased Accuracy Rating equal to their Critical Hit Chance
-Distilled Emotions Combinations: (Isolation, Envy, Envy)
-
-Inescapable Cold
-Anoint Effect: 40% increased Freeze Buildup 20% increased Freeze Duration on Enemies
-Distilled Emotions Combinations: (Ire, Paranoia, Isolation)
-
-Energise
-Anoint Effect: 25% chance for Trigger skills to refund half of Energy Spent
-Distilled Emotions Combinations: (Isolation, Guilt, Paranoia)
-
-Whirling Onslaught
-Anoint Effect: 50% chance to gain Onslaught on Killing Blow with Axes
-Distilled Emotions Combinations: (Isolation, Ire, Paranoia)
-
-Flash Storm
-Anoint Effect: 30% increased chance to Shock Damage Penetrates 15% Lightning Resistance
-Distilled Emotions Combinations: (Paranoia, Ire, Isolation)
-
-One with the River
-Anoint Effect: 30% increased Defences while wielding a Staff 30% increased Stun Buildup with Quarterstaves 30% increased Daze Buildup with Quarterstaves 30% increased Freeze Buildup with Quarterstaves
-Distilled Emotions Combinations: (Guilt, Paranoia, Isolation)
-
-Reaching Strike
-Anoint Effect: 25% increased Melee Damage +2 to Melee Strike Range
-Distilled Emotions Combinations: (Isolation, Paranoia, Guilt)
-
-Glaciation
-Anoint Effect: Damage Penetrates 18% Cold Resistance 25% increased Cold Exposure Effect
-Distilled Emotions Combinations: (Paranoia, Guilt, Isolation)
-
-Heavy Buffer
-Anoint Effect: 40% increased maximum Energy Shield 10% reduced maximum Life
-Distilled Emotions Combinations: (Greed, Paranoia, Isolation)
-
-Burnout
-Anoint Effect: Ignites you inflict deal Damage 15% faster
-Distilled Emotions Combinations: (Isolation, Greed, Paranoia)
-
-Fast Acting Toxins
-Anoint Effect: Damaging Ailments deal damage 12% faster
-Distilled Emotions Combinations: (Paranoia, Greed, Isolation)
-
-Invocated Efficiency
-Anoint Effect: Recover 3% of Mana when you Invoke a Spell Triggered Spells deal 45% increased Spell Damage
-Distilled Emotions Combinations: (Isolation, Envy, Paranoia)
-
-Overload
-Anoint Effect: Damage Penetrates 10% Lightning Resistance if on Low Mana Damage Penetrates 15% Lightning Resistance
-Distilled Emotions Combinations: (Paranoia, Isolation, Envy)
-
-Hold Focus
-Anoint Effect: 15% increased Effect of your Mark Skills
-Distilled Emotions Combinations: (Envy, Isolation, Paranoia)
-
-Incendiary
-Anoint Effect: 30% increased chance to Ignite 30% increased Damage with Hits against Burning Enemies
-Distilled Emotions Combinations: (Isolation, Disgust, Guilt)
-
-Marked for Sickness
-Anoint Effect: Enemies you Mark take 10% increased Damage
-Distilled Emotions Combinations: (Guilt, Disgust, Isolation)
-
-Void
-Anoint Effect: 29% increased Chaos Damage Enemies you Curse have -3% to Chaos Resistance
-Distilled Emotions Combinations: (Isolation, Ire, Disgust)
-
-Battle Fever
-Anoint Effect: 5% increased Attack and Cast Speed 25% increased Physical Damage
-Distilled Emotions Combinations: (Disgust, Guilt, Isolation)
-
-Revenge
-Anoint Effect: 12% increased Attack Speed if you've been Hit Recently
-Distilled Emotions Combinations: (Ire, Disgust, Isolation)
-
-Savouring
-Anoint Effect: 20% chance for Flasks you use to not consume Charges
-Distilled Emotions Combinations: (Disgust, Ire, Isolation)
-
-Lucky Rabbit Foot
-Anoint Effect: 30% increased Damage while you have an active Charm 6% increased Movement Speed while you have an active Charm
-Distilled Emotions Combinations: (Isolation, Disgust, Ire)
-
-Snowpiercer
-Anoint Effect: Damage Penetrates 15% Cold Resistance +10 to Intelligence
-Distilled Emotions Combinations: (Isolation, Guilt, Disgust)
-
-Lasting Incantations
-Anoint Effect: 20% increased Spell Damage 20% increased Skill Effect Duration
-Distilled Emotions Combinations: (Isolation, Greed, Disgust)
-
-Stand and Deliver
-Anoint Effect: Projectiles have 40% increased Critical Damage Bonus against Enemies within 2m Projectiles deal 25% increased Damage with Hits against Enemies within 2m
-Distilled Emotions Combinations: (Disgust, Greed, Isolation)
-
-Pliable Flesh
-Anoint Effect: 6% of Damage taken Recouped as Life 25% increased speed of Recoup Effects
-Distilled Emotions Combinations: (Greed, Disgust, Isolation)
-
-Near at Hand
-Anoint Effect: 16% reduced Skill Effect Duration 10% reduced Slowing Potency of Debuffs on You
-Distilled Emotions Combinations: (Paranoia, Isolation, Paranoia)
-
-Falcon Dive
-Anoint Effect: 1% increased Attack Speed per 250 Accuracy Rating
-Distilled Emotions Combinations: (Isolation, Paranoia, Paranoia)
-
-Deterioration
-Anoint Effect: Damaging Ailments Cannot Be inflicted on you while you already have one 20% increased Magnitude of Damaging Ailments you inflict
-Distilled Emotions Combinations: (Paranoia, Paranoia, Isolation)
-
-Exposed to the Inferno
-Anoint Effect: Damage Penetrates 15% Fire Resistance Fire Exposure you inflict lowers Total Fire Resistance by an extra 5%
-Distilled Emotions Combinations: (Isolation, Envy, Disgust)
-
-Burning Strikes
-Anoint Effect: Gain 12% of Physical Damage as Extra Fire Damage
-Distilled Emotions Combinations: (Envy, Disgust, Isolation)
-
-Exploit
-Anoint Effect: 25% increased Damage with Hits against Enemies affected by Elemental Ailments 15% increased Duration of Ignite , Shock and Chill on Enemies
-Distilled Emotions Combinations: (Disgust, Envy, Isolation)
-
-Breath of Lightning
-Anoint Effect: Damage Penetrates 15% Lightning Resistance +10 to Dexterity
-Distilled Emotions Combinations: (Disgust, Paranoia, Isolation)
-
-Stacking Toxins
-Anoint Effect: Targets can be affected by +1 of your Poisons at the same time 20% reduced Magnitude of Poison you inflict
-Distilled Emotions Combinations: (Isolation, Disgust, Paranoia)
-
-Psychic Fragmentation
-Anoint Effect: 12% chance for Spell Skills to fire 2 additional Projectiles
-Distilled Emotions Combinations: (Paranoia, Disgust, Isolation)
-
-Split the Earth
-Anoint Effect: 10% chance to Aftershock for Slam Skills you use with Maces 10% chance to Aftershock for Strike Skills you use with Maces
-Distilled Emotions Combinations: (Isolation, Paranoia, Disgust)
-
-Lingering Horror
-Anoint Effect: 23% increased Chaos Damage 15% increased Skill Effect Duration
-Distilled Emotions Combinations: (Isolation, Disgust, Disgust)
-
-Harness the Elements
-Anoint Effect: 15% increased Damage for each type of Elemental Ailment on Enemy
-Distilled Emotions Combinations: (Disgust, Disgust, Isolation)
-
-Soul Bloom
-Anoint Effect: 15% increased Energy Shield Recovery rate
-Distilled Emotions Combinations: (Despair, Ire, Isolation)
-
-Staggering Palm
-Anoint Effect: 20% increased Critical Damage Bonus 20% increased Knockback Distance 20% increased Physical Damage
-Distilled Emotions Combinations: (Guilt, Isolation, Despair)
-
-Event Horizon
-Anoint Effect: 53% increased Chaos Damage Lose 3% of Life and Energy Shield when you use a Chaos Skill
-Distilled Emotions Combinations: (Despair, Isolation, Guilt)
-
-Stormbreaker
-Anoint Effect: 15% increased Damage for each type of Elemental Ailment on Enemy
-Distilled Emotions Combinations: (Isolation, Despair, Guilt)
-
-Maiming Strike
-Anoint Effect: 25% increased Attack Damage Attacks have 25% chance to Maim on Hit
-Distilled Emotions Combinations: (Despair, Isolation, Ire)
-
-Grip of Evil
-Anoint Effect: Minions have 40% increased Critical Damage Bonus
-Distilled Emotions Combinations: (Isolation, Despair, Ire)
-
-Kite Runner
-Anoint Effect: 3% increased Movement Speed 15% increased Projectile Speed 15% increased Projectile Damage
-Distilled Emotions Combinations: (Ire, Isolation, Despair)
-
-Climate Change
-Anoint Effect: 20% increased Freeze Buildup Gain 25% of Cold Damage as Extra Fire Damage against Frozen Enemies
-Distilled Emotions Combinations: (Greed, Isolation, Despair)
-
-Unexpected Finesse
-Anoint Effect: 10% increased Attack Damage Gain Accuracy Rating equal to your Strength
-Distilled Emotions Combinations: (Despair, Greed, Isolation)
-
-Blood Tearing
-Anoint Effect: 15% increased Magnitude of Bleeding you inflict 25% increased Physical Damage
-Distilled Emotions Combinations: (Despair, Isolation, Greed)
-
-Struck Through
-Anoint Effect: Attacks have +1% to Critical Hit Chance
-Distilled Emotions Combinations: (Isolation, Despair, Greed)
-
-Cut to the Bone
-Anoint Effect: Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt 10% chance to inflict Bleeding on Hit 20% increased Physical Damage
-Distilled Emotions Combinations: (Despair, Envy, Isolation)
-
-Lasting Toxins
-Anoint Effect: 10% increased Skill Effect Duration 50% increased Poison Duration
-Distilled Emotions Combinations: (Despair, Isolation, Envy)
-
-Exposed to the Storm
-Anoint Effect: Damage Penetrates 18% Lightning Resistance 30% increased Critical Hit Chance against enemies with Lightning Exposure
-Distilled Emotions Combinations: (Envy, Isolation, Despair)
-
-Lingering Whispers
-Anoint Effect: 40% increased Curse Duration 10% increased Effect of your Curses
-Distilled Emotions Combinations: (Isolation, Despair, Envy)
-
-Pierce the Heart
-Anoint Effect: Arrows Pierce an additional Target
-Distilled Emotions Combinations: (Despair, Isolation, Paranoia)
-
-Reusable Ammunition
-Anoint Effect: 15% chance for Crossbow Attacks to not consume a bolt
-Distilled Emotions Combinations: (Paranoia, Isolation, Despair)
-
-Tempered Mind
-Anoint Effect: 20% increased Critical Damage Bonus +10 to Strength 20% increased Physical Damage
-Distilled Emotions Combinations: (Isolation, Despair, Paranoia)
-
-Escalating Toxins
-Anoint Effect: 10% increased Poison Duration for each Poison you have inflicted Recently, up to a maximum of 100%
-Distilled Emotions Combinations: (Despair, Isolation, Disgust)
-
-Final Barrage
-Anoint Effect: 20% increased Cast Speed when on Low Life 10% reduced Cast Speed when on Full Life
-Distilled Emotions Combinations: (Isolation, Despair, Disgust)
-
-Fated End
-Anoint Effect: 30% increased Curse Duration Enemies Cursed by you have 50% reduced Life Regeneration Rate Enemies you Curse cannot Recharge Energy Shield
-Distilled Emotions Combinations: (Disgust, Isolation, Despair)
-
-Giantslayer
-Anoint Effect: 25% increased Damage with Hits against Rare and Unique Enemies 20% increased Accuracy Rating against Rare or Unique Enemies 20% increased chance to inflict Ailments against Rare or Unique Enemies
-Distilled Emotions Combinations: (Despair, Isolation, Despair)
-
-Endless Circuit
-Anoint Effect: 25% chance on Consuming a Shock on an Enemy to reapply it
-Distilled Emotions Combinations: (Isolation, Despair, Despair)
-
-Breath of Fire
-Anoint Effect: Damage Penetrates 15% Fire Resistance +10 to Strength
-Distilled Emotions Combinations: (Fear, Ire, Isolation)
-
-Fervour
-Anoint Effect: +2 to Maximum Frenzy Charges
-Distilled Emotions Combinations: (Fear, Guilt, Isolation)
-
-Cacophony
-Anoint Effect: 40% increased Damage with Warcries Warcry Skills have 25% increased Area of Effect
-Distilled Emotions Combinations: (Isolation, Guilt, Fear)
-
-Dampening Shield
-Anoint Effect: 28% increased maximum Energy Shield Gain 12% of maximum Energy Shield as additional Stun Threshold
-Distilled Emotions Combinations: (Guilt, Fear, Isolation)
-
-Death from Afar
-Anoint Effect: Projectiles have 25% increased Critical Hit Chance against Enemies further than 6m Projectiles deal 25% increased Damage with Hits against Enemies further than 6m
-Distilled Emotions Combinations: (Isolation, Fear, Guilt)
-
-Martial Artistry
-Anoint Effect: 25% increased Accuracy Rating with Quarterstaves 25% increased Critical Damage Bonus with Quarterstaves +25 to Dexterity
-Distilled Emotions Combinations: (Isolation, Ire, Fear)
-
-Presence Present
-Anoint Effect: Allies in your Presence have +100 to Accuracy Rating 35% increased Attack Damage while you have an Ally in your Presence
-Distilled Emotions Combinations: (Ire, Fear, Isolation)
-
-Exploit the Elements
-Anoint Effect: 24% increased Damage with Hits against Enemies affected by Elemental Ailments 30% increased chance to inflict Ailments against Rare or Unique Enemies
-Distilled Emotions Combinations: (Greed, Fear, Isolation)
-
-Fleshcrafting
-Anoint Effect: Minions gain 15% of their Maximum Life as Extra Maximum Energy Shield
-Distilled Emotions Combinations: (Isolation, Greed, Fear)
-
-Casting Cascade
-Anoint Effect: 15% reduced Spell Damage 6% increased Cast Speed for each different Non-Instant Spell you've Cast Recently
-Distilled Emotions Combinations: (Fear, Greed, Isolation)
-
-Controlling Magic
-Anoint Effect: 25% increased Critical Hit Chance for Spells Hits have 25% reduced Critical Hit Chance against you
-Distilled Emotions Combinations: (Envy, Fear, Isolation)
-
-Smoke Inhalation
-Anoint Effect: Damage Penetrates 15% Fire Resistance 15% increased Duration of Damaging Ailments on Enemies
-Distilled Emotions Combinations: (Isolation, Envy, Fear)
-
-Surging Currents
-Anoint Effect: Damage Penetrates 15% Lightning Resistance +10 to Dexterity
-Distilled Emotions Combinations: (Fear, Envy, Isolation)
-
-Grenadier
-Anoint Effect: Grenade Skills have + 1 Cooldown Use
-Distilled Emotions Combinations: (Paranoia, Fear, Isolation)
-
-Perfectly Placed Knife
-Anoint Effect: 30% increased Critical Hit Chance against Bleeding Enemies 20% chance to Aggravate Bleeding on targets you Critically Hit with Attacks
-Distilled Emotions Combinations: (Fear, Paranoia, Isolation)
-
-Exposed to the Cosmos
-Anoint Effect: Damage Penetrates 15% Cold Resistance Cold Exposure you inflict lowers Total Cold Resistance by an extra 5%
-Distilled Emotions Combinations: (Isolation, Fear, Paranoia)
-
-Heartbreaking
-Anoint Effect: 35% increased Critical Damage Bonus +10 to Strength
-Distilled Emotions Combinations: (Isolation, Paranoia, Fear)
-
-Electric Amplification
-Anoint Effect: Damage Penetrates 18% Lightning Resistance 25% increased Lightning Exposure Effect
-Distilled Emotions Combinations: (Isolation, Fear, Disgust)
-
-Battle Trance
-Anoint Effect: +8 to Maximum Rage
-Distilled Emotions Combinations: (Isolation, Disgust, Fear)
-
-Offensive Stance
-Anoint Effect: 1% increased Damage per 1% Chance to Block
-Distilled Emotions Combinations: (Disgust, Fear, Isolation)
-
-Supportive Ancestors
-Anoint Effect: 25% increased Damage while you have a Totem Totems have 2% increased Cast Speed per Summoned Totem Totems have 2% increased Attack Speed per Summoned Totem
-Distilled Emotions Combinations: (Fear, Disgust, Isolation)
-
-Spaghettification
-Anoint Effect: 3% increased Movement Speed 29% increased Chaos Damage -13% to Chaos Resistance 23% reduced Light Radius 7% increased Attributes
-Distilled Emotions Combinations: (Isolation, Despair, Fear)
-
-Relentless Fallen
-Anoint Effect: Minions have 20% increased Movement Speed Minions have 8% increased Attack and Cast Speed
-Distilled Emotions Combinations: (Despair, Fear, Isolation)
-
-Overzealous
-Anoint Effect: 16% increased Cast Speed 15% increased Mana Cost of Skills
-Distilled Emotions Combinations: (Fear, Despair, Isolation)
-
-Lightning Quick
-Anoint Effect: 14% increased Lightning Damage 8% increased Attack and Cast Speed with Lightning Skills
-Distilled Emotions Combinations: (Fear, Fear, Isolation)
-
-Glazed Flesh
-Anoint Effect: 3% of Damage Taken Recouped as Life, Mana and Energy Shield
-Distilled Emotions Combinations: (Isolation, Fear, Fear)
-
-Woodland Aspect
-Anoint Effect: Charms applied to you have 25% increased Effect
-Distilled Emotions Combinations: (Suffering, Guilt, Isolation)
-
-Marked for Death
-Anoint Effect: Culling Strike against Enemies you Mark
-Distilled Emotions Combinations: (Isolation, Suffering, Guilt)
-
-Forces of Nature
-Anoint Effect: Attack Damage Penetrates 15% of Enemy Elemental Resistances
-Distilled Emotions Combinations: (Suffering, Isolation, Ire)
-
-Raw Mana
-Anoint Effect: 12% increased maximum Mana 10% increased Mana Cost of Skills
-Distilled Emotions Combinations: (Suffering, Ire, Isolation)
-
-Trick Shot
-Anoint Effect: Projectiles have 15% chance to Chain an additional time from terrain
-Distilled Emotions Combinations: (Suffering, Isolation, Guilt)
-
-Total Incineration
-Anoint Effect: 25% increased Critical Damage Bonus against Burning Enemies 10% chance to refresh Ignite Duration on Critical Hit
-Distilled Emotions Combinations: (Guilt, Isolation, Suffering)
-
-Ingenuity
-Anoint Effect: +25 to Intelligence
-Distilled Emotions Combinations: (Ire, Isolation, Suffering)
-
-Drenched
-Anoint Effect: 40% increased chance to Shock Gain 5% of Lightning Damage as Extra Cold Damage
-Distilled Emotions Combinations: (Isolation, Suffering, Ire)
-
-Low Tolerance
-Anoint Effect: 60% increased Effect of Poison you inflict on targets that are not Poisoned
-Distilled Emotions Combinations: (Suffering, Greed, Isolation)
-
-General Electric
-Anoint Effect: 40% increased chance to Shock 5% increased Attack and Cast Speed with Lightning Skills
-Distilled Emotions Combinations: (Isolation, Suffering, Greed)
-
-Overexposure
-Anoint Effect: 30% increased Cold Exposure Effect 30% increased Fire Exposure Effect 30% increased Lightning Exposure Effect
-Distilled Emotions Combinations: (Suffering, Isolation, Greed)
-
-Voracious
-Anoint Effect: 20% of Leech is Instant
-Distilled Emotions Combinations: (Greed, Isolation, Suffering)
-
-Left Hand of Darkness
-Anoint Effect: Minions have 20% additional Physical Damage Reduction Minions have +23% to Chaos Resistance
-Distilled Emotions Combinations: (Isolation, Suffering, Envy)
-
-Right Hand of Darkness
-Anoint Effect: Minions have 20% increased Area of Effect Minions have 10% chance to inflict Withered on Hit
-Distilled Emotions Combinations: (Envy, Isolation, Suffering)
-
-Effervescent
-Anoint Effect: 4% increased Cast Speed for each different Non-Instant Spell you've Cast Recently
-Distilled Emotions Combinations: (Suffering, Isolation, Envy)
-
-Stars Aligned
-Anoint Effect: Damage with Hits is Lucky against Enemies that are on Low Life
-Distilled Emotions Combinations: (Suffering, Envy, Isolation)
-
-Volcanic Skin
-Anoint Effect: Gain 8% of Damage as Extra Fire Damage +20% to Fire Resistance
-Distilled Emotions Combinations: (Suffering, Isolation, Paranoia)
-
-Polymathy
-Anoint Effect: 10% increased Attributes
-Distilled Emotions Combinations: (Isolation, Suffering, Paranoia)
-
-Power Shots
-Anoint Effect: 15% reduced Attack Speed with Crossbows 80% increased Critical Damage Bonus with Crossbows
-Distilled Emotions Combinations: (Paranoia, Isolation, Suffering)
-
-Cluster Bombs
-Anoint Effect: 50% increased Grenade fuse duration Grenade Skills Fire an additional Projectile
-Distilled Emotions Combinations: (Suffering, Isolation, Disgust)
-
-One with the Storm
-Anoint Effect: Quarterstaff Skills that consume Power Charges count as consuming an additional Power Charge
-Distilled Emotions Combinations: (Isolation, Suffering, Disgust)
-
-Coming Calamity
-Anoint Effect: 50% increased Cold Damage while affected by Herald of Ice 50% increased Fire Damage while affected by Herald of Ash 50% increased Lightning Damage while affected by Herald of Thunder
-Distilled Emotions Combinations: (Disgust, Isolation, Suffering)
-
-Touch the Arcane
-Anoint Effect: 40% increased effect of Arcane Surge on you
-Distilled Emotions Combinations: (Despair, Isolation, Suffering)
-
-Repeating Explosives
-Anoint Effect: Grenades have 15% chance to activate a second time
-Distilled Emotions Combinations: (Suffering, Despair, Isolation)
-
-Calibration
-Anoint Effect: 30% increased maximum Energy Shield 4% increased maximum Mana
-Distilled Emotions Combinations: (Suffering, Isolation, Despair)
-
-Sniper
-Anoint Effect: Arrows gain Critical Hit Chance as they travel farther, up to 60% increased Critical Hit Chance
-Distilled Emotions Combinations: (Isolation, Suffering, Despair)
-
-Urgent Call
-Anoint Effect: Recover 2% of Life and Mana when you use a Warcry 24% increased Warcry Speed 18% increased Warcry Cooldown Recovery Rate
-Distilled Emotions Combinations: (Fear, Isolation, Suffering)
-
-Endless Blizzard
-Anoint Effect: +1 to Level of all Cold Skills
-Distilled Emotions Combinations: (Isolation, Suffering, Fear)
-
-Sudden Infuriation
-Anoint Effect: 3% chance that if you would gain Rage on Hit , you instead gain up to your maximum Rage
-Distilled Emotions Combinations: (Fear, Suffering, Isolation)
-
-Patient Barrier
-Anoint Effect: 60% increased maximum Energy Shield 20% slower start of Energy Shield Recharge
-Distilled Emotions Combinations: (Suffering, Isolation, Fear)
-
-Feathered Fletching
-Anoint Effect: Increases and Reductions to Projectile Speed also apply to Damage with Bows
-Distilled Emotions Combinations: (Isolation, Suffering, Suffering)
-
-Fast Metabolism
-Anoint Effect: Life Leech effects are not removed when Unreserved Life is Filled
-Distilled Emotions Combinations: (Suffering, Isolation, Suffering)
-
-Eldritch Will
-Anoint Effect: 3% increased maximum Life, Mana and Energy Shield Gain 20% of maximum Energy Shield as additional Stun Threshold
-Distilled Emotions Combinations: (Isolation, Guilt, Isolation)
-
-Goring
-Anoint Effect: 5% reduced maximum Life 30% increased amount of Life Leeched 40% increased Physical Damage
-Distilled Emotions Combinations: (Ire, Isolation, Isolation)
-
-Lord of Horrors
-Anoint Effect: Minions have 12% reduced Reservation
-Distilled Emotions Combinations: (Isolation, Isolation, Ire)
-
-Spike Pit
-Anoint Effect: Enemies in Jagged Ground you create take 10% increased Damage
-Distilled Emotions Combinations: (Isolation, Isolation, Greed)
-
-Building Toxins
-Anoint Effect: 25% reduced Poison Duration Targets can be affected by +1 of your Poisons at the same time
-Distilled Emotions Combinations: (Greed, Isolation, Isolation)
-
-Unimpeded
-Anoint Effect: 24% reduced Slowing Potency of Debuffs on You
-Distilled Emotions Combinations: (Isolation, Envy, Isolation)
-
-Wide Barrier
-Anoint Effect: 30% increased Block chance 25% reduced Global Defences
-Distilled Emotions Combinations: (Envy, Isolation, Isolation)
-
-Zone of Control
-Anoint Effect: 40% increased Area of Effect of Curses 8% increased Effect of your Curses Enemies you Curse are Hindered , with 15% reduced Movement Speed
-Distilled Emotions Combinations: (Isolation, Isolation, Envy)
-
-Catalysis
-Anoint Effect: 20% increased Elemental Damage with Attacks 5% of Physical Damage from Hits taken as Damage of a Random Element
-Distilled Emotions Combinations: (Isolation, Isolation, Paranoia)
-
-Enhanced Barrier
-Anoint Effect: 25% increased maximum Energy Shield +1% to all Maximum Elemental Resistances
-Distilled Emotions Combinations: (Isolation, Paranoia, Isolation)
-
-Cremation
-Anoint Effect: Damage Penetrates 18% Fire Resistance 25% increased Fire Exposure Effect
-Distilled Emotions Combinations: (Isolation, Disgust, Isolation)
-
-Vocal Empowerment
-Anoint Effect: Warcries Empower an additional Attack
-Distilled Emotions Combinations: (Isolation, Isolation, Despair)
-
-Dark Entries
-Anoint Effect: +1 to Level of all Chaos Skills
-Distilled Emotions Combinations: (Despair, Isolation, Isolation)
-
-Enraged Reaver
-Anoint Effect: + 10 to Maximum Rage while wielding an Axe
-Distilled Emotions Combinations: (Isolation, Isolation, Fear)
-
-Wild Storm
-Anoint Effect: 15% more Maximum Lightning Damage
-Distilled Emotions Combinations: (Isolation, Fear, Isolation)
-
-Lightning Rod
-Anoint Effect: Lightning Damage with Non-Critical Hits is Lucky
-Distilled Emotions Combinations: (Suffering, Isolation, Isolation)
-
-Prism Guard
-Anoint Effect: +1% to all Maximum Elemental Resistances +5% to all Elemental Resistances
-Distilled Emotions Combinations: (Isolation, Isolation, Suffering)
-
-Unnatural Resilience
-Anoint Effect: 2% to Maximum Fire Resistance for each 40% Uncapped Fire Resistance
-Distilled Emotions Combinations: (Isolation, Isolation, Isolation)
+[
+          { "Name": "Stance Breaker", "Anoint Effect": "50% reduced Enemy Chance to Block Sword Attacks", "Combinations": ["Ire", "Guilt", "Guilt"] },
+          { "Name": "Open Mind", "Anoint Effect": "25% increased Mana Regeneration Rate", "Combinations": ["Guilt", "Guilt", "Ire"] },
+          { "Name": "Blinding Flash", "Anoint Effect": "20% increased Blind Effect Blind Enemies when they Stun you", "Combinations": ["Ire", "Guilt", "Ire"] },
+          { "Name": "Insulated Treads", "Anoint Effect": "Gain Ailment Threshold equal to the lowest of Evasion and Armour on your Boots", "Combinations": ["Ire", "Ire", "Ire"] },
+          { "Name": "High Alert", "Anoint Effect": "50% increased Evasion Rating when on Full Life 25% increased Stun Threshold while on Full Life", "Combinations": ["Ire", "Ire", "Greed"] },
+          { "Name": "Combat Alchemy", "Anoint Effect": "10% chance for Flasks you use to not consume Charges 20% increased Life and Mana Recovery from Flasks", "Combinations": ["Guilt", "Greed", "Ire"] },
+          { "Name": "Eagle Eye", "Anoint Effect": "+30 to Accuracy Rating 10% increased Accuracy Rating", "Combinations": ["Ire", "Greed", "Guilt"] },
+          { "Name": "Defensive Reflexes", "Anoint Effect": "12% increased Block chance 2 Mana gained when you Block", "Combinations": ["Greed", "Ire", "Ire"] },
+          { "Name": "Volatile Catalyst", "Anoint Effect": "10% increased Area of Effect 10% increased Cooldown Recovery Rate", "Combinations": ["Greed", "Guilt", "Ire"] },
+          { "Name": "Back in Action", "Anoint Effect": "80% increased Stun Recovery", "Combinations": ["Ire", "Guilt", "Greed"] },
+          { "Name": "Hard to Kill", "Anoint Effect": "40% increased Flask Life Recovery rate Regenerate 0.75% of Life per second", "Combinations": ["Guilt", "Greed", "Guilt"] },
+          { "Name": "Investing Energies", "Anoint Effect": "40% increased Mana Regeneration Rate while stationary 20% reduced Mana Regeneration Rate while moving", "Combinations": ["Ire", "Ire", "Envy"] },
+          { "Name": "Deadly Flourish", "Anoint Effect": "20% increased Melee Critical Hit Chance melee critical strike chance +% when on full life [20]", "Combinations": ["Envy", "Ire", "Guilt"] },
+          { "Name": "Vigilance", "Anoint Effect": "12% increased Block chance 6 Life gained when you Block", "Combinations": ["Guilt", "Envy", "Guilt"] },
+          { "Name": "Critical Overload", "Anoint Effect": "15% increased Critical Hit Chance for Spells 15% increased Spell Damage if you've dealt a Critical Hit Recently", "Combinations": ["Guilt", "Envy", "Ire"] },
+          { "Name": "Altered Brain Chemistry", "Anoint Effect": "25% increased Mana Recovery from Flasks 10% increased Mana Recovery Rate during Effect of any Mana Flask", "Combinations": ["Ire", "Envy", "Guilt"] },
+          { "Name": "Defiance", "Anoint Effect": "80% increased Armour and Evasion Rating when on Low Life", "Combinations": ["Envy", "Guilt", "Ire"] },
+          { "Name": "Deft Recovery", "Anoint Effect": "30% increased Stun Recovery 30% increased Stun Threshold if you haven't been Stunned Recently", "Combinations": ["Envy", "Ire", "Ire"] },
+          { "Name": "Flashy Deflection", "Anoint Effect": "12% increased Block chance 40% increased Defences from Equipped Shield", "Combinations": ["Greed", "Guilt", "Greed"] },
+          { "Name": "Backup Plan", "Anoint Effect": "40% increased Evasion Rating if you have been Hit Recently 40% increased Armour if you haven't been Hit Recently", "Combinations": ["Greed", "Greed", "Ire"] },
+          { "Name": "Sharpened Claw", "Anoint Effect": "25% increased Attack Damage", "Combinations": ["Ire", "Greed", "Greed"] },
+          { "Name": "Heavy Ammunition", "Anoint Effect": "8% reduced Attack Speed 40% increased Projectile Damage 40% increased Projectile Stun Buildup", "Combinations": ["Guilt", "Greed", "Greed"] },
+          { "Name": "Smooth Buckler", "Anoint Effect": "12% increased Block chance 10 Mana gained when you Block", "Combinations": ["Guilt", "Envy", "Greed"] },
+          { "Name": "Thickened Arteries", "Anoint Effect": "5% reduced Movement Speed Regenerate 1% of Life per second while stationary", "Combinations": ["Envy", "Guilt", "Greed"] },
+          { "Name": "Cross Strike", "Anoint Effect": "20% increased Accuracy Rating while Dual Wielding 3% increased Movement Speed while Dual Wielding", "Combinations": ["Guilt", "Greed", "Envy"] },
+          { "Name": "Initiative", "Anoint Effect": "30% increased Melee Damage when on Full Life 16% increased Attack Speed if you haven't Attacked Recently", "Combinations": ["Greed", "Ire", "Envy"] },
+          { "Name": "Practiced Signs", "Anoint Effect": "6% increased Cast Speed", "Combinations": ["Greed", "Guilt", "Envy"] },
+          { "Name": "Determined Precision", "Anoint Effect": "30% increased Accuracy Rating at Close Range +10 to Dexterity", "Combinations": ["Ire", "Greed", "Envy"] },
+          { "Name": "Taste for Blood", "Anoint Effect": "Gain 20 Life per Enemy Killed 2% chance to Recover all Life when you Kill an Enemy", "Combinations": ["Envy", "Ire", "Greed"] },
+          { "Name": "Life from Death", "Anoint Effect": "Recover 3% of Life on Kill", "Combinations": ["Greed", "Greed", "Greed"] },
+          { "Name": "Smash", "Anoint Effect": "20% increased Melee Damage 40% increased Melee Damage against Heavy Stunned enemies", "Combinations": ["Envy", "Envy", "Ire"] },
+          { "Name": "Resilient Soul", "Anoint Effect": "20% increased Life Regeneration rate 5% of Damage taken Recouped as Life", "Combinations": ["Envy", "Guilt", "Envy"] },
+          { "Name": "Self Mortification", "Anoint Effect": "Gain 20% of maximum Energy Shield as additional Stun Threshold 20% increased Stun Threshold while on Full Life", "Combinations": ["Ire", "Envy", "Envy"] },
+          { "Name": "Arcane Alchemy", "Anoint Effect": "Mana Flasks gain 0.1 charges per Second +10 to Intelligence", "Combinations": ["Envy", "Greed", "Greed"] },
+          { "Name": "Freedom of Movement", "Anoint Effect": "30% increased Evasion Rating 30% increased Evasion Rating if you've Dodge Rolled Recently", "Combinations": ["Greed", "Greed", "Envy"] },
+          { "Name": "Infused Flesh", "Anoint Effect": "+20 to maximum Life 8% of Damage taken Recouped as Life", "Combinations": ["Greed", "Envy", "Envy"] },
+          { "Name": "Essence Infusion", "Anoint Effect": "40% increased Energy Shield Recharge Rate +10 to Intelligence", "Combinations": ["Envy", "Envy", "Greed"] },
+          { "Name": "Ether Flow", "Anoint Effect": "25% reduced Mana Regeneration Rate while stationary 50% increased Mana Regeneration Rate while moving", "Combinations": ["Envy", "Greed", "Envy"] },
+          { "Name": "Close Confines", "Anoint Effect": "25% chance for Projectiles to Pierce Enemies within 3m distance of you", "Combinations": ["Ire", "Paranoia", "Ire"] },
+          { "Name": "Catlike Agility", "Anoint Effect": "25% increased Evasion Rating 25% increased Evasion Rating if you've Dodge Rolled Recently", "Combinations": ["Paranoia", "Guilt", "Ire"] },
+          { "Name": "Seeing Stars", "Anoint Effect": "25% increased Daze Buildup 25% increased Daze Duration", "Combinations": ["Ire", "Guilt", "Paranoia"] },
+          { "Name": "Clear Space", "Anoint Effect": "20% increased Knockback Distance 20% chance to Knock Enemies Back with Hits at Close Range", "Combinations": ["Paranoia", "Guilt", "Guilt"] },
+          { "Name": "Careful Aim", "Anoint Effect": "16% increased Projectile Damage 40% increased Accuracy Rating at Close Range", "Combinations": ["Guilt", "Guilt", "Paranoia"] },
+          { "Name": "Briny Carapace", "Anoint Effect": "60% increased Stun Threshold for each time you've been Stunned Recently", "Combinations": ["Guilt", "Ire", "Paranoia"] },
+          { "Name": "Strong Chin", "Anoint Effect": "Gain Stun Threshold equal to the lowest of Evasion and Armour on your Helmet", "Combinations": ["Paranoia", "Ire", "Guilt"] },
+          { "Name": "Heavy Drinker", "Anoint Effect": "30% increased Flask Effect Duration 20% increased Life Recovery from Flasks Recover 5% of Life when you use a Life Flask while on Low Life", "Combinations": ["Envy", "Envy", "Envy"] },
+          { "Name": "Stand Ground", "Anoint Effect": "Regenerate 1% of Life per second while affected by any Damaging Ailment Regenerate 1% of Life per second while stationary", "Combinations": ["Greed", "Paranoia", "Guilt"] },
+          { "Name": "Mass Rejuvenation", "Anoint Effect": "Regenerate 0.5% of Life per second Allies in your Presence Regenerate 1% of your Maximum Life per second", "Combinations": ["Ire", "Paranoia", "Greed"] },
+          { "Name": "Radial Force", "Anoint Effect": "10% increased Area of Effect 10% increased Area Damage", "Combinations": ["Paranoia", "Greed", "Ire"] },
+          { "Name": "Defender's Resolve", "Anoint Effect": "12% increased Block chance Stagger empties 50% faster while your Shield is lowered", "Combinations": ["Guilt", "Paranoia", "Greed"] },
+          { "Name": "Feel no Pain", "Anoint Effect": "20% increased Armour and Evasion Rating 20% increased Stun Threshold", "Combinations": ["Paranoia", "Greed", "Guilt"] },
+          { "Name": "Shockwaves", "Anoint Effect": "30% increased Area of Effect if you've Stunned an Enemy with a Two Handed Melee Weapon Recently", "Combinations": ["Greed", "Paranoia", "Ire"] },
+          { "Name": "Battle-hardened", "Anoint Effect": "Hits against you have 20% reduced Critical Damage Bonus 20% increased Armour and Evasion Rating +5 to Strength and Dexterity", "Combinations": ["Greed", "Guilt", "Paranoia"] },
+          { "Name": "Primal Protection", "Anoint Effect": "25% increased Charm Effect Duration 25% increased Charm Charges gained", "Combinations": ["Guilt", "Greed", "Paranoia"] },
+          { "Name": "Fear of Death", "Anoint Effect": "Minions have +150 to Accuracy Rating 25% increased Minion Accuracy Rating", "Combinations": ["Envy", "Paranoia", "Guilt"] },
+          { "Name": "Near Sighted", "Anoint Effect": "60% increased Accuracy Rating at Close Range", "Combinations": ["Ire", "Envy", "Paranoia"] },
+          { "Name": "Shedding Skin", "Anoint Effect": "40% increased Elemental Ailment Threshold 10% reduced Duration of Ailments on You", "Combinations": ["Envy", "Ire", "Paranoia"] },
+          { "Name": "Break Focus", "Anoint Effect": "Enemies you Mark have 15% reduced Accuracy Rating", "Combinations": ["Paranoia", "Envy", "Ire"] },
+          { "Name": "Siphon", "Anoint Effect": "Recover 2% of Mana on Kill 25% increased amount of Mana Leeched", "Combinations": ["Paranoia", "Envy", "Guilt"] },
+          { "Name": "Critical Exploit", "Anoint Effect": "25% increased Critical Hit Chance", "Combinations": ["Envy", "Paranoia", "Ire"] },
+          { "Name": "Killer Instinct", "Anoint Effect": "30% increased Attack Damage when on Full Life 50% increased Attack Damage when on Low Life", "Combinations": ["Greed", "Paranoia", "Greed"] },
+          { "Name": "Warding Potions", "Anoint Effect": "10% reduced Flask Charges used from Mana Flasks Remove a Curse when you use a Mana Flask", "Combinations": ["Greed", "Envy", "Paranoia"] },
+          { "Name": "Electrifying Nature", "Anoint Effect": "25% increased Lightning Damage 15% increased Shock Duration", "Combinations": ["Envy", "Greed", "Paranoia"] },
+          { "Name": "Ripping Blade", "Anoint Effect": "25% increased Damage with Swords", "Combinations": ["Paranoia", "Envy", "Greed"] },
+          { "Name": "Exposed Wounds", "Anoint Effect": "15% increased chance to inflict Ailments Break 30% increased Armour on enemies affected by Ailments", "Combinations": ["Envy", "Paranoia", "Greed"] },
+          { "Name": "True Strike", "Anoint Effect": "+10 to Dexterity 20% increased Critical Hit Chance", "Combinations": ["Ire", "Guilt", "Disgust"] },
+          { "Name": "Flip the Script", "Anoint Effect": "Recover 20% of Life when you Heavy Stun a Rare or Unique Enemy", "Combinations": ["Ire", "Disgust", "Ire"] },
+          { "Name": "Dispatch Foes", "Anoint Effect": "80% increased Critical Hit Chance if you haven't dealt a Critical Hit Recently", "Combinations": ["Envy", "Envy", "Paranoia"] },
+          { "Name": "Hulking Smash", "Anoint Effect": "30% increased Stun Buildup +15 to Strength", "Combinations": ["Disgust", "Guilt", "Guilt"] },
+          { "Name": "Relentless Vindicator", "Anoint Effect": "10% increased Damage 10% increased Critical Hit Chance +5 to Strength and Intelligence", "Combinations": ["Envy", "Paranoia", "Envy"] },
+          { "Name": "Sharp Sight", "Anoint Effect": "5% increased Attack Speed 30% increased Accuracy Rating against Rare or Unique Enemies", "Combinations": ["Guilt", "Disgust", "Ire"] },
+          { "Name": "Shrapnel", "Anoint Effect": "30% chance to Pierce an Enemy Projectiles have 10% chance to Chain an additional time from terrain", "Combinations": ["Guilt", "Guilt", "Disgust"] },
+          { "Name": "Rapid Recharge", "Anoint Effect": "25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge Witch: Minions have 15% increased maximum Life Witch: Minions Revive 15% faster", "Combinations": ["Guilt", "Ire", "Disgust"] },
+          { "Name": "Potent Concoctions", "Anoint Effect": "Flasks applied to you have 25% increased Effect", "Combinations": ["Disgust", "Ire", "Guilt"] },
+          { "Name": "Remorseless", "Anoint Effect": "15% increased Projectile Damage 30% increased Stun Buildup against enemies within 2 metres +5 to Strength and Dexterity", "Combinations": ["Greed", "Disgust", "Guilt"] },
+          { "Name": "Roil", "Anoint Effect": "Spell Skills have 30% increased Area of Effect 10% reduced Spell Area Damage", "Combinations": ["Disgust", "Greed", "Ire"] },
+          { "Name": "Wellspring", "Anoint Effect": "30% increased Mana Recovery from Flasks 8% increased Attack and Cast Speed during Effect of any Mana Flask", "Combinations": ["Disgust", "Greed", "Guilt"] },
+          { "Name": "Mental Perseverance", "Anoint Effect": "10% of Damage is taken from Mana before Life", "Combinations": ["Ire", "Disgust", "Greed"] },
+          { "Name": "Unerring Impact", "Anoint Effect": "10% increased Accuracy Rating with One Handed Melee Weapons 10% increased Accuracy Rating with Two Handed Melee Weapons +2 to Melee Strike Range", "Combinations": ["Greed", "Disgust", "Ire"] },
+          { "Name": "Afterimage", "Anoint Effect": "8% more chance to Evade Melee Attacks", "Combinations": ["Guilt", "Greed", "Disgust"] },
+          { "Name": "Preemptive Strike", "Anoint Effect": "100% increased Critical Damage Bonus against Enemies that are on Full Life", "Combinations": ["Guilt", "Disgust", "Greed"] },
+          { "Name": "Titan's Determination", "Anoint Effect": "25% increased Stun Threshold 20% increased Life Regeneration Rate while moving", "Combinations": ["Ire", "Paranoia", "Paranoia"] },
+          { "Name": "Pocket Sand", "Anoint Effect": "50% increased Blind Effect", "Combinations": ["Paranoia", "Guilt", "Paranoia"] },
+          { "Name": "Impenetrable Shell", "Anoint Effect": "Defend with 150% of Armour against Attacks from further than 6m", "Combinations": ["Paranoia", "Paranoia", "Ire"] },
+          { "Name": "Arcane Mixtures", "Anoint Effect": "25% increased Energy Shield Recharge Rate Mana Flasks gain 0.1 charges per Second", "Combinations": ["Paranoia", "Paranoia", "Guilt"] },
+          { "Name": "Strong Links", "Anoint Effect": "Link Skills have 20% increased Buff Effect Link Skills have 20% increased Skill Effect Duration", "Combinations": ["Guilt", "Disgust", "Envy"] },
+          { "Name": "Quick-change Act", "Anoint Effect": "50% increased Weapon Swap Speed", "Combinations": ["Envy", "Disgust", "Ire"] },
+          { "Name": "Catapult", "Anoint Effect": "15% increased Projectile Speed 15% increased Area of Effect for Attacks", "Combinations": ["Envy", "Disgust", "Guilt"] },
+          { "Name": "Unbound Forces", "Anoint Effect": "40% increased Chill Duration on Enemies 40% increased Shock Duration 25% increased Magnitude of Chill you inflict 25% increased Magnitude of Shock you inflict", "Combinations": ["Disgust", "Envy", "Guilt"] },
+          { "Name": "Twinned Tethers", "Anoint Effect": "Link Skills Link to 1 additional random target", "Combinations": ["Guilt", "Envy", "Disgust"] },
+          { "Name": "Reinvigoration", "Anoint Effect": "Regenerate 1% of Life per Second if you've used a Life Flask in the past 10 seconds", "Combinations": ["Disgust", "Envy", "Ire"] },
+          { "Name": "Immaterial", "Anoint Effect": "50% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds 30% increased Evasion Rating while you have Energy Shield", "Combinations": ["Ire", "Disgust", "Envy"] },
+          { "Name": "Regenerative Flesh", "Anoint Effect": "Minions Recoup 10% of Damage taken as Life", "Combinations": ["Greed", "Disgust", "Greed"] },
+          { "Name": "Forcewave", "Anoint Effect": "20% increased Stun Buildup 20% increased Knockback Distance +10 to Strength", "Combinations": ["Greed", "Paranoia", "Paranoia"] },
+          { "Name": "Careful Consideration", "Anoint Effect": "30% reduced Evasion Rating if you have been Hit Recently 100% increased Evasion Rating if you haven't been Hit Recently", "Combinations": ["Paranoia", "Paranoia", "Greed"] },
+          { "Name": "Beastial Skin", "Anoint Effect": "100% increased Evasion Rating from Equipped Body Armour", "Combinations": ["Greed", "Disgust", "Envy"] },
+          { "Name": "Devastating Devices", "Anoint Effect": "25% increased Trap Damage", "Combinations": ["Disgust", "Envy", "Greed"] }, // Corrected based on likely pattern
+          { "Name": "Whirling Assault", "Anoint Effect": "8% increased Attack Speed with Quarterstaves Knocks Back Enemies if you get a Critical Hit with a Quarterstaff", "Combinations": ["Envy", "Disgust", "Greed"] },
+          { "Name": "Unbreaking", "Anoint Effect": "30% increased Stun Threshold 30% increased Elemental Ailment Threshold", "Combinations": ["Paranoia", "Envy", "Paranoia"] },
+          { "Name": "Resolution", "Anoint Effect": "10% increased Global Defences 25% increased Stun Threshold", "Combinations": ["Envy", "Disgust", "Envy"] },
+          { "Name": "Adverse Growth", "Anoint Effect": "20% reduced Life Regeneration rate 20% of Damage taken Recouped as Mana", "Combinations": ["Ire", "Paranoia", "Disgust"] },
+          { "Name": "Doomsayer", "Anoint Effect": "Herald Skills have 30% increased Area of Effect Herald Skills deal 30% increased Damage", "Combinations": ["Paranoia", "Guilt", "Disgust"] },
+          { "Name": "Taut Flesh", "Anoint Effect": "15% of Physical Damage taken Recouped as Life", "Combinations": ["Disgust", "Ire", "Paranoia"] },
+          { "Name": "Sundering", "Anoint Effect": "25% increased Critical Damage Bonus for Attack Damage +25% to Critical Damage Bonus against Stunned Enemies", "Combinations": ["Disgust", "Paranoia", "Ire"] },
+          { "Name": "Blur", "Anoint Effect": "4% increased Movement Speed 20% increased Evasion Rating +10 to Dexterity", "Combinations": ["Paranoia", "Disgust", "Ire"] },
+          { "Name": "Roll and Strike", "Anoint Effect": "25% increased Damage with Spears", "Combinations": ["Guilt", "Paranoia", "Disgust"] },
+          { "Name": "Deafening Cries", "Anoint Effect": "25% increased Warcry Cooldown Recovery Rate 8% increased Damage for each time you've Warcried Recently", "Combinations": ["Disgust", "Guilt", "Paranoia"] },
+          { "Name": "Guttural Roar", "Anoint Effect": "30% increased Warcry Speed Warcry Skills have 30% increased Area of Effect", "Combinations": ["Paranoia", "Ire", "Disgust"] },
+          { "Name": "Serrated Edges", "Anoint Effect": "10% increased Critical Hit Chance for Attacks 30% increased Attack Damage against Rare or Unique Enemies", "Combinations": ["Paranoia", "Disgust", "Greed"] },
+          { "Name": "Cranial Impact", "Anoint Effect": "30% increased Stun Buildup Gain an Endurance Charge when you Heavy Stun a Rare or Unique Enemy", "Combinations": ["Greed", "Paranoia", "Disgust"] },
+          { "Name": "Viciousness", "Anoint Effect": "8% increased Melee Attack Speed +10 to Dexterity", "Combinations": ["Disgust", "Greed", "Paranoia"] },
+          { "Name": "Sturdy Metal", "Anoint Effect": "80% increased Armour from Equipped Body Armour", "Combinations": ["Paranoia", "Greed", "Disgust"] },
+          { "Name": "Hunter's Talisman", "Anoint Effect": "+1 Charm Slot", "Combinations": ["Paranoia", "Paranoia", "Paranoia"] },
+          { "Name": "Impact Area", "Anoint Effect": "15% increased Area of Effect if you have Stunned an Enemy Recently 15% increased Area of Effect for Attacks", "Combinations": ["Paranoia", "Envy", "Disgust"] },
+          { "Name": "Spiked Whip", "Anoint Effect": "25% increased Damage with Flails", "Combinations": ["Disgust", "Envy", "Paranoia"] },
+          { "Name": "Coursing Energy", "Anoint Effect": "40% increased Electrocute Buildup 30% increased Shock Chance against Electrocuted Enemies", "Combinations": ["Envy", "Disgust", "Paranoia"] },
+          { "Name": "Heavy Weaponry", "Anoint Effect": "15% increased Melee Damage 15% increased Stun Buildup with Melee Damage +15 to Strength", "Combinations": ["Paranoia", "Disgust", "Envy"] },
+          { "Name": "Ricochet", "Anoint Effect": "15% increased Projectile Damage Projectiles have 10% chance to Chain an additional time from terrain", "Combinations": ["Ire", "Disgust", "Disgust"] },
+          { "Name": "Piercing Shot", "Anoint Effect": "50% chance to Pierce an Enemy", "Combinations": ["Disgust", "Guilt", "Disgust"] },
+          { "Name": "Conservative Casting", "Anoint Effect": "20% increased Mana Regeneration Rate 8% reduced Mana Cost of Skills", "Combinations": ["Disgust", "Disgust", "Ire"] },
+          { "Name": "Spreading Shocks", "Anoint Effect": "Shocking Hits have a 50% chance to also Shock enemies in a 1.5 metre radius", "Combinations": ["Guilt", "Disgust", "Disgust"] },
+          { "Name": "No Escape", "Anoint Effect": "Mark Skills have 60% increased Skill Effect Duration", "Combinations": ["Greed", "Disgust", "Disgust"] },
+          { "Name": "Heatproofing", "Anoint Effect": "25% of Armour also applies to Fire Damage taken from Hits", "Combinations": ["Disgust", "Disgust", "Greed"] },
+          { "Name": "Potent Incantation", "Anoint Effect": "30% increased Spell Damage 5% reduced Cast Speed", "Combinations": ["Paranoia", "Paranoia", "Disgust"] },
+          { "Name": "Direct Approach", "Anoint Effect": "40% increased Critical Hit Chance against Enemies that are affected by no Elemental Ailments", "Combinations": ["Disgust", "Paranoia", "Paranoia"] },
+          { "Name": "Mass Hysteria", "Anoint Effect": "Allies in your Presence have 6% increased Attack Speed 6% increased Attack Speed", "Combinations": ["Disgust", "Disgust", "Envy"] },
+          { "Name": "Hale Traveller", "Anoint Effect": "20% increased Life Recovery from Flasks Life Flasks gain 0.1 charges per Second", "Combinations": ["Envy", "Disgust", "Disgust"] },
+          { "Name": "Cautious Concoctions", "Anoint Effect": "15% increased Flask Effect Duration 15% increased Flask Charges gained", "Combinations": ["Disgust", "Paranoia", "Disgust"] },
+          { "Name": "Vulgar Methods", "Anoint Effect": "10% reduced maximum Mana +10 to Strength 35% increased Critical Hit Chance", "Combinations": ["Ire", "Guilt", "Despair"] },
+          { "Name": "Towering Shield", "Anoint Effect": "50% increased Defences from Equipped Shield 25% increased Chance to Block if you've Blocked with Active Block Recently", "Combinations": ["Ire", "Despair", "Guilt"] },
+          { "Name": "Leaping Ambush", "Anoint Effect": "100% increased Critical Hit Chance against Enemies on Full Life", "Combinations": ["Despair", "Guilt", "Guilt"] },
+          { "Name": "Pressure Points", "Anoint Effect": "35% increased Stun Buildup 35% increased Freeze Buildup", "Combinations": ["Guilt", "Despair", "Ire"] },
+          { "Name": "Savoured Blood", "Anoint Effect": "35% increased amount of Life Leeched Leech Life 20% slower", "Combinations": ["Despair", "Ire", "Ire"] },
+          { "Name": "Mana Blessing", "Anoint Effect": "+20 to maximum Mana 5% increased maximum Mana", "Combinations": ["Guilt", "Despair", "Guilt"] },
+          { "Name": "Devastation", "Anoint Effect": "15% increased Area of Effect for Attacks 15% increased Attack Area Damage", "Combinations": ["Ire", "Ire", "Despair"] },
+          { "Name": "Finishing Blows", "Anoint Effect": "60% increased Damage with Hits against Enemies that are on Low Life 30% increased Stun Buildup against Enemies that are on Low Life", "Combinations": ["Despair", "Guilt", "Ire"] },
+          { "Name": "Way of the Wind", "Anoint Effect": "25% increased Evasion if you have Hit an Enemy Recently 50% increased maximum Dash Distance with Unarmed Attack Skills", "Combinations": ["Guilt", "Greed", "Despair"] },
+          { "Name": "Flow Like Water", "Anoint Effect": "8% increased Attack and Cast Speed +5 to Dexterity and Intelligence", "Combinations": ["Greed", "Guilt", "Despair"] },
+          { "Name": "Tainted Strike", "Anoint Effect": "25% increased Critical Hit Chance for Attacks 30% increased Magnitude of Non-Damaging Ailments you inflict with Critical Hits", "Combinations": ["Ire", "Despair", "Greed"] },
+          { "Name": "Clean Shot", "Anoint Effect": "15% chance to Pierce an Enemy 15% increased Projectile Damage", "Combinations": ["Despair", "Ire", "Greed"] },
+          { "Name": "Prolonged Fury", "Anoint Effect": "Inherent loss of Rage is 25% slower", "Combinations": ["Ire", "Greed", "Despair"] },
+          { "Name": "Tough Claw", "Anoint Effect": "25% increased Attack Damage", "Combinations": ["Greed", "Ire", "Despair"] },
+          { "Name": "Erraticism", "Anoint Effect": "16% increased Cast Speed if you've dealt a Critical Hit Recently 10% reduced Critical Hit Chance", "Combinations": ["Despair", "Greed", "Guilt"] },
+          { "Name": "Aftershocks", "Anoint Effect": "40% increased Aftershock Area of Effect", "Combinations": ["Despair", "Guilt", "Greed"] },
+          { "Name": "Reaving", "Anoint Effect": "8% increased Attack Speed with One Handed Weapons +15 to Dexterity", "Combinations": ["Despair", "Ire", "Envy"] },
+          { "Name": "Full Recovery", "Anoint Effect": "15% increased Life Regeneration rate 15% increased Mana Regeneration Rate", "Combinations": ["Despair", "Envy", "Guilt"] },
+          { "Name": "Precise Point", "Anoint Effect": "25% increased Damage with Spears", "Combinations": ["Guilt", "Envy", "Despair"] },
+          { "Name": "Heavy Contact", "Anoint Effect": "Hits that Heavy Stun Enemies have Culling Strike", "Combinations": ["Ire", "Envy", "Despair"] },
+          { "Name": "Barbaric Strength", "Anoint Effect": "45% increased Critical Damage Bonus 10% increased Mana Cost of Skills +10 to Strength", "Combinations": ["Guilt", "Despair", "Envy"] },
+          { "Name": "Crashing Wave", "Anoint Effect": "36% increased Damage if you've dealt a Critical Hit in the past 8 seconds", "Combinations": ["Envy", "Guilt", "Despair"] },
+          { "Name": "Destructive Apparatus", "Anoint Effect": "25% increased Trap Damage", "Combinations": ["Envy", "Despair", "Greed"] }, // Filled in based on external sources
+          { "Name": "Arcane Blossom", "Anoint Effect": "15% increased Mana Recovery rate", "Combinations": ["Envy", "Despair", "Despair"] },
+          { "Name": "Brutal", "Anoint Effect": "10% increased Stun Buildup 16% increased Melee Damage +10 to Strength", "Combinations": ["Despair", "Despair", "Envy"] },
+          { "Name": "Hunker Down", "Anoint Effect": "Recover 20 Life when you Block 80% less Knockback Distance for Blocked Hits", "Combinations": ["Despair", "Despair", "Paranoia"] },
+          { "Name": "Escape Strategy", "Anoint Effect": "100% increased Evasion Rating if you have been Hit Recently 30% reduced Evasion Rating if you haven't been Hit Recently", "Combinations": ["Despair", "Paranoia", "Despair"] },
+          { "Name": "Lasting Concoctions", "Anoint Effect": "25% increased Flask Effect Duration 25% increased Flask Charges gained", "Combinations": ["Despair", "Disgust", "Despair"] },
+          { "Name": "Two-Pronged Attack", "Anoint Effect": "Minions deal 25% increased Damage", "Combinations": ["Ire", "Fear", "Guilt"] },
+          { "Name": "Efficient Alchemy", "Anoint Effect": "20% increased Flask and Charm Charges gained 40% increased Life and Mana Recovery from Flasks while you have an active Charm", "Combinations": ["Fear", "Ire", "Guilt"] },
+          { "Name": "Shattering Blow", "Anoint Effect": "Break 50% of Armour on Heavy Stunning an Enemy", "Combinations": ["Fear", "Guilt", "Guilt"] },
+          { "Name": "Honourless", "Anoint Effect": "25% increased Armour if you've Hit an Enemy with a Melee Attack Recently 50% increased Melee Damage against Immobilised Enemies", "Combinations": ["Ire", "Guilt", "Fear"] },
+          { "Name": "Far Sighted", "Anoint Effect": "30% reduced penalty to Accuracy Rating at range", "Combinations": ["Guilt", "Ire", "Fear"] },
+          { "Name": "Parrying Motion", "Anoint Effect": "12% increased Block chance 1% increased Movement Speed for each time you've Blocked in the past 10 seconds", "Combinations": ["Ire", "Fear", "Ire"] },
+          { "Name": "Thornhide", "Anoint Effect": "+5% to Thorns Critical Hit Chance", "Combinations": ["Ire", "Greed", "Fear"] },
+          { "Name": "Loose Flesh", "Anoint Effect": "15% of Elemental Damage taken Recouped as Life", "Combinations": ["Ire", "Fear", "Greed"] },
+          { "Name": "Spirit Bond", "Anoint Effect": "30% increased Totem Life 30% increased Totem Duration", "Combinations": ["Greed", "Ire", "Fear"] },
+          { "Name": "Swift Skewering", "Anoint Effect": "8% increased Attack Speed with Spears", "Combinations": ["Fear", "Ire", "Greed"] },
+          { "Name": "Advanced Munitions", "Anoint Effect": "25% increased chance to inflict Ailments with Projectiles", "Combinations": ["Guilt", "Fear", "Greed"] },
+          { "Name": "Mystic Stance", "Anoint Effect": "30% faster start of Energy Shield Recharge 30% increased Stun Threshold while on Full Life", "Combinations": ["Fear", "Greed", "Guilt"] },
+          { "Name": "Rattled", "Anoint Effect": "+20 to maximum Mana 50% increased Shock Duration", "Combinations": ["Greed", "Fear", "Ire"] },
+          { "Name": "Tenfold Attacks", "Anoint Effect": "4% increased Attack Speed 6% increased Attack Speed if you've been Hit Recently +10 to Strength", "Combinations": ["Greed", "Fear", "Guilt"] },
+          { "Name": "Colossal Weapon", "Anoint Effect": "15% increased Area of Effect for Attacks +10 to Strength", "Combinations": ["Fear", "Greed", "Ire"] },
+          { "Name": "Dependable Ward", "Anoint Effect": "25% increased Energy Shield Recharge Rate 25% faster start of Energy Shield Recharge", "Combinations": ["Ire", "Fear", "Envy"] },
+          { "Name": "Blade Catcher", "Anoint Effect": "Defend with 200% of Armour against Critical Hits +15 to Strength", "Combinations": ["Fear", "Envy", "Guilt"] },
+          { "Name": "Echoing Pulse", "Anoint Effect": "Final Repeat of Spells has 40% increased Area of Effect", "Combinations": ["Fear", "Envy", "Ire"] },
+          { "Name": "Price of Freedom", "Anoint Effect": "10% reduced Mana Cost of Attacks 18% of Skill Mana Costs Converted to Life Costs", "Combinations": ["Envy", "Fear", "Ire"] },
+          { "Name": "Enhanced Reflexes", "Anoint Effect": "30% increased Evasion Rating 8% increased Dexterity", "Combinations": ["Fear", "Ire", "Envy"] },
+          { "Name": "Vengeance", "Anoint Effect": "40% increased Thorns damage", "Combinations": ["Guilt", "Fear", "Envy"] },
+          { "Name": "Cold Nature", "Anoint Effect": "25% increased Cold Damage 15% increased Chill Duration on Enemies", "Combinations": ["Envy", "Fear", "Guilt"] },
+          { "Name": "Curved Weapon", "Anoint Effect": "15% increased Accuracy Rating +10 to Dexterity", "Combinations": ["Greed", "Fear", "Greed"] },
+          { "Name": "Jack of all Trades", "Anoint Effect": "2% increased Damage per 5 of your lowest Attribute", "Combinations": ["Greed", "Fear", "Envy"] },
+          { "Name": "Breakage", "Anoint Effect": "Break 60% increased Armour 10% chance to Defend with 200% of Armour", "Combinations": ["Fear", "Envy", "Greed"] },
+          { "Name": "In Your Face", "Anoint Effect": "40% increased Melee Damage with Hits at Close Range", "Combinations": ["Fear", "Greed", "Envy"] },
+          { "Name": "Mental Toughness", "Anoint Effect": "18% increased Mana Regeneration Rate 15% reduced Mana Cost while not on Low Mana", "Combinations": ["Envy", "Fear", "Greed"] },
+          { "Name": "Sand in the Eyes", "Anoint Effect": "10% increased Attack Speed 15% chance to Blind Enemies on Hit with Attacks", "Combinations": ["Despair", "Despair", "Despair"] },
+          { "Name": "Blinding Strike", "Anoint Effect": "24% increased Attack Damage 10% chance to Blind Enemies on Hit with Attacks", "Combinations": ["Envy", "Fear", "Envy"] },
+          { "Name": "Proficiency", "Anoint Effect": "+25 to Dexterity", "Combinations": ["Fear", "Guilt", "Paranoia"] },
+          { "Name": "Split Shot", "Anoint Effect": "Projectiles have 75% chance for an additional Projectile when Forking", "Combinations": ["Ire", "Fear", "Paranoia"] },
+          { "Name": "Icebreaker", "Anoint Effect": "Gain 100% of Maximum Energy Shield as additional Freeze Threshold", "Combinations": ["Ire", "Paranoia", "Fear"] },
+          { "Name": "First Approach", "Anoint Effect": "50% increased Critical Hit Chance against Enemies on Full Life Cannot be Blinded while on Full Life 80% increased Damage with Hits against Enemies that are on Full Life", "Combinations": ["Paranoia", "Ire", "Fear"] },
+          { "Name": "Mind Eraser", "Anoint Effect": "10% increased Mana Regeneration Rate 6% of Damage taken Recouped as Mana", "Combinations": ["Fear", "Ire", "Paranoia"] },
+          { "Name": "Unstoppable Barrier", "Anoint Effect": "10% increased Block chance 15% reduced Slowing Potency of Debuffs on You", "Combinations": ["Fear", "Paranoia", "Ire"] },
+          { "Name": "Growing Swarm", "Anoint Effect": "Minions have 20% increased Area of Effect Minions have 20% increased Cooldown Recovery Rate", "Combinations": ["Guilt", "Paranoia", "Fear"] },
+          { "Name": "Reverberation", "Anoint Effect": "Spell Skills have 20% increased Area of Effect", "Combinations": ["Paranoia", "Guilt", "Fear"] },
+          { "Name": "Fortifying Blood", "Anoint Effect": "20% increased amount of Life Leeched 40% increased Armour and Evasion Rating while Leeching", "Combinations": ["Greed", "Paranoia", "Fear"] },
+          { "Name": "Essence of the Storm", "Anoint Effect": "Gain 5% of Damage as Extra Lightning Damage 30% increased chance to Shock", "Combinations": ["Greed", "Fear", "Paranoia"] },
+          { "Name": "Core of the Guardian", "Anoint Effect": "100% increased Defences from Equipped Shield", "Combinations": ["Paranoia", "Greed", "Fear"] },
+          { "Name": "Coated Arms", "Anoint Effect": "25% increased Damage with One Handed Weapons 20% increased Chance to inflict Ailments with One-Handed Attacks", "Combinations": ["Fear", "Greed", "Paranoia"] },
+          { "Name": "General's Bindings", "Anoint Effect": "Gain 8% of Evasion Rating as extra Armour", "Combinations": ["Paranoia", "Fear", "Envy"] },
+          { "Name": "Ancestral Mending", "Anoint Effect": "Regenerate 1% of Life per second while you have a Totem Totems Regenerate 3% of Life per second", "Combinations": ["Envy", "Fear", "Paranoia"] },
+          { "Name": "Mental Alacrity", "Anoint Effect": "5% increased Cast Speed 15% increased Mana Regeneration Rate +10 to Intelligence", "Combinations": ["Fear", "Envy", "Paranoia"] },
+          { "Name": "Insightfulness", "Anoint Effect": "18% increased maximum Energy Shield 12% increased Mana Regeneration Rate 6% increased Intelligence", "Combinations": ["Guilt", "Disgust", "Fear"] },
+          { "Name": "Gravedigger", "Anoint Effect": "Minions Revive 15% faster You gain 2% Life when one of your Minions is Revived", "Combinations": ["Ire", "Fear", "Disgust"] },
+          { "Name": "Bestial Rage", "Anoint Effect": "25% increased Attack Damage", "Combinations": ["Ire", "Disgust", "Fear"] },
+          { "Name": "Push the Advantage", "Anoint Effect": "40% increased Critical Damage Bonus with One Handed Melee Weapons", "Combinations": ["Fear", "Ire", "Disgust"] },
+          { "Name": "Blood Rush", "Anoint Effect": "6% increased Skill Speed 6% of Skill Mana Costs Converted to Life Costs", "Combinations": ["Guilt", "Fear", "Disgust"] },
+          { "Name": "Pure Energy", "Anoint Effect": "30% increased maximum Energy Shield +10 to Intelligence", "Combinations": ["Fear", "Guilt", "Disgust"] },
+          { "Name": "Adrenaline Rush", "Anoint Effect": "4% increased Movement Speed if you've Killed Recently 8% increased Attack Speed if you've Killed Recently", "Combinations": ["Disgust", "Ire", "Fear"] },
+          { "Name": "Stigmata", "Anoint Effect": "Offerings have 30% increased Maximum Life Recover 3% of Life when you create an Offering", "Combinations": ["Disgust", "Guilt", "Fear"] },
+          { "Name": "Waters of Life", "Anoint Effect": "Recover 2% of Life when you use a Mana Flask Mana Flasks gain 0.1 charges per Second", "Combinations": ["Greed", "Fear", "Disgust"] },
+          { "Name": "Explosive Impact", "Anoint Effect": "15% increased Area of Effect Burning Enemies you kill have a 5% chance to Explode, dealing a tenth of their maximum Life as Fire Damage", "Combinations": ["Greed", "Disgust", "Fear"] },
+          { "Name": "Silent Guardian", "Anoint Effect": "Minions have +20% to all Elemental Resistances", "Combinations": ["Fear", "Greed", "Disgust"] },
+          { "Name": "Shield Expertise", "Anoint Effect": "12% increased Block chance 40% increased Block Recovery", "Combinations": ["Disgust", "Greed", "Fear"] },
+          { "Name": "Fireproof", "Anoint Effect": "+15% to Fire Resistance 25% reduced effect of Ignite on you", "Combinations": ["Fear", "Paranoia", "Paranoia"] },
+          { "Name": "Manifold Method", "Anoint Effect": "50% increased amount of Mana Leeched 25% increased chance to inflict Ailments against Rare or Unique Enemies", "Combinations": ["Paranoia", "Paranoia", "Fear"] },
+          { "Name": "Thicket Warding", "Anoint Effect": "20% chance for Charms you use to not consume Charges Recover 5% of Mana when a Charm is used", "Combinations": ["Paranoia", "Fear", "Paranoia"] },
+          { "Name": "Singular Purpose", "Anoint Effect": "5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons", "Combinations": ["Disgust", "Envy", "Fear"] },
+          { "Name": "Quick Response", "Anoint Effect": "20% faster start of Energy Shield Recharge 30% faster start of Energy Shield Recharge when not on Full Life", "Combinations": ["Envy", "Disgust", "Fear"] },
+          { "Name": "Bringer of Order", "Anoint Effect": "Minions deal 25% increased Damage", "Combinations": ["Envy", "Fear", "Disgust"] },
+          { "Name": "Acceleration", "Anoint Effect": "3% increased Movement Speed 10% increased Skill Speed", "Combinations": ["Fear", "Envy", "Disgust"] },
+          { "Name": "Ice Walls", "Anoint Effect": "200% increased Ice Crystal Life", "Combinations": ["Fear", "Paranoia", "Disgust"] },
+          { "Name": "Sudden Escalation", "Anoint Effect": "16% increased Critical Hit Chance for Spells 8% increased Cast Speed if you've dealt a Critical Hit Recently", "Combinations": ["Disgust", "Paranoia", "Fear"] },
+          { "Name": "Multitasking", "Anoint Effect": "15% increased Skill Effect Duration 12% increased Cooldown Recovery Rate", "Combinations": ["Paranoia", "Disgust", "Fear"] },
+          { "Name": "Burn Away", "Anoint Effect": "15% increased Fire Damage Damage Penetrates 10% Fire Resistance 10% increased Magnitude of Ignite you inflict", "Combinations": ["Fear", "Disgust", "Disgust"] },
+          { "Name": "Bloodthirsty", "Anoint Effect": "20% increased amount of Life Leeched Leech Life 25% faster", "Combinations": ["Disgust", "Disgust", "Fear"] },
+          { "Name": "Deep Trance", "Anoint Effect": "8% increased Attack Speed 10% reduced Cost of Skills", "Combinations": ["Fear", "Ire", "Despair"] },
+          { "Name": "Wasting", "Anoint Effect": "15% increased Duration of Damaging Ailments on Enemies 30% increased Damage with Hits against Enemies affected by Ailments", "Combinations": ["Guilt", "Fear", "Despair"] },
+          { "Name": "Dead can Dance", "Anoint Effect": "Minions have 25% increased Evasion Rating Your Dexterity is added to your Minions", "Combinations": ["Despair", "Fear", "Ire"] },
+          { "Name": "Harsh Winter", "Anoint Effect": "8% increased Cast Speed with Cold Skills 16% increased Skill Effect Duration", "Combinations": ["Fear", "Despair", "Ire"] },
+          { "Name": "Turn the Clock Forward", "Anoint Effect": "20% increased Projectile Speed for Spell Skills", "Combinations": ["Despair", "Fear", "Guilt"] },
+          { "Name": "Suffusion", "Anoint Effect": "30% increased amount of Mana Leeched Unaffected by Chill while Leeching Mana", "Combinations": ["Fear", "Despair", "Guilt"] },
+          { "Name": "Projectile Bulwark", "Anoint Effect": "30% increased Armour Defend with 120% of Armour against Projectile Attacks", "Combinations": ["Ire", "Fear", "Despair"] },
+          { "Name": "Shattering", "Anoint Effect": "25% increased Freeze Buildup 15% increased Chill Duration on Enemies 15% increased Magnitude of Chill you inflict", "Combinations": ["Greed", "Fear", "Despair"] },
+          { "Name": "Sturdy Ally", "Anoint Effect": "Minions have 25% increased maximum Life", "Combinations": ["Fear", "Greed", "Despair"] },
+          { "Name": "Heavy Armour", "Anoint Effect": "100% of Strength Requirements from Boots, Gloves and Helmets also added to Armour", "Combinations": ["Despair", "Fear", "Greed"] },
+          { "Name": "Fate Finding", "Anoint Effect": "15% reduced Reservation of Herald Skills", "Combinations": ["Fear", "Despair", "Greed"] },
+          { "Name": "Time Manipulation", "Anoint Effect": "Debuffs you inflict have 10% increased Slow Magnitude Debuffs on you expire 20% faster", "Combinations": ["Fear", "Despair", "Envy"] },
+          { "Name": "Overwhelm", "Anoint Effect": "5% reduced Attack Speed 20% increased Stun Buildup 40% increased Damage with Two Handed Weapons", "Combinations": ["Despair", "Fear", "Envy"] },
+          { "Name": "Anticipation", "Anoint Effect": "Skills Supported by Unleash have 25% increased Seal gain frequency", "Combinations": ["Fear", "Envy", "Despair"] },
+          { "Name": "Unbending", "Anoint Effect": "3% increased maximum Life 30% increased Stun Threshold", "Combinations": ["Fear", "Despair", "Paranoia"] },
+          { "Name": "Heavy Frost", "Anoint Effect": "20% increased Freeze Buildup Hits ignore non-negative Elemental Resistances of Frozen Enemies", "Combinations": ["Despair", "Fear", "Paranoia"] },
+          { "Name": "Harmonic Generator", "Anoint Effect": "25% increased Critical Hit Chance against Shocked Enemies 40% increased Magnitude of Shock you inflict with Critical Hits", "Combinations": ["Paranoia", "Fear", "Despair"] },
+          { "Name": "Arcane Intensity", "Anoint Effect": "3% increased Spell Damage per 100 maximum Mana", "Combinations": ["Disgust", "Fear", "Despair"] },
+          { "Name": "Restless Dead", "Anoint Effect": "Minions Revive 25% faster", "Combinations": ["Despair", "Fear", "Disgust"] },
+          { "Name": "Master Fletching", "Anoint Effect": "30% increased bonuses gained from Equipped Quiver", "Combinations": ["Fear", "Despair", "Disgust"] },
+          { "Name": "Chronomancy", "Anoint Effect": "20% increased Skill Effect Duration Debuffs you inflict have 10% increased Slow Magnitude", "Combinations": ["Despair", "Fear", "Despair"] },
+          { "Name": "Path of Storms", "Anoint Effect": "18% increased Lightning Damage 30% increased chance to Shock Witch: 18% increased Chaos Damage Witch: 15% increased Skill Effect Duration", "Combinations": ["Fear", "Fear", "Ire"] },
+          { "Name": "Impact Force", "Anoint Effect": "20% increased Stun Buildup 25% increased Attack Area Damage", "Combinations": ["Fear", "Ire", "Fear"] },
+          { "Name": "Rapid Strike", "Anoint Effect": "+30 to Accuracy Rating 8% increased Melee Attack Speed", "Combinations": ["Ire", "Fear", "Fear"] },
+          { "Name": "Necrotised Flesh", "Anoint Effect": "Minions have 40% increased maximum Life Minions have 10% reduced Life Recovery rate", "Combinations": ["Fear", "Guilt", "Fear"] },
+          { "Name": "Vile Mending", "Anoint Effect": "Minions have 20% increased maximum Life Minions Regenerate 3% of Life per second Minions have +13% to Chaos Resistance", "Combinations": ["Greed", "Fear", "Fear"] },
+          { "Name": "All Natural", "Anoint Effect": "+5% to all Elemental Resistances 30% increased Elemental Damage", "Combinations": ["Fear", "Fear", "Greed"] },
+          { "Name": "Lay Siege", "Anoint Effect": "1% increased Damage per 1% Chance to Block", "Combinations": ["Fear", "Envy", "Fear"] },
+          { "Name": "Primal Growth", "Anoint Effect": "20% increased Area of Effect if you've Killed Recently 10% increased Area of Effect for Attacks", "Combinations": ["Envy", "Fear", "Fear"] },
+          { "Name": "Stormcharged", "Anoint Effect": "40% increased Elemental Damage if you've dealt a Critical Hit Recently 20% increased Critical Hit Chance", "Combinations": ["Fear", "Fear", "Envy"] },
+          { "Name": "Breaking Point", "Anoint Effect": "10% increased Duration of Elemental Ailments on Enemies 30% increased Magnitude of Non-Damaging Ailments you inflict", "Combinations": ["Fear", "Paranoia", "Fear"] },
+          { "Name": "Beef", "Anoint Effect": "+25 to Strength", "Combinations": ["Fear", "Disgust", "Fear"] },
+          { "Name": "Spellblade", "Anoint Effect": "32% increased Spell Damage while wielding a Melee Weapon +10 to Dexterity", "Combinations": ["Despair", "Fear", "Fear"] },
+          { "Name": "Turn the Clock Back", "Anoint Effect": "20% reduced Projectile Speed for Spell Skills", "Combinations": ["Fear", "Fear", "Despair"] },
+          { "Name": "Sigil of Fire", "Anoint Effect": "30% increased Damage with Hits against Ignited Enemies", "Combinations": ["Suffering", "Guilt", "Ire"] },
+          { "Name": "Electrotherapy", "Anoint Effect": "5% increased Skill Speed 30% increased Electrocute Buildup", "Combinations": ["Suffering", "Ire", "Guilt"] },
+          { "Name": "Alternating Current", "Anoint Effect": "25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently 20% increased Magnitude of Shock you inflict", "Combinations": ["Ire", "Ire", "Suffering"] },
+          { "Name": "Frenetic", "Anoint Effect": "5% chance that if you would gain Frenzy Charges , you instead gain up to your maximum number of Frenzy Charges +1 to Maximum Frenzy Charges", "Combinations": ["Ire", "Suffering", "Guilt"] },
+          { "Name": "Guts", "Anoint Effect": "Recover 3% of Life for each Endurance Charge consumed +1 to Maximum Endurance Charges", "Combinations": ["Suffering", "Ire", "Ire"] },
+          { "Name": "Immortal Thirst", "Anoint Effect": "15% increased maximum Energy Shield 25% increased amount of Mana Leeched", "Combinations": ["Guilt", "Suffering", "Guilt"] },
+          { "Name": "Thrill of Battle", "Anoint Effect": "20% increased Attack Speed while Surrounded", "Combinations": ["Guilt", "Suffering", "Ire"] },
+          { "Name": "Thin Ice", "Anoint Effect": "20% increased Freeze Buildup 50% increased Damage with Hits against Frozen Enemies", "Combinations": ["Suffering", "Ire", "Greed"] },
+          { "Name": "Leather Bound Gauntlets", "Anoint Effect": "+1 to Evasion Rating per 1 Armour on Equipped Gloves", "Combinations": ["Greed", "Suffering", "Ire"] },
+          { "Name": "Echoing Frost", "Anoint Effect": "30% increased Elemental Damage if you've Chilled an Enemy Recently", "Combinations": ["Suffering", "Guilt", "Greed"] },
+          { "Name": "Ball and Chain", "Anoint Effect": "15% increased Damage with Flails 6% increased Attack Speed with Flails", "Combinations": ["Greed", "Guilt", "Suffering"] },
+          { "Name": "Resourceful Ally", "Anoint Effect": "Minions deal 25% increased Damage", "Combinations": ["Ire", "Greed", "Suffering"] },
+          { "Name": "Spirit Bonds", "Anoint Effect": "Link Skills can target Damageable Minions", "Combinations": ["Greed", "Ire", "Suffering"] },
+          { "Name": "Heavy Blade", "Anoint Effect": "25% increased Damage with Swords", "Combinations": ["Guilt", "Greed", "Suffering"] },
+          { "Name": "Crushing Verdict", "Anoint Effect": "5% reduced Attack Speed 30% increased Stun Buildup 50% increased Attack Damage", "Combinations": ["Envy", "Suffering", "Ire"] },
+          { "Name": "Cooked", "Anoint Effect": "50% increased Critical Damage Bonus during any Flask Effect", "Combinations": ["Suffering", "Ire", "Envy"] },
+          { "Name": "Melding", "Anoint Effect": "40% increased maximum Energy Shield 10% reduced maximum Mana", "Combinations": ["Guilt", "Envy", "Suffering"] },
+          { "Name": "Distracting Presence", "Anoint Effect": "10% increased Cooldown Recovery Rate Enemies in your Presence have 10% reduced Cooldown Recovery Rate", "Combinations": ["Envy", "Guilt", "Suffering"] },
+          { "Name": "Short Shot", "Anoint Effect": "15% reduced Projectile Speed 20% increased Projectile Damage", "Combinations": ["Suffering", "Guilt", "Envy"] },
+          { "Name": "Spiral into Mania", "Anoint Effect": "10% increased Cast Speed +7% to Chaos Resistance", "Combinations": ["Ire", "Envy", "Suffering"] },
+          { "Name": "Perforation", "Anoint Effect": "20% chance for Bleeding to be Aggravated when Inflicted against Enemies on Jagged Ground 40% increased Jagged Ground Duration", "Combinations": ["Greed", "Greed", "Suffering"] },
+          { "Name": "Aspiring Genius", "Anoint Effect": "20% increased Mana Regeneration Rate 10% chance to Gain Arcane Surge when you deal a Critical Hit", "Combinations": ["Suffering", "Greed", "Greed"] },
+          { "Name": "Careful Assassin", "Anoint Effect": "20% reduced Critical Damage Bonus 50% increased Critical Hit Chance", "Combinations": ["Suffering", "Envy", "Greed"] },
+          { "Name": "Morning Star", "Anoint Effect": "30% increased Critical Hit Chance with Flails 20% increased Critical Damage Bonus with Flails", "Combinations": ["Envy", "Greed", "Suffering"] },
+          { "Name": "Hindered Capabilities", "Anoint Effect": "30% increased Damage with Hits against Hindered Enemies Debuffs you inflict have 10% increased Slow Magnitude", "Combinations": ["Suffering", "Greed", "Envy"] },
+          { "Name": "Authority", "Anoint Effect": "20% increased Area of Effect for Attacks 10% increased Cooldown Recovery Rate", "Combinations": ["Greed", "Envy", "Suffering"] },
+          { "Name": "Desensitisation", "Anoint Effect": "25% increased Critical Damage Bonus Hits against you have 25% reduced Critical Damage Bonus", "Combinations": ["Envy", "Suffering", "Greed"] },
+          { "Name": "Shimmering", "Anoint Effect": "20% increased Energy Shield Recovery Rate if you haven't been Hit Recently 3% increased Movement Speed while you have Energy Shield", "Combinations": ["Envy", "Envy", "Suffering"] },
+          { "Name": "Madness in the Bones", "Anoint Effect": "Gain 6% of Physical Damage as extra Chaos Damage", "Combinations": ["Ire", "Paranoia", "Suffering"] },
+          { "Name": "Ancestral Reach", "Anoint Effect": "25% increased Totem Placement speed 50% increased Totem Placement range", "Combinations": ["Suffering", "Paranoia", "Ire"] },
+          { "Name": "Ancestral Alacrity", "Anoint Effect": "30% increased Totem Placement speed 8% increased Attack and Cast Speed if you've summoned a Totem Recently", "Combinations": ["Suffering", "Paranoia", "Guilt"] },
+          { "Name": "For the Jugular", "Anoint Effect": "30% increased Critical Damage Bonus +10 to Intelligence", "Combinations": ["Paranoia", "Suffering", "Guilt"] },
+          { "Name": "Subterfuge Mask", "Anoint Effect": "+2 to Evasion Rating per 1 Maximum Energy Shield on Equipped Helmet", "Combinations": ["Ire", "Suffering", "Paranoia"] },
+          { "Name": "Refocus", "Anoint Effect": "30% increased Energy Shield Recharge Rate 20% increased Mana Regeneration Rate", "Combinations": ["Paranoia", "Suffering", "Ire"] },
+          { "Name": "Slow Burn", "Anoint Effect": "20% increased Ignite Duration on Enemies 20% increased Magnitude of Ignite you inflict", "Combinations": ["Guilt", "Suffering", "Paranoia"] },
+          { "Name": "Apocalypse", "Anoint Effect": "40% reduced Damage +6% to Critical Hit Chance of Herald Skills", "Combinations": ["Suffering", "Paranoia", "Greed"] },
+          { "Name": "Stylebender", "Anoint Effect": "Break 30% increased Armour on enemies affected by Ailments +10 to Strength 25% increased Physical Damage", "Combinations": ["Greed", "Paranoia", "Suffering"] },
+          { "Name": "Natural Immunity", "Anoint Effect": "+ 4 to Ailment Threshold per Dexterity", "Combinations": ["Greed", "Suffering", "Paranoia"] },
+          { "Name": "Electrocution", "Anoint Effect": "Enemies you Electrocute have 20% increased Damage taken", "Combinations": ["Paranoia", "Suffering", "Greed"] },
+          { "Name": "Mindful Awareness", "Anoint Effect": "24% increased Evasion Rating 24% increased maximum Energy Shield", "Combinations": ["Paranoia", "Envy", "Suffering"] },
+          { "Name": "The Power Within", "Anoint Effect": "20% increased Critical Damage Bonus if you've gained a Power Charge Recently +1 to Maximum Power Charges", "Combinations": ["Envy", "Paranoia", "Suffering"] },
+          { "Name": "Lasting Trauma", "Anoint Effect": "5% reduced Attack Speed 30% increased Magnitude of Ailments you inflict 20% increased Duration of Damaging Ailments on Enemies", "Combinations": ["Suffering", "Paranoia", "Envy"] },
+          { "Name": "Cruel Methods", "Anoint Effect": "Break 40% increased Armour 25% increased Physical Damage", "Combinations": ["Suffering", "Envy", "Paranoia"] },
+          { "Name": "Moment of Truth", "Anoint Effect": "25% increased Critical Damage Bonus if you've dealt a Non-Critical Hit Recently 20% increased Critical Hit Chance", "Combinations": ["Ire", "Suffering", "Disgust"] },
+          { "Name": "Preservation", "Anoint Effect": "25% increased Skill Effect Duration", "Combinations": ["Disgust", "Suffering", "Ire"] },
+          { "Name": "Hefty Unit", "Anoint Effect": "+ 3 to Stun Threshold per Strength", "Combinations": ["Ire", "Disgust", "Suffering"] },
+          { "Name": "Echoing Flames", "Anoint Effect": "Mastery: Bestiary 30% increased Elemental Damage if you've Ignited an Enemy Recently", "Combinations": ["Guilt", "Suffering", "Disgust"] },
+          { "Name": "Sigil of Ice", "Anoint Effect": "30% increased Damage with Hits against Chilled Enemies", "Combinations": ["Suffering", "Disgust", "Guilt"] },
+          { "Name": "Overheating Blow", "Anoint Effect": "Hits that Heavy Stun inflict Fire Exposure", "Combinations": ["Disgust", "Suffering", "Guilt"] },
+          { "Name": "Branching Bolts", "Anoint Effect": "60% chance for Lightning Skills to Chain an additional time", "Combinations": ["Suffering", "Disgust", "Ire"] },
+          { "Name": "Convalescence", "Anoint Effect": "15% reduced Energy Shield Recharge Rate 40% faster start of Energy Shield Recharge", "Combinations": ["Disgust", "Suffering", "Greed"] },
+          { "Name": "Emboldened Avatar", "Anoint Effect": "25% increased chance to Ignite 25% increased Freeze Buildup 25% increased chance to Shock 25% increased Electrocute Buildup", "Combinations": ["Suffering", "Disgust", "Greed"] },
+          { "Name": "Escape Velocity", "Anoint Effect": "3% increased Movement Speed 30% increased Evasion Rating", "Combinations": ["Greed", "Disgust", "Suffering"] },
+          { "Name": "Living Death", "Anoint Effect": "Minions have +22% to all Elemental Resistances Minions have +3% to all Maximum Elemental Resistances", "Combinations": ["Greed", "Suffering", "Disgust"] },
+          { "Name": "Sigil of Lightning", "Anoint Effect": "30% increased Damage with Hits against Shocked Enemies", "Combinations": ["Paranoia", "Suffering", "Paranoia"] },
+          { "Name": "Grit", "Anoint Effect": "5% chance that if you would gain Endurance Charges , you instead gain up to maximum Endurance Charges +1 to Maximum Endurance Charges", "Combinations": ["Suffering", "Disgust", "Envy"] },
+          { "Name": "Lucidity", "Anoint Effect": "8% of Damage is taken from Mana before Life +15 to Intelligence", "Combinations": ["Envy", "Disgust", "Suffering"] },
+          { "Name": "Deadly Force", "Anoint Effect": "30% increased Damage if you've dealt a Critical Hit in the past 8 seconds 12% increased Critical Hit Chance", "Combinations": ["Disgust", "Suffering", "Envy"] },
+          { "Name": "Impair", "Anoint Effect": "25% increased Damage with One Handed Weapons Attacks have 10% chance to Maim on Hit", "Combinations": ["Envy", "Suffering", "Disgust"] },
+          { "Name": "Lust for Sacrifice", "Anoint Effect": "40% increased Minion Damage while you have at least two different active Offerings", "Combinations": ["Disgust", "Suffering", "Paranoia"] },
+          { "Name": "Bolstering Yell", "Anoint Effect": "Empowered Attacks deal 30% increased Damage Warcry Skills have 30% increased Area of Effect", "Combinations": ["Suffering", "Disgust", "Paranoia"] },
+          { "Name": "Feel the Earth", "Anoint Effect": "25% reduced Shock duration on you 40% increased Elemental Ailment Threshold", "Combinations": ["Paranoia", "Suffering", "Disgust"] },
+          { "Name": "Admonisher", "Anoint Effect": "25% increased Warcry Speed 25% increased Warcry Cooldown Recovery Rate", "Combinations": ["Disgust", "Suffering", "Disgust"] },
+          { "Name": "Echoing Thunder", "Anoint Effect": "30% increased Elemental Damage if you've Shocked an Enemy Recently", "Combinations": ["Despair", "Suffering", "Ire"] },
+          { "Name": "Vengeful Fury", "Anoint Effect": "Gain 5 Rage when Hit by an Enemy Every Rage also grants 1% increased Armour", "Combinations": ["Suffering", "Ire", "Despair"] },
+          { "Name": "Bravado", "Anoint Effect": "Empowered Attacks have 50% increased Stun Buildup 100% increased Stun Threshold during Empowered Attacks", "Combinations": ["Suffering", "Guilt", "Despair"] },
+          { "Name": "Prolonged Assault", "Anoint Effect": "16% increased Attack Damage 16% increased Skill Effect Duration Buffs on you expire 10% slower", "Combinations": ["Guilt", "Despair", "Suffering"] },
+          { "Name": "Essence of the Mountain", "Anoint Effect": "Gain 5% of Damage as Extra Cold Damage 20% increased Freeze Buildup", "Combinations": ["Despair", "Ire", "Suffering"] },
+          { "Name": "Coated Knife", "Anoint Effect": "Critical Hits with Daggers have a 25% chance to Poison the Enemy", "Combinations": ["Ire", "Despair", "Suffering"] },
+          { "Name": "Cull the Hordes", "Anoint Effect": "25% increased Culling Strike Threshold", "Combinations": ["Despair", "Guilt", "Suffering"] },
+          { "Name": "Forthcoming", "Anoint Effect": "16% reduced Skill Effect Duration 10% increased Cooldown Recovery Rate", "Combinations": ["Despair", "Greed", "Suffering"] },
+          { "Name": "Quick Recovery", "Anoint Effect": "40% increased Stun Recovery Regenerate 5% of Life over 1 second when Stunned", "Combinations": ["Despair", "Suffering", "Greed"] },
+          { "Name": "Silent Shiv", "Anoint Effect": "5% increased Attack Speed with Daggers 15% increased Critical Hit Chance with Daggers", "Combinations": ["Suffering", "Greed", "Despair"] },
+          { "Name": "Ruin", "Anoint Effect": "Spell Skills have 10% reduced Area of Effect 35% increased Spell Area Damage", "Combinations": ["Greed", "Despair", "Suffering"] },
+          { "Name": "Aggravation", "Anoint Effect": "10% chance to Aggravate Bleeding on targets you Hit with Attacks", "Combinations": ["Despair", "Suffering", "Envy"] },
+          { "Name": "Path of Winter", "Anoint Effect": "18% increased Cold Damage 30% increased Freeze Buildup Witch: Minions deal 15% increased Damage Witch: Minions have 3% increased Attack and Cast Speed", "Combinations": ["Suffering", "Envy", "Despair"] },
+          { "Name": "Spiral into Depression", "Anoint Effect": "3% increased Movement Speed 25% increased Armour 25% increased maximum Energy Shield", "Combinations": ["Envy", "Despair", "Suffering"] },
+          { "Name": "Bolstering Presence", "Anoint Effect": "20% increased Effect of Auras from your Skills", "Combinations": ["Despair", "Envy", "Suffering"] },
+          { "Name": "Crystalline Flesh", "Anoint Effect": "Minions have +20% to all Elemental Resistances Minions have +5% to all Maximum Elemental Resistances", "Combinations": ["Despair", "Paranoia", "Suffering"] },
+          { "Name": "Fan the Flames", "Anoint Effect": "25% reduced Ignite Duration on you 40% increased Elemental Ailment Threshold", "Combinations": ["Suffering", "Paranoia", "Despair"] },
+          { "Name": "Vile Wounds", "Anoint Effect": "33% increased Damage with Hits against Enemies affected by Elemental Ailments", "Combinations": ["Paranoia", "Despair", "Suffering"] },
+          { "Name": "Unsight", "Anoint Effect": "Enemies near Enemies you Mark are Blinded Enemies you Mark cannot deal Critical Hits", "Combinations": ["Suffering", "Disgust", "Despair"] },
+          { "Name": "Holy Protector", "Anoint Effect": "Minions have 25% increased maximum Life", "Combinations": ["Disgust", "Despair", "Suffering"] },
+          { "Name": "Marked Agility", "Anoint Effect": "30% reduced Mana Cost of Mark Skills 4% increased Movement Speed if you've cast a Mark Spell Recently", "Combinations": ["Despair", "Disgust", "Suffering"] },
+          { "Name": "Necrotic Touch", "Anoint Effect": "Minions have 40% increased Critical Hit Chance", "Combinations": ["Despair", "Despair", "Suffering"] },
+          { "Name": "Chilled to the Bone", "Anoint Effect": "20% increased Chill Duration on Enemies 30% increased Magnitude of Chill you inflict", "Combinations": ["Suffering", "Despair", "Despair"] },
+          { "Name": "Warm the Heart", "Anoint Effect": "25% reduced Freeze Duration on you 60% increased Freeze Threshold", "Combinations": ["Ire", "Suffering", "Fear"] },
+          { "Name": "Retaliation", "Anoint Effect": "75% increased Thorns damage if you've Blocked Recently", "Combinations": ["Ire", "Fear", "Suffering"] },
+          { "Name": "Shattered Crystal", "Anoint Effect": "60% reduced Ice Crystal Life", "Combinations": ["Suffering", "Fear", "Ire"] },
+          { "Name": "Bloodletting", "Anoint Effect": "10% chance to inflict Bleeding on Hit 15% increased Magnitude of Bleeding you inflict", "Combinations": ["Fear", "Suffering", "Ire"] },
+          { "Name": "Made to Last", "Anoint Effect": "15% of Physical Damage prevented Recouped as Life", "Combinations": ["Suffering", "Fear", "Guilt"] },
+          { "Name": "Intense Flames", "Anoint Effect": "35% increased Damage with Hits against Burning Enemies", "Combinations": ["Guilt", "Suffering", "Fear"] },
+          { "Name": "Flurry", "Anoint Effect": "20% increased Area of Effect while Unarmed 25% reduced Damage with Unarmed Attacks 20% increased Unarmed Attack Speed", "Combinations": ["Fear", "Suffering", "Guilt"] },
+          { "Name": "Instant Reload", "Anoint Effect": "40% increased Crossbow Reload Speed", "Combinations": ["Fear", "Guilt", "Suffering"] },
+          { "Name": "Path of Flame", "Anoint Effect": "18% increased Fire Damage 30% increased chance to Ignite Witch: 15% increased Critical Hit Chance for Spells Witch: 18% increased Physical Damage", "Combinations": ["Suffering", "Fear", "Greed"] },
+          { "Name": "Crystal Elixir", "Anoint Effect": "40% increased Elemental Damage with Attack Skills during any Flask Effect", "Combinations": ["Fear", "Suffering", "Greed"] },
+          { "Name": "Deflection", "Anoint Effect": "30% increased Block chance You take 10% of damage from Blocked Hits", "Combinations": ["Greed", "Fear", "Suffering"] },
+          { "Name": "Ancestral Unity", "Anoint Effect": "Totems have 4% increased Attack Speed per Summoned Totem", "Combinations": ["Suffering", "Fear", "Envy"] },
+          { "Name": "Spectral Ward", "Anoint Effect": "+1 to Maximum Energy Shield per 12 Evasion Rating on Equipped Body Armour", "Combinations": ["Envy", "Fear", "Suffering"] },
+          { "Name": "Warding Fetish", "Anoint Effect": "30% increased Damage per Curse on you 30% reduced effect of Curses on you 60% increased Energy Shield from Equipped Focus", "Combinations": ["Fear", "Suffering", "Envy"] },
+          { "Name": "Immortal Infamy", "Anoint Effect": "10% increased Energy Shield Recharge Rate Recover 2% of Life on Kill +10 to Intelligence", "Combinations": ["Envy", "Suffering", "Fear"] },
+          { "Name": "Savagery", "Anoint Effect": "50% increased Evasion Rating if you've consumed a Frenzy Charge Recently +1 to Maximum Frenzy Charges", "Combinations": ["Suffering", "Fear", "Paranoia"] },
+          { "Name": "Tides of Change", "Anoint Effect": "25% increased Skill Effect Duration", "Combinations": ["Paranoia", "Suffering", "Fear"] },
+          { "Name": "Feral Force", "Anoint Effect": "25% increased Attack Damage", "Combinations": ["Fear", "Suffering", "Paranoia"] },
+          { "Name": "Finesse", "Anoint Effect": "10% increased Accuracy Rating Gain Accuracy Rating equal to your Intelligence", "Combinations": ["Fear", "Suffering", "Disgust"] },
+          { "Name": "Dreamcatcher", "Anoint Effect": "25% increased Spell Damage while on Full Energy Shield 75% increased Energy Shield from Equipped Focus", "Combinations": ["Disgust", "Suffering", "Fear"] },
+          { "Name": "Greatest Defence", "Anoint Effect": "2% increased Attack Damage per 75 Armour or Evasion Rating on Shield", "Combinations": ["Suffering", "Fear", "Disgust"] },
+          { "Name": "Bleeding Out", "Anoint Effect": "+250 to Accuracy against Bleeding Enemies Bleeding you inflict deals Damage 10% faster", "Combinations": ["Despair", "Suffering", "Fear"] },
+          { "Name": "Ignore Pain", "Anoint Effect": "Gain 3 Rage when Hit by an Enemy Every Rage also grants 2% increased Stun Threshold", "Combinations": ["Despair", "Fear", "Suffering"] },
+          { "Name": "Equilibrium", "Anoint Effect": "30% increased Attack Damage if you've Cast a Spell Recently 10% increased Cast Speed if you've Attacked Recently", "Combinations": ["Fear", "Suffering", "Despair"] },
+          { "Name": "Swift Claw", "Anoint Effect": "25% increased Attack Damage", "Combinations": ["Suffering", "Fear", "Despair"] },
+          { "Name": "Spiked Shield", "Anoint Effect": "50% increased Defences from Equipped Shield 1% increased Attack Damage per 75 Armour or Evasion Rating on Shield", "Combinations": ["Fear", "Suffering", "Fear"] },
+          { "Name": "Carved Earth", "Anoint Effect": "20% increased Totem Damage 6% increased Attack and Cast Speed if you've summoned a Totem Recently", "Combinations": ["Suffering", "Suffering", "Ire"] },
+          { "Name": "Pure Power", "Anoint Effect": "2% increased Lightning Damage per 10 Intelligence", "Combinations": ["Suffering", "Guilt", "Suffering"] },
+          { "Name": "Power Conduction", "Anoint Effect": "25% increased Shock Duration 25% increased Magnitude of Shock you inflict", "Combinations": ["Guilt", "Suffering", "Suffering"] },
+          { "Name": "Perfect Opportunity", "Anoint Effect": "30% increased Stun Buildup Damage with Hits is Lucky against Heavy Stunned Enemies", "Combinations": ["Ire", "Suffering", "Suffering"] },
+          { "Name": "Fulmination", "Anoint Effect": "40% increased chance to Ignite 40% increased Damage with Hits against Ignited Enemies", "Combinations": ["Suffering", "Suffering", "Greed"] },
+          { "Name": "Leeching Toxins", "Anoint Effect": "30% increased Magnitude of Poison you inflict Recover 2% of Life on Killing a Poisoned Enemy", "Combinations": ["Greed", "Suffering", "Suffering"] },
+          { "Name": "Storm Swell", "Anoint Effect": "Damage Penetrates 15% Cold Resistance Damage Penetrates 8% Lightning Resistance", "Combinations": ["Envy", "Suffering", "Suffering"] },
+          { "Name": "Entropic Incarnation", "Anoint Effect": "Minions have +13% to Chaos Resistance Minions gain 8% of Physical Damage as Chaos Damage", "Combinations": ["Suffering", "Suffering", "Envy"] },
+          { "Name": "Illuminated Crown", "Anoint Effect": "20% increased Light Radius 70% increased Energy Shield from Equipped Helmet", "Combinations": ["Suffering", "Paranoia", "Suffering"] },
+          { "Name": "Breath of Ice", "Anoint Effect": "Damage Penetrates 15% Cold Resistance +10 to Intelligence", "Combinations": ["Suffering", "Disgust", "Suffering"] },
+          { "Name": "Watchtowers", "Anoint Effect": "Attack Skills have +1 to maximum number of Summoned Totems Skills that would Summon a Totem have 20% chance to Summon two Totems instead", "Combinations": ["Disgust", "Suffering", "Suffering"] },
+          { "Name": "Falcon Technique", "Anoint Effect": "1% increased Attack Speed per 15 Dexterity", "Combinations": ["Suffering", "Suffering", "Despair"] },
+          { "Name": "Ancestral Conduits", "Anoint Effect": "12% increased Attack and Cast Speed if you've summoned a Totem Recently", "Combinations": ["Despair", "Suffering", "Suffering"] },
+          { "Name": "Master of Hexes", "Anoint Effect": "25% reduced Curse Duration 18% increased Effect of your Curses", "Combinations": ["Suffering", "Fear", "Suffering"] },
+          { "Name": "Ancestral Artifice", "Anoint Effect": "Attack Skills have +1 to maximum number of Summoned Totems 20% increased Totem Placement range", "Combinations": ["Suffering", "Suffering", "Suffering"] },
+          { "Name": "Lust for Power", "Anoint Effect": "5% chance that if you would gain Power Charges , you instead gain up to your maximum number of Power Charges +1 to Maximum Power Charges", "Combinations": ["Isolation", "Guilt", "Guilt"] },
+          { "Name": "Spell Haste", "Anoint Effect": "15% increased Evasion Rating 8% increased Cast Speed", "Combinations": ["Ire", "Guilt", "Isolation"] },
+          { "Name": "Pile On", "Anoint Effect": "60% increased Damage against Enemies with Fully Broken Armour", "Combinations": ["Isolation", "Ire", "Ire"] },
+          { "Name": "Asceticism", "Anoint Effect": "Stun Threshold is based on 30% of your Energy Shield instead of Life", "Combinations": ["Isolation", "Ire", "Guilt"] },
+          { "Name": "Skullcrusher", "Anoint Effect": "20% more Damage against Heavy Stunned Enemies with Maces", "Combinations": ["Ire", "Isolation", "Ire"] },
+          { "Name": "Perpetual Freeze", "Anoint Effect": "15% increased Freeze Buildup 15% increased Chill and Freeze Duration on Enemies", "Combinations": ["Guilt", "Ire", "Isolation"] },
+          { "Name": "Wither Away", "Anoint Effect": "Unwithered enemies are Withered for 8 seconds when they enter your Presence 20% increased Effect of Withered", "Combinations": ["Guilt", "Guilt", "Isolation"] },
+          { "Name": "Dynamism", "Anoint Effect": "40% increased Damage if you've Triggered a Skill Recently Meta Skills gain 15% increased Energy", "Combinations": ["Isolation", "Greed", "Ire"] },
+          { "Name": "Refills", "Anoint Effect": "Life Flasks gain 0.15 charges per Second", "Combinations": ["Greed", "Ire", "Isolation"] },
+          { "Name": "Crushing Judgement", "Anoint Effect": "25% increased Armour Break Duration 25% increased Attack Area Damage", "Combinations": ["Greed", "Isolation", "Ire"] },
+          { "Name": "Shredding Force", "Anoint Effect": "15% increased Critical Hit Chance for Spells 15% increased Critical Spell Damage Bonus 15% increased Magnitude of Damaging Ailments you inflict with Critical Hits", "Combinations": ["Guilt", "Isolation", "Greed"] },
+          { "Name": "Firestarter", "Anoint Effect": "40% increased chance to Ignite Enemies Ignited by you have -5% to Fire Resistance", "Combinations": ["Greed", "Isolation", "Guilt"] },
+          { "Name": "Escalation", "Anoint Effect": "25% increased Warcry Speed 20% increased Damage for each different Warcry you've used Recently", "Combinations": ["Isolation", "Greed", "Guilt"] },
+          { "Name": "Full Salvo", "Anoint Effect": "25% increased Damage with Crossbows for each type of Ammunition fired in the past 10 seconds", "Combinations": ["Ire", "Isolation", "Greed"] },
+          { "Name": "Pure Chaos", "Anoint Effect": "Gain 11% of Damage as Extra Chaos Damage", "Combinations": ["Envy", "Isolation", "Guilt"] },
+          { "Name": "Endurance", "Anoint Effect": "+2 to Maximum Endurance Charges", "Combinations": ["Guilt", "Isolation", "Envy"] },
+          { "Name": "Impending Doom", "Anoint Effect": "40% faster Curse Activation Your Curses have 20% increased Effect if 50% of Curse Duration expired", "Combinations": ["Envy", "Isolation", "Ire"] },
+          { "Name": "Adamant Recovery", "Anoint Effect": "Increases and Reductions to Armour also apply to Energy Shield Recharge Rate at 40% of their value", "Combinations": ["Isolation", "Envy", "Ire"] },
+          { "Name": "Backstabbing", "Anoint Effect": "25% increased Critical Damage Bonus with Daggers", "Combinations": ["Envy", "Ire", "Isolation"] },
+          { "Name": "Versatile Arms", "Anoint Effect": "6% increased Attack Speed with One Handed Melee Weapons 15% increased Accuracy Rating with One Handed Melee Weapons +10 to Strength and Dexterity", "Combinations": ["Ire", "Isolation", "Envy"] },
+          { "Name": "Sturdy Mind", "Anoint Effect": "+30 to maximum Mana 14% increased Mana Regeneration Rate", "Combinations": ["Isolation", "Envy", "Guilt"] },
+          { "Name": "Burning Nature", "Anoint Effect": "25% increased Fire Damage 15% increased Ignite Duration on Enemies", "Combinations": ["Greed", "Isolation", "Greed"] },
+          { "Name": "Unforgiving", "Anoint Effect": "+4 to Maximum Rage Inherent Rage Loss starts 1 second later", "Combinations": ["Isolation", "Greed", "Greed"] },
+          { "Name": "Inner Faith", "Anoint Effect": "20% increased Evasion Rating 20% increased maximum Energy Shield 25% reduced effect of Curses on you", "Combinations": ["Envy", "Greed", "Isolation"] },
+          { "Name": "Spiral into Insanity", "Anoint Effect": "29% increased Chaos Damage 10% increased Global Defences", "Combinations": ["Greed", "Isolation", "Envy"] },
+          { "Name": "Overflowing Power", "Anoint Effect": "+2 to Maximum Power Charges", "Combinations": ["Isolation", "Envy", "Greed"] },
+          { "Name": "Storm Surge", "Anoint Effect": "Damage Penetrates 8% Cold Resistance Damage Penetrates 15% Lightning Resistance", "Combinations": ["Envy", "Isolation", "Greed"] },
+          { "Name": "Throatseeker", "Anoint Effect": "60% increased Critical Damage Bonus 20% reduced Critical Hit Chance", "Combinations": ["Greed", "Envy", "Isolation"] },
+          { "Name": "Crippling Toxins", "Anoint Effect": "25% chance for Attacks to Maim on Hit against Poisoned Enemies 25% increased Magnitude of Poison you inflict", "Combinations": ["Envy", "Isolation", "Envy"] },
+          { "Name": "Pinpoint Shot", "Anoint Effect": "Attacks gain increased Accuracy Rating equal to their Critical Hit Chance", "Combinations": ["Isolation", "Envy", "Envy"] },
+          { "Name": "Inescapable Cold", "Anoint Effect": "40% increased Freeze Buildup 20% increased Freeze Duration on Enemies", "Combinations": ["Ire", "Paranoia", "Isolation"] },
+          { "Name": "Energise", "Anoint Effect": "25% chance for Trigger skills to refund half of Energy Spent", "Combinations": ["Isolation", "Guilt", "Paranoia"] },
+          { "Name": "Whirling Onslaught", "Anoint Effect": "50% chance to gain Onslaught on Killing Blow with Axes", "Combinations": ["Isolation", "Ire", "Paranoia"] },
+          { "Name": "Flash Storm", "Anoint Effect": "30% increased chance to Shock Damage Penetrates 15% Lightning Resistance", "Combinations": ["Paranoia", "Ire", "Isolation"] },
+          { "Name": "One with the River", "Anoint Effect": "30% increased Defences while wielding a Staff 30% increased Stun Buildup with Quarterstaves 30% increased Daze Buildup with Quarterstaves 30% increased Freeze Buildup with Quarterstaves", "Combinations": ["Guilt", "Paranoia", "Isolation"] },
+          { "Name": "Reaching Strike", "Anoint Effect": "25% increased Melee Damage +2 to Melee Strike Range", "Combinations": ["Isolation", "Paranoia", "Guilt"] },
+          { "Name": "Glaciation", "Anoint Effect": "Damage Penetrates 18% Cold Resistance 25% increased Cold Exposure Effect", "Combinations": ["Paranoia", "Guilt", "Isolation"] },
+          { "Name": "Heavy Buffer", "Anoint Effect": "40% increased maximum Energy Shield 10% reduced maximum Life", "Combinations": ["Greed", "Paranoia", "Isolation"] },
+          { "Name": "Burnout", "Anoint Effect": "Ignites you inflict deal Damage 15% faster", "Combinations": ["Isolation", "Greed", "Paranoia"] },
+          { "Name": "Fast Acting Toxins", "Anoint Effect": "Damaging Ailments deal damage 12% faster", "Combinations": ["Paranoia", "Greed", "Isolation"] },
+          { "Name": "Invocated Efficiency", "Anoint Effect": "Recover 3% of Mana when you Invoke a Spell Triggered Spells deal 45% increased Spell Damage", "Combinations": ["Isolation", "Envy", "Paranoia"] },
+          { "Name": "Overload", "Anoint Effect": "Damage Penetrates 10% Lightning Resistance if on Low Mana Damage Penetrates 15% Lightning Resistance", "Combinations": ["Paranoia", "Isolation", "Envy"] },
+          { "Name": "Hold Focus", "Anoint Effect": "15% increased Effect of your Mark Skills", "Combinations": ["Envy", "Isolation", "Paranoia"] },
+          { "Name": "Incendiary", "Anoint Effect": "30% increased chance to Ignite 30% increased Damage with Hits against Burning Enemies", "Combinations": ["Isolation", "Disgust", "Guilt"] },
+          { "Name": "Marked for Sickness", "Anoint Effect": "Enemies you Mark take 10% increased Damage", "Combinations": ["Guilt", "Disgust", "Isolation"] },
+          { "Name": "Void", "Anoint Effect": "29% increased Chaos Damage Enemies you Curse have -3% to Chaos Resistance", "Combinations": ["Isolation", "Ire", "Disgust"] },
+          { "Name": "Battle Fever", "Anoint Effect": "5% increased Attack and Cast Speed 25% increased Physical Damage", "Combinations": ["Disgust", "Guilt", "Isolation"] },
+          { "Name": "Revenge", "Anoint Effect": "12% increased Attack Speed if you've been Hit Recently", "Combinations": ["Ire", "Disgust", "Isolation"] },
+          { "Name": "Savouring", "Anoint Effect": "20% chance for Flasks you use to not consume Charges", "Combinations": ["Disgust", "Ire", "Isolation"] },
+          { "Name": "Lucky Rabbit Foot", "Anoint Effect": "30% increased Damage while you have an active Charm 6% increased Movement Speed while you have an active Charm", "Combinations": ["Isolation", "Disgust", "Ire"] },
+          { "Name": "Snowpiercer", "Anoint Effect": "Damage Penetrates 15% Cold Resistance +10 to Intelligence", "Combinations": ["Isolation", "Guilt", "Disgust"] },
+          { "Name": "Lasting Incantations", "Anoint Effect": "20% increased Spell Damage 20% increased Skill Effect Duration", "Combinations": ["Isolation", "Greed", "Disgust"] },
+          { "Name": "Stand and Deliver", "Anoint Effect": "Projectiles have 40% increased Critical Damage Bonus against Enemies within 2m Projectiles deal 25% increased Damage with Hits against Enemies within 2m", "Combinations": ["Disgust", "Greed", "Isolation"] },
+          { "Name": "Pliable Flesh", "Anoint Effect": "6% of Damage taken Recouped as Life 25% increased speed of Recoup Effects", "Combinations": ["Greed", "Disgust", "Isolation"] },
+          { "Name": "Near at Hand", "Anoint Effect": "16% reduced Skill Effect Duration 10% reduced Slowing Potency of Debuffs on You", "Combinations": ["Paranoia", "Isolation", "Paranoia"] },
+          { "Name": "Falcon Dive", "Anoint Effect": "1% increased Attack Speed per 250 Accuracy Rating", "Combinations": ["Isolation", "Paranoia", "Paranoia"] },
+          { "Name": "Deterioration", "Anoint Effect": "Damaging Ailments Cannot Be inflicted on you while you already have one 20% increased Magnitude of Damaging Ailments you inflict", "Combinations": ["Paranoia", "Paranoia", "Isolation"] },
+          { "Name": "Exposed to the Inferno", "Anoint Effect": "Damage Penetrates 15% Fire Resistance Fire Exposure you inflict lowers Total Fire Resistance by an extra 5%", "Combinations": ["Isolation", "Envy", "Disgust"] },
+          { "Name": "Burning Strikes", "Anoint Effect": "Gain 12% of Physical Damage as Extra Fire Damage", "Combinations": ["Envy", "Disgust", "Isolation"] },
+          { "Name": "Exploit", "Anoint Effect": "25% increased Damage with Hits against Enemies affected by Elemental Ailments 15% increased Duration of Ignite , Shock and Chill on Enemies", "Combinations": ["Disgust", "Envy", "Isolation"] },
+          { "Name": "Breath of Lightning", "Anoint Effect": "Damage Penetrates 15% Lightning Resistance +10 to Dexterity", "Combinations": ["Disgust", "Paranoia", "Isolation"] },
+          { "Name": "Stacking Toxins", "Anoint Effect": "Targets can be affected by +1 of your Poisons at the same time 20% reduced Magnitude of Poison you inflict", "Combinations": ["Isolation", "Disgust", "Paranoia"] },
+          { "Name": "Psychic Fragmentation", "Anoint Effect": "12% chance for Spell Skills to fire 2 additional Projectiles", "Combinations": ["Paranoia", "Disgust", "Isolation"] },
+          { "Name": "Split the Earth", "Anoint Effect": "10% chance to Aftershock for Slam Skills you use with Maces 10% chance to Aftershock for Strike Skills you use with Maces", "Combinations": ["Isolation", "Paranoia", "Disgust"] },
+          { "Name": "Lingering Horror", "Anoint Effect": "23% increased Chaos Damage 15% increased Skill Effect Duration", "Combinations": ["Isolation", "Disgust", "Disgust"] },
+          { "Name": "Harness the Elements", "Anoint Effect": "15% increased Damage for each type of Elemental Ailment on Enemy", "Combinations": ["Disgust", "Disgust", "Isolation"] },
+          { "Name": "Soul Bloom", "Anoint Effect": "15% increased Energy Shield Recovery rate", "Combinations": ["Despair", "Ire", "Isolation"] },
+          { "Name": "Staggering Palm", "Anoint Effect": "20% increased Critical Damage Bonus 20% increased Knockback Distance 20% increased Physical Damage", "Combinations": ["Guilt", "Isolation", "Despair"] },
+          { "Name": "Event Horizon", "Anoint Effect": "53% increased Chaos Damage Lose 3% of Life and Energy Shield when you use a Chaos Skill", "Combinations": ["Despair", "Isolation", "Guilt"] },
+          { "Name": "Stormbreaker", "Anoint Effect": "15% increased Damage for each type of Elemental Ailment on Enemy", "Combinations": ["Isolation", "Despair", "Guilt"] },
+          { "Name": "Maiming Strike", "Anoint Effect": "25% increased Attack Damage Attacks have 25% chance to Maim on Hit", "Combinations": ["Despair", "Isolation", "Ire"] },
+          { "Name": "Grip of Evil", "Anoint Effect": "Minions have 40% increased Critical Damage Bonus", "Combinations": ["Isolation", "Despair", "Ire"] },
+          { "Name": "Kite Runner", "Anoint Effect": "3% increased Movement Speed 15% increased Projectile Speed 15% increased Projectile Damage", "Combinations": ["Ire", "Isolation", "Despair"] },
+          { "Name": "Climate Change", "Anoint Effect": "20% increased Freeze Buildup Gain 25% of Cold Damage as Extra Fire Damage against Frozen Enemies", "Combinations": ["Greed", "Isolation", "Despair"] },
+          { "Name": "Unexpected Finesse", "Anoint Effect": "10% increased Attack Damage Gain Accuracy Rating equal to your Strength", "Combinations": ["Despair", "Greed", "Isolation"] },
+          { "Name": "Blood Tearing", "Anoint Effect": "15% increased Magnitude of Bleeding you inflict 25% increased Physical Damage", "Combinations": ["Despair", "Isolation", "Greed"] },
+          { "Name": "Struck Through", "Anoint Effect": "Attacks have +1% to Critical Hit Chance", "Combinations": ["Isolation", "Despair", "Greed"] },
+          { "Name": "Cut to the Bone", "Anoint Effect": "Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt 10% chance to inflict Bleeding on Hit 20% increased Physical Damage", "Combinations": ["Despair", "Envy", "Isolation"] },
+          { "Name": "Lasting Toxins", "Anoint Effect": "10% increased Skill Effect Duration 50% increased Poison Duration", "Combinations": ["Despair", "Isolation", "Envy"] },
+          { "Name": "Exposed to the Storm", "Anoint Effect": "Damage Penetrates 18% Lightning Resistance 30% increased Critical Hit Chance against enemies with Lightning Exposure", "Combinations": ["Envy", "Isolation", "Despair"] },
+          { "Name": "Lingering Whispers", "Anoint Effect": "40% increased Curse Duration 10% increased Effect of your Curses", "Combinations": ["Isolation", "Despair", "Envy"] },
+          { "Name": "Pierce the Heart", "Anoint Effect": "Arrows Pierce an additional Target", "Combinations": ["Despair", "Isolation", "Paranoia"] },
+          { "Name": "Reusable Ammunition", "Anoint Effect": "15% chance for Crossbow Attacks to not consume a bolt", "Combinations": ["Paranoia", "Isolation", "Despair"] },
+          { "Name": "Tempered Mind", "Anoint Effect": "20% increased Critical Damage Bonus +10 to Strength 20% increased Physical Damage", "Combinations": ["Isolation", "Despair", "Paranoia"] },
+          { "Name": "Escalating Toxins", "Anoint Effect": "10% increased Poison Duration for each Poison you have inflicted Recently, up to a maximum of 100%", "Combinations": ["Despair", "Isolation", "Disgust"] },
+          { "Name": "Final Barrage", "Anoint Effect": "20% increased Cast Speed when on Low Life 10% reduced Cast Speed when on Full Life", "Combinations": ["Isolation", "Despair", "Disgust"] },
+          { "Name": "Fated End", "Anoint Effect": "30% increased Curse Duration Enemies Cursed by you have 50% reduced Life Regeneration Rate Enemies you Curse cannot Recharge Energy Shield", "Combinations": ["Disgust", "Isolation", "Despair"] },
+          { "Name": "Giantslayer", "Anoint Effect": "25% increased Damage with Hits against Rare and Unique Enemies 20% increased Accuracy Rating against Rare or Unique Enemies 20% increased chance to inflict Ailments against Rare or Unique Enemies", "Combinations": ["Despair", "Isolation", "Despair"] },
+          { "Name": "Endless Circuit", "Anoint Effect": "25% chance on Consuming a Shock on an Enemy to reapply it", "Combinations": ["Isolation", "Despair", "Despair"] },
+          { "Name": "Breath of Fire", "Anoint Effect": "Damage Penetrates 15% Fire Resistance +10 to Strength", "Combinations": ["Fear", "Ire", "Isolation"] },
+          { "Name": "Fervour", "Anoint Effect": "+2 to Maximum Frenzy Charges", "Combinations": ["Fear", "Guilt", "Isolation"] },
+          { "Name": "Cacophony", "Anoint Effect": "40% increased Damage with Warcries Warcry Skills have 25% increased Area of Effect", "Combinations": ["Isolation", "Guilt", "Fear"] },
+          { "Name": "Dampening Shield", "Anoint Effect": "28% increased maximum Energy Shield Gain 12% of maximum Energy Shield as additional Stun Threshold", "Combinations": ["Guilt", "Fear", "Isolation"] },
+          { "Name": "Death from Afar", "Anoint Effect": "Projectiles have 25% increased Critical Hit Chance against Enemies further than 6m Projectiles deal 25% increased Damage with Hits against Enemies further than 6m", "Combinations": ["Isolation", "Fear", "Guilt"] },
+          { "Name": "Martial Artistry", "Anoint Effect": "25% increased Accuracy Rating with Quarterstaves 25% increased Critical Damage Bonus with Quarterstaves +25 to Dexterity", "Combinations": ["Isolation", "Ire", "Fear"] },
+          { "Name": "Presence Present", "Anoint Effect": "Allies in your Presence have +100 to Accuracy Rating 35% increased Attack Damage while you have an Ally in your Presence", "Combinations": ["Ire", "Fear", "Isolation"] },
+          { "Name": "Exploit the Elements", "Anoint Effect": "24% increased Damage with Hits against Enemies affected by Elemental Ailments 30% increased chance to inflict Ailments against Rare or Unique Enemies", "Combinations": ["Greed", "Fear", "Isolation"] },
+          { "Name": "Fleshcrafting", "Anoint Effect": "Minions gain 15% of their Maximum Life as Extra Maximum Energy Shield", "Combinations": ["Isolation", "Greed", "Fear"] },
+          { "Name": "Casting Cascade", "Anoint Effect": "15% reduced Spell Damage 6% increased Cast Speed for each different Non-Instant Spell you've Cast Recently", "Combinations": ["Fear", "Greed", "Isolation"] },
+          { "Name": "Controlling Magic", "Anoint Effect": "25% increased Critical Hit Chance for Spells Hits have 25% reduced Critical Hit Chance against you", "Combinations": ["Envy", "Fear", "Isolation"] },
+          { "Name": "Smoke Inhalation", "Anoint Effect": "Damage Penetrates 15% Fire Resistance 15% increased Duration of Damaging Ailments on Enemies", "Combinations": ["Isolation", "Envy", "Fear"] },
+          { "Name": "Surging Currents", "Anoint Effect": "Damage Penetrates 15% Lightning Resistance +10 to Dexterity", "Combinations": ["Fear", "Envy", "Isolation"] },
+          { "Name": "Grenadier", "Anoint Effect": "Grenade Skills have + 1 Cooldown Use", "Combinations": ["Paranoia", "Fear", "Isolation"] },
+          { "Name": "Perfectly Placed Knife", "Anoint Effect": "30% increased Critical Hit Chance against Bleeding Enemies 20% chance to Aggravate Bleeding on targets you Critically Hit with Attacks", "Combinations": ["Fear", "Paranoia", "Isolation"] },
+          { "Name": "Exposed to the Cosmos", "Anoint Effect": "Damage Penetrates 15% Cold Resistance Cold Exposure you inflict lowers Total Cold Resistance by an extra 5%", "Combinations": ["Isolation", "Fear", "Paranoia"] },
+          { "Name": "Heartbreaking", "Anoint Effect": "35% increased Critical Damage Bonus +10 to Strength", "Combinations": ["Isolation", "Paranoia", "Fear"] },
+          { "Name": "Electric Amplification", "Anoint Effect": "Damage Penetrates 18% Lightning Resistance 25% increased Lightning Exposure Effect", "Combinations": ["Isolation", "Fear", "Disgust"] },
+          { "Name": "Battle Trance", "Anoint Effect": "+8 to Maximum Rage", "Combinations": ["Isolation", "Disgust", "Fear"] },
+          { "Name": "Offensive Stance", "Anoint Effect": "1% increased Damage per 1% Chance to Block", "Combinations": ["Disgust", "Fear", "Isolation"] },
+          { "Name": "Supportive Ancestors", "Anoint Effect": "25% increased Damage while you have a Totem Totems have 2% increased Cast Speed per Summoned Totem Totems have 2% increased Attack Speed per Summoned Totem", "Combinations": ["Fear", "Disgust", "Isolation"] },
+          { "Name": "Spaghettification", "Anoint Effect": "3% increased Movement Speed 29% increased Chaos Damage -13% to Chaos Resistance 23% reduced Light Radius 7% increased Attributes", "Combinations": ["Isolation", "Despair", "Fear"] },
+          { "Name": "Relentless Fallen", "Anoint Effect": "Minions have 20% increased Movement Speed Minions have 8% increased Attack and Cast Speed", "Combinations": ["Despair", "Fear", "Isolation"] },
+          { "Name": "Overzealous", "Anoint Effect": "16% increased Cast Speed 15% increased Mana Cost of Skills", "Combinations": ["Fear", "Despair", "Isolation"] },
+          { "Name": "Lightning Quick", "Anoint Effect": "14% increased Lightning Damage 8% increased Attack and Cast Speed with Lightning Skills", "Combinations": ["Fear", "Fear", "Isolation"] },
+          { "Name": "Glazed Flesh", "Anoint Effect": "3% of Damage Taken Recouped as Life, Mana and Energy Shield", "Combinations": ["Isolation", "Fear", "Fear"] },
+          { "Name": "Woodland Aspect", "Anoint Effect": "Charms applied to you have 25% increased Effect", "Combinations": ["Suffering", "Guilt", "Isolation"] },
+          { "Name": "Marked for Death", "Anoint Effect": "Culling Strike against Enemies you Mark", "Combinations": ["Isolation", "Suffering", "Guilt"] },
+          { "Name": "Forces of Nature", "Anoint Effect": "Attack Damage Penetrates 15% of Enemy Elemental Resistances", "Combinations": ["Suffering", "Isolation", "Ire"] },
+          { "Name": "Raw Mana", "Anoint Effect": "12% increased maximum Mana 10% increased Mana Cost of Skills", "Combinations": ["Suffering", "Ire", "Isolation"] },
+          { "Name": "Trick Shot", "Anoint Effect": "Projectiles have 15% chance to Chain an additional time from terrain", "Combinations": ["Suffering", "Isolation", "Guilt"] },
+          { "Name": "Total Incineration", "Anoint Effect": "25% increased Critical Damage Bonus against Burning Enemies 10% chance to refresh Ignite Duration on Critical Hit", "Combinations": ["Guilt", "Isolation", "Suffering"] },
+          { "Name": "Ingenuity", "Anoint Effect": "+25 to Intelligence", "Combinations": ["Ire", "Isolation", "Suffering"] },
+          { "Name": "Drenched", "Anoint Effect": "40% increased chance to Shock Gain 5% of Lightning Damage as Extra Cold Damage", "Combinations": ["Isolation", "Suffering", "Ire"] },
+          { "Name": "Low Tolerance", "Anoint Effect": "60% increased Effect of Poison you inflict on targets that are not Poisoned", "Combinations": ["Suffering", "Greed", "Isolation"] },
+          { "Name": "General Electric", "Anoint Effect": "40% increased chance to Shock 5% increased Attack and Cast Speed with Lightning Skills", "Combinations": ["Isolation", "Suffering", "Greed"] },
+          { "Name": "Overexposure", "Anoint Effect": "30% increased Cold Exposure Effect 30% increased Fire Exposure Effect 30% increased Lightning Exposure Effect", "Combinations": ["Suffering", "Isolation", "Greed"] },
+          { "Name": "Voracious", "Anoint Effect": "20% of Leech is Instant", "Combinations": ["Greed", "Isolation", "Suffering"] },
+          { "Name": "Left Hand of Darkness", "Anoint Effect": "Minions have 20% additional Physical Damage Reduction Minions have +23% to Chaos Resistance", "Combinations": ["Isolation", "Suffering", "Envy"] },
+          { "Name": "Right Hand of Darkness", "Anoint Effect": "Minions have 20% increased Area of Effect Minions have 10% chance to inflict Withered on Hit", "Combinations": ["Envy", "Isolation", "Suffering"] },
+          { "Name": "Effervescent", "Anoint Effect": "4% increased Cast Speed for each different Non-Instant Spell you've Cast Recently", "Combinations": ["Suffering", "Isolation", "Envy"] },
+          { "Name": "Stars Aligned", "Anoint Effect": "Damage with Hits is Lucky against Enemies that are on Low Life", "Combinations": ["Suffering", "Envy", "Isolation"] },
+          { "Name": "Volcanic Skin", "Anoint Effect": "Gain 8% of Damage as Extra Fire Damage +20% to Fire Resistance", "Combinations": ["Suffering", "Isolation", "Paranoia"] },
+          { "Name": "Polymathy", "Anoint Effect": "10% increased Attributes", "Combinations": ["Isolation", "Suffering", "Paranoia"] },
+          { "Name": "Power Shots", "Anoint Effect": "15% reduced Attack Speed with Crossbows 80% increased Critical Damage Bonus with Crossbows", "Combinations": ["Paranoia", "Isolation", "Suffering"] },
+          { "Name": "Cluster Bombs", "Anoint Effect": "50% increased Grenade fuse duration Grenade Skills Fire an additional Projectile", "Combinations": ["Suffering", "Isolation", "Disgust"] },
+          { "Name": "One with the Storm", "Anoint Effect": "Quarterstaff Skills that consume Power Charges count as consuming an additional Power Charge", "Combinations": ["Isolation", "Suffering", "Disgust"] },
+          { "Name": "Coming Calamity", "Anoint Effect": "50% increased Cold Damage while affected by Herald of Ice 50% increased Fire Damage while affected by Herald of Ash 50% increased Lightning Damage while affected by Herald of Thunder", "Combinations": ["Disgust", "Isolation", "Suffering"] },
+          { "Name": "Touch the Arcane", "Anoint Effect": "40% increased effect of Arcane Surge on you", "Combinations": ["Despair", "Isolation", "Suffering"] },
+          { "Name": "Repeating Explosives", "Anoint Effect": "Grenades have 15% chance to activate a second time", "Combinations": ["Suffering", "Despair", "Isolation"] },
+          { "Name": "Calibration", "Anoint Effect": "30% increased maximum Energy Shield 4% increased maximum Mana", "Combinations": ["Suffering", "Isolation", "Despair"] },
+          { "Name": "Sniper", "Anoint Effect": "Arrows gain Critical Hit Chance as they travel farther, up to 60% increased Critical Hit Chance", "Combinations": ["Isolation", "Suffering", "Despair"] },
+          { "Name": "Urgent Call", "Anoint Effect": "Recover 2% of Life and Mana when you use a Warcry 24% increased Warcry Speed 18% increased Warcry Cooldown Recovery Rate", "Combinations": ["Fear", "Isolation", "Suffering"] },
+          { "Name": "Endless Blizzard", "Anoint Effect": "+1 to Level of all Cold Skills", "Combinations": ["Isolation", "Suffering", "Fear"] },
+          { "Name": "Sudden Infuriation", "Anoint Effect": "3% chance that if you would gain Rage on Hit , you instead gain up to your maximum Rage", "Combinations": ["Fear", "Suffering", "Isolation"] },
+          { "Name": "Patient Barrier", "Anoint Effect": "60% increased maximum Energy Shield 20% slower start of Energy Shield Recharge", "Combinations": ["Suffering", "Isolation", "Fear"] },
+          { "Name": "Feathered Fletching", "Anoint Effect": "Increases and Reductions to Projectile Speed also apply to Damage with Bows", "Combinations": ["Isolation", "Suffering", "Suffering"] },
+          { "Name": "Fast Metabolism", "Anoint Effect": "Life Leech effects are not removed when Unreserved Life is Filled", "Combinations": ["Suffering", "Isolation", "Suffering"] },
+          { "Name": "Eldritch Will", "Anoint Effect": "3% increased maximum Life, Mana and Energy Shield Gain 20% of maximum Energy Shield as additional Stun Threshold", "Combinations": ["Isolation", "Guilt", "Isolation"] },
+          { "Name": "Goring", "Anoint Effect": "5% reduced maximum Life 30% increased amount of Life Leeched 40% increased Physical Damage", "Combinations": ["Ire", "Isolation", "Isolation"] },
+          { "Name": "Lord of Horrors", "Anoint Effect": "Minions have 12% reduced Reservation", "Combinations": ["Isolation", "Isolation", "Ire"] },
+          { "Name": "Spike Pit", "Anoint Effect": "Enemies in Jagged Ground you create take 10% increased Damage", "Combinations": ["Isolation", "Isolation", "Greed"] },
+          { "Name": "Building Toxins", "Anoint Effect": "25% reduced Poison Duration Targets can be affected by +1 of your Poisons at the same time", "Combinations": ["Greed", "Isolation", "Isolation"] },
+          { "Name": "Unimpeded", "Anoint Effect": "24% reduced Slowing Potency of Debuffs on You", "Combinations": ["Isolation", "Envy", "Isolation"] },
+          { "Name": "Wide Barrier", "Anoint Effect": "30% increased Block chance 25% reduced Global Defences", "Combinations": ["Envy", "Isolation", "Isolation"] },
+          { "Name": "Zone of Control", "Anoint Effect": "40% increased Area of Effect of Curses 8% increased Effect of your Curses Enemies you Curse are Hindered , with 15% reduced Movement Speed", "Combinations": ["Isolation", "Isolation", "Envy"] },
+          { "Name": "Catalysis", "Anoint Effect": "20% increased Elemental Damage with Attacks 5% of Physical Damage from Hits taken as Damage of a Random Element", "Combinations": ["Isolation", "Isolation", "Paranoia"] },
+          { "Name": "Enhanced Barrier", "Anoint Effect": "25% increased maximum Energy Shield +1% to all Maximum Elemental Resistances", "Combinations": ["Isolation", "Paranoia", "Isolation"] },
+          { "Name": "Cremation", "Anoint Effect": "Damage Penetrates 18% Fire Resistance 25% increased Fire Exposure Effect", "Combinations": ["Isolation", "Disgust", "Isolation"] },
+          { "Name": "Vocal Empowerment", "Anoint Effect": "Warcries Empower an additional Attack", "Combinations": ["Isolation", "Isolation", "Despair"] },
+          { "Name": "Dark Entries", "Anoint Effect": "+1 to Level of all Chaos Skills", "Combinations": ["Despair", "Isolation", "Isolation"] },
+          { "Name": "Enraged Reaver", "Anoint Effect": "+ 10 to Maximum Rage while wielding an Axe", "Combinations": ["Isolation", "Isolation", "Fear"] },
+          { "Name": "Wild Storm", "Anoint Effect": "15% more Maximum Lightning Damage", "Combinations": ["Isolation", "Fear", "Isolation"] },
+          { "Name": "Lightning Rod", "Anoint Effect": "Lightning Damage with Non-Critical Hits is Lucky", "Combinations": ["Suffering", "Isolation", "Isolation"] },
+          { "Name": "Prism Guard", "Anoint Effect": "+1% to all Maximum Elemental Resistances +5% to all Elemental Resistances", "Combinations": ["Isolation", "Isolation", "Suffering"] },
+          { "Name": "Unnatural Resilience", "Anoint Effect": "2% to Maximum Fire Resistance for each 40% Uncapped Fire Resistance", "Combinations": ["Isolation", "Isolation", "Isolation"]
