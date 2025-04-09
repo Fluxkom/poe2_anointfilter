@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -208,7 +208,11 @@
         .emotion-Despair { border-left: 4px solid #808080; } /* Gray */
         .emotion-Fear { border-left: 4px solid #000000; color: #ccc; } /* Black */
         .emotion-Suffering { border-left: 4px solid #b30000; } /* Dark Red */
-        .emotion-Isolation { border-left: 4px solid #ffffff; color: #333 } /* White */
+        /* --- Isolation Color Fix --- */
+        .emotion-Isolation {
+            border-left: 4px solid #ffffff;
+            color: #e0e0e0; /* Changed from #333 to light gray for readability */
+        }
 
         /* Combo Text Colors */
         .combo-Ire { color: #ff4d4d; font-weight: bold; }
@@ -220,7 +224,7 @@
         .combo-Despair { color: #a0a0a0; font-weight: bold; }
         .combo-Fear { color: #555; font-weight: bold; }
         .combo-Suffering { color: #b30000; font-weight: bold; }
-        .combo-Isolation { color: #f0f0f0; font-weight: bold; }
+        .combo-Isolation { color: #f0f0f0; font-weight: bold; } /* Already light, should be fine */
 
     </style>
 </head>
@@ -230,33 +234,33 @@
         <h1>Path of Exile - Anoint Finder</h1>
 
         <div class="filter-section">
-            <h3>Filteroptionen</h3>
+            <h3>Filter Options</h3>
             <div id="emotionSelection">
-                <!-- Controls werden hier per JavaScript eingefügt -->
+                <!-- Controls will be inserted here by JavaScript -->
             </div>
             <div id="searchContainer">
-                 <input type="text" id="searchInput" placeholder="Suche nach Name oder Effekt...">
+                 <input type="text" id="searchInput" placeholder="Search by Name or Effect...">
             </div>
         </div>
 
 
-        <h2>Mögliche Anoints (<span id="resultCount">...</span>):</h2>
+        <h2>Possible Anoints (<span id="resultCount">...</span>):</h2>
         <div id="results">
-             <div id="loadingMessage">Lade Anoint-Daten...</div>
+             <div id="loadingMessage">Loading anoint data...</div>
              <div id="errorMessage"></div>
             <table id="resultsTable">
                 <thead>
                     <tr>
                         <th>Name</th>
-                        <th>Anoint Effekt</th>
-                        <th>Kombination</th>
+                        <th>Anoint Effect</th>
+                        <th>Combination</th>
                     </tr>
                 </thead>
                 <tbody id="resultsTableBody">
-                    <!-- Ergebnisse werden hier per JavaScript eingefügt -->
+                    <!-- Results will be inserted here by JavaScript -->
                 </tbody>
             </table>
-            <div id="noResultsMessage">Keine passenden Anoints für die aktuellen Filter gefunden.</div>
+            <div id="noResultsMessage">No matching anoints found for the current filters.</div>
         </div>
     </div>
 
@@ -313,7 +317,7 @@
                 ['1', '2', '3'].forEach(num => {
                     const option = document.createElement('option');
                     option.value = num;
-                    option.textContent = (num === '3') ? '3+' : num;
+                    option.textContent = (num === '3') ? '3+' : num; // Keep '3+' for clarity
                     if (num === '3') {
                         option.selected = true; // Default to 3+
                     }
@@ -426,7 +430,7 @@
              errorMessage.style.display = 'none';
              noResultsMessage.style.display = 'none';
              resultsTableBody.innerHTML = ''; // Clear table while loading
-             resultCountSpan.textContent = '...';
+             resultCountSpan.textContent = '...'; // Indicate loading in count too
 
 
             try {
@@ -444,9 +448,10 @@
             } catch (error) {
                  console.error('Error loading or parsing anoints_data.json:', error);
                  loadingMessage.style.display = 'none';
-                 errorMessage.textContent = `Fehler beim Laden der Daten (${error.message}). Stelle sicher, dass die Datei 'anoints_data.json' im selben Ordner wie die HTML-Datei liegt und korrekt formatiert ist.`;
+                 // Updated error message to English
+                 errorMessage.textContent = `Error loading data (${error.message}). Please ensure 'anoints_data.json' is in the same folder as the HTML file and is correctly formatted.`;
                  errorMessage.style.display = 'block';
-                 resultCountSpan.textContent = 'Fehler';
+                 resultCountSpan.textContent = 'Error'; // Indicate error in count
             }
         }
 
