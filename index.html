@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Path of Exile 2 - Anoint Finder</title>
+    <title>Path of Exile - Anoint Finder</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -54,8 +54,8 @@
 
         #emotionSelection {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Wider columns for count */
-            gap: 15px; /* Increased gap */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
             margin-bottom: 20px;
         }
 
@@ -67,6 +67,8 @@
             border-radius: 4px;
             border: 1px solid #555;
             transition: background-color 0.2s ease;
+            /* Default text color */
+            color: #e0e0e0;
         }
          .emotion-control:hover {
              background-color: #484848;
@@ -78,20 +80,21 @@
             width: 16px;
             height: 16px;
             cursor: pointer;
-            flex-shrink: 0; /* Prevent checkbox shrinking */
+            flex-shrink: 0;
         }
 
          .emotion-control label {
              flex-grow: 1;
              margin-right: 10px;
              cursor: pointer;
-             /* Prevent text selection when clicking */
-             -webkit-user-select: none; /* Safari */
-             -ms-user-select: none; /* IE 10 and IE 11 */
-             user-select: none; /* Standard syntax */
-             overflow: hidden; /* Prevent long labels breaking layout */
+             -webkit-user-select: none;
+             -ms-user-select: none;
+             user-select: none;
+             overflow: hidden;
              text-overflow: ellipsis;
              white-space: nowrap;
+             /* Inherit color from parent .emotion-control */
+             color: inherit;
          }
 
         .emotion-control select {
@@ -101,9 +104,9 @@
             border: 1px solid #666;
             border-radius: 3px;
             font-size: 0.9em;
-            min-width: 50px; /* Ensure select is not too small */
+            min-width: 50px;
             cursor: pointer;
-            flex-shrink: 0; /* Prevent select shrinking */
+            flex-shrink: 0;
         }
 
         #searchContainer {
@@ -117,7 +120,7 @@
             background-color: #404040;
             color: #e0e0e0;
             border-radius: 4px;
-            box-sizing: border-box; /* Include padding in width */
+            box-sizing: border-box;
             font-size: 1em;
         }
          #searchInput::placeholder {
@@ -129,7 +132,7 @@
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
-            table-layout: fixed; /* Helps with column widths */
+            table-layout: fixed;
         }
 
         #resultsTable th, #resultsTable td {
@@ -137,21 +140,20 @@
             padding: 10px 12px;
             text-align: left;
             vertical-align: top;
-            word-wrap: break-word; /* Allow long words/effects to wrap */
+            word-wrap: break-word;
         }
 
         #resultsTable th {
             background-color: #3a3a3a;
-            color: #ffaf00; /* PoE Orange */
+            color: #ffaf00;
             font-weight: bold;
-            position: sticky; /* Make header sticky */
-            top: 0; /* Stick to the top */
-            z-index: 1; /* Ensure header is above table rows */
+            position: sticky;
+            top: 0;
+            z-index: 1;
         }
-        /* Define column widths */
-        #resultsTable th:nth-child(1), #resultsTable td:nth-child(1) { width: 25%; } /* Name */
-        #resultsTable th:nth-child(2), #resultsTable td:nth-child(2) { width: 55%; } /* Effect */
-        #resultsTable th:nth-child(3), #resultsTable td:nth-child(3) { width: 20%; } /* Combination */
+        #resultsTable th:nth-child(1), #resultsTable td:nth-child(1) { width: 25%; }
+        #resultsTable th:nth-child(2), #resultsTable td:nth-child(2) { width: 55%; }
+        #resultsTable th:nth-child(3), #resultsTable td:nth-child(3) { width: 20%; }
 
 
         #resultsTable tbody tr:nth-child(odd) {
@@ -177,10 +179,11 @@
          #resultsTable .anoint-combo {
             color: #a0a0a0;
             font-style: italic;
-            white-space: normal; /* Allow combo wrapping if needed */
+            white-space: normal;
          }
          #resultsTable .anoint-combo span {
-             white-space: nowrap; /* Keep individual emotion names together */
+             white-space: nowrap;
+             font-weight: bold; /* Make combo text bold */
          }
 
         #noResultsMessage, #loadingMessage, #errorMessage {
@@ -188,50 +191,52 @@
             padding: 20px;
             font-style: italic;
             color: #888;
-            display: none; /* Hidden by default */
+            display: none;
             margin-top: 15px;
             background-color: #333;
             border-radius: 4px;
         }
         #errorMessage {
-            color: #ff6666; /* Red for errors */
+            color: #ff6666;
             font-weight: bold;
         }
 
-        /* Emotion Color Mapping */
-        .emotion-Ire { border-left: 4px solid #ff4d4d; } /* Red */
-        .emotion-Guilt { border-left: 4px solid #4da6ff; } /* Blue */
-        .emotion-Greed { border-left: 4px solid #ffd700; } /* Gold */
-        .emotion-Paranoia { border-left: 4px solid #cc66ff; } /* Purple */
-        .emotion-Envy { border-left: 4px solid #66ff66; } /* Green */
-        .emotion-Disgust { border-left: 4px solid #ff8c1a; } /* Orange */
-        .emotion-Despair { border-left: 4px solid #808080; } /* Gray */
-        .emotion-Fear { border-left: 4px solid #000000; color: #ccc; } /* Black */
-        .emotion-Suffering { border-left: 4px solid #b30000; } /* Dark Red */
-        /* --- Isolation Color Fix --- */
-        .emotion-Isolation {
-            border-left: 4px solid #ffffff;
-            color: #e0e0e0; /* Changed from #333 to light gray for readability */
-        }
+        /* --- NEW Emotion Color Mapping --- */
+        /* Filter Borders */
+        .emotion-Ire { border-left: 4px solid #E63946; }       /* Red */
+        .emotion-Guilt { border-left: 4px solid #FF00FF; }     /* Magenta */
+        .emotion-Greed { border-left: 4px solid #FFA500; }     /* Orange */
+        .emotion-Paranoia { border-left: 4px solid #FFD700; }  /* Yellow/Gold */
+        .emotion-Envy { border-left: 4px solid #7CFC00; }      /* LimeGreen (LawnGreen) */
+        .emotion-Disgust { border-left: 4px solid #B8860B; }   /* Dark Yellow-Green (DarkGoldenrod) */
+        .emotion-Despair { border-left: 4px solid #4169E1; }   /* Dark Blue (RoyalBlue) */
+        .emotion-Fear { border-left: 4px solid #9370DB; }      /* Violet Purple (MediumPurple) */
+        .emotion-Suffering { border-left: 4px solid #333333; }   /* Black (using dark gray border for visibility) */
+        .emotion-Isolation { border-left: 4px solid #D3D3D3; } /* Grey-White (LightGray) */
 
-        /* Combo Text Colors */
-        .combo-Ire { color: #ff4d4d; font-weight: bold; }
-        .combo-Guilt { color: #4da6ff; font-weight: bold; }
-        .combo-Greed { color: #ffd700; font-weight: bold; }
-        .combo-Envy { color: #66ff66; font-weight: bold; }
-        .combo-Paranoia { color: #cc66ff; font-weight: bold; }
-        .combo-Disgust { color: #ff8c1a; font-weight: bold; }
-        .combo-Despair { color: #a0a0a0; font-weight: bold; }
-        .combo-Fear { color: #555; font-weight: bold; }
-        .combo-Suffering { color: #b30000; font-weight: bold; }
-        .combo-Isolation { color: #f0f0f0; font-weight: bold; } /* Already light, should be fine */
+        /* Override text color for specific filters if needed for contrast */
+        .emotion-Suffering { color: #cccccc; } /* Ensure light text for black/dark border */
+
+
+        /* Combination Text Colors */
+        .combo-Ire { color: #E63946; }
+        .combo-Guilt { color: #FF00FF; }
+        .combo-Greed { color: #FFA500; }
+        .combo-Paranoia { color: #FFD700; }
+        .combo-Envy { color: #7CFC00; }
+        .combo-Disgust { color: #B8860B; }
+        .combo-Despair { color: #6495ED; } /* Lighter blue (CornflowerBlue) for text */
+        .combo-Fear { color: #9370DB; }
+        .combo-Suffering { color: #BBBBBB; } /* Light gray for black */
+        .combo-Isolation { color: #D3D3D3; }
+
 
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h1>Path of Exile 2 - Anoint Finder</h1>
+        <h1>Path of Exile - Anoint Finder</h1>
 
         <div class="filter-section">
             <h3>Filter Options</h3>
@@ -287,7 +292,10 @@
         }
 
         function formatCombination(combinations) {
-            return combinations.map(combo => `<span class="combo-${combo}">${combo}</span>`).join(', ');
+            // Map combinations to spans with color classes
+             return combinations
+                .map(combo => `<span class="combo-${combo}">${combo}</span>`)
+                .join(', '); // Join with comma and space
         }
 
         // --- Core Functions ---
@@ -358,7 +366,7 @@
                     effectCell.classList.add('anoint-effect');
 
                     const comboCell = row.insertCell();
-                    comboCell.innerHTML = formatCombination(anoint.Combinations);
+                    comboCell.innerHTML = formatCombination(anoint.Combinations); // Use the helper
                     comboCell.classList.add('anoint-combo');
                 });
             }
